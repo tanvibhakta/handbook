@@ -3,7 +3,7 @@
 
 ## A little background
 
-We started Uncommon six years ago  and have since grown to a team of 20+ deeply-skilled craftspeople interested in design, technology, people and the intersection between these three. But there is a problem. Right from the get-go, our founding team was entirely male and between the ages of 25 and 30.
+We started Obvious six years ago and have since grown to a team of 20+ deeply-skilled craftspeople interested in design, technology, people and the intersection between these three. But there is a problem. Right from the get-go, our founding team was entirely male and between the ages of 25 and 30.
 
 We know that we live and work in a world where certain groups are underrepresented in most spheres of work. In the design and technology space in India, most organisations are largely homogeneous entities with people whose experiences of life are by and large the same. Underrepresentation is most visible in terms of gender, sexual orietntation, disability and caste. We’ve been thinking about this, and about the ways in which we can change the status quo in our workplace. 
 
