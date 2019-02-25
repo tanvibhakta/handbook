@@ -50,14 +50,3 @@ Interns receive their offer letters through Zenefits, and are paid hourly.
 Tidepool often engages with volunteers, most typically with software developers as Open Source contributors, but sometimes also with volunteer program managers, user experience designers or beta testers.
 
 Volunteers who are producing and contributing source code or user interface designs will be asked to complete Tidepool's [Volunteer Contributor License Agreement (VCLA)](http://developer.tidepool.io/contributors/).
-
-## Pro-bono arrangements
-
-Occasionally, Tidepool is offered pro bono services for which we are very grateful! Tidepool currently works and receives pro bono services from:
-* [Wilson, Marshall and Taylor](http://wmtlaw.com/) - legal services, Kurt Taylor, General Counsel and Board Secretary
-* [Pillsbury Winthrop Shaw Pittman](https://www.pillsburylaw.com/en/) - legal services
-
-In the past, Tidepool has also received pro bono services from:
-* [Barrel NY](https://www.barrelny.com/) - web design
-* [A Hundred Monkeys](http://www.ahundredmonkeys.com/) - naming and branding
-* [Greenberg Traurig](https://www.gtlaw.com/en) - legal services

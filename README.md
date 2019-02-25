@@ -21,16 +21,6 @@ If these policies sound like a place where you want to work, check out our jobs 
 ## Introduction
 
 ## Employment Policies
-* [Working with Obvious](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Working%20with%20Obvious.md)
-* [Equal Opportunity Employment](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-* [At-Will Employment](https://github.com/obvious/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Compensation](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Compensation.md)
-* [Code of Conduct](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md)
-* [Complaint Policy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
-* [Drug and Alcohol Policy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
-* [Working Remotely](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
-* [Confidentiality and Privacy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Confidentiality%20and%20Privacy.md)
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
@@ -40,22 +30,12 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Handbook Introduction](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Health%20Insurance%20and%20Other%20Benefits.md)
-* [Vacation and Sick Leave](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [Sabbatical](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
-* [New Parent Leave](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
-
 
 ## Operations Documents
 * [Diversity and Sourcing Candidates](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Diversity%20and%20Sourcing%20Candidates.md)
 * [Effective Meetings](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Interview Process](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 * [Finances](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Finances.md)
-* [Hack Weeks](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
 
 ## Onboarding Documents
 * [Welcome to Obvious](https://github.com/obvious/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Obvious.md)

@@ -1,9 +1,7 @@
-# Confidentiality and Privacy at Tidepool
+# Confidentiality and Privacy at Obvious
 
-In general, Tidepool is an extremely open company. Part of our mission is to transfer as much of our knowledge, intellectual property and work product to the public as we can, because we feel like that's better for the diabetes community. Examples of things that we explicitly make public:
-* Our source code.
-* Our finances (e.g., tax returns, audit documents and other public filings).
-* Our regulatory quality system.
+In general, Obvious is an extremely open company. Part of our mission is to transfer as much of our knowledge, intellectual property and work product to the public as we can, because we feel like that's better for the world. Examples of things that we explicitly make public:
+* Our source code
 * Our user interface designs.
 * Our product planning boards.
 
@@ -19,7 +17,7 @@ Even with our commitment to openness, we don't make everything public. For examp
 
 And, of course, we keep all of our user's Protected Health Information (PHI) confidential. As part of your onboarding, and then each year thereafter, you will be required to read HIPAA training and to undergo an audit of your computer and mobile devices. Our publicly available HIPAA training materials and audit template documents are [here](https://drive.google.com/open?id=0B_hEFGzOB67gSERseGFTem92SW8).
 
-In general, unless your job requires you to do so (e.g., for a project, or for debugging a specific issue, or for providing customer support), **you should never make copies or publicly reveal any of our user's info, including names, email addresses or anything they store in their Tidepool account (on prd or int - which house our HIPAA-compliant data).**
+In general, unless your job requires you to do so (e.g., for a project, or for debugging a specific issue, or for providing customer support), **you should never make copies or publicly reveal any of our user's info, including names, email addresses or anything they store in their Obvious account (on prd or int - which house our HIPAA-compliant data).**
 
 It may not always be obvious what is and is not confidential. If you are ever unsure, it's always best to assume that it is confidential and ask the Chief Privacy Officer (currently Howard).
 
@@ -29,7 +27,7 @@ It may not always be obvious what is and is not confidential. If you are ever un
 
 In general, if we already make it public, then you get the same rights that everyone else in the public gets. We release most of our source code under BSD 2, and most of our regulatory, design and web content is made public under CC-BY-SA 4.0.
 
-In general, other stuff that isn't explicitly made made public should be considered confidential. You should not make personal copies of this stuff or send it to parties outside of Tidepool without checking with the Chief Privacy Officer (currently Howard) first.
+In general, other stuff that isn't explicitly made made public should be considered confidential. You should not make personal copies of this stuff or send it to parties outside of Obvious without checking with the Chief Privacy Officer (currently Howard) first.
 
 ### What if there's something that isn't currently public that I think should be made public?
 
@@ -37,7 +35,7 @@ If there is something else that you think we should be making public that we cur
 
 ### Who owns the intellectual property (IP) of the stuff I've worked on?
 
-In general, our entity Tidepool Project owns the intellectual property of stuff you work on. That's pretty important, because it's what allows Tidepool to assert copyright and place a license on the work. You assigned the IP for your work to Tidepool as part of your employee agreement (through Zenefits) or your consulting agreement.
+In general, our entity Obvious Project owns the intellectual property of stuff you work on. That's pretty important, because it's what allows Obvious to assert copyright and place a license on the work. You assigned the IP for your work to Obvious as part of your employee agreement (through Zenefits) or your consulting agreement.
 
 Fortunately, the licenses we choose (BSD2 and CC-BY-SA 4.0) for stuff that we make public are pretty permissive. They give you (and everyone else) very broad, perpetual rights.
 
