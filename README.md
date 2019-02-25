@@ -1,26 +1,23 @@
 # Our Handbook
 
-First, a thank you. This Tidepool Employee Handbook is a derivative of the [Clef Employee Handbook](https://github.com/clef/handbook/). Although Clef no longer exists (sniff, sniff, we loved Clef), the fine folks at Clef made their handbook available to all via a Creative Commons license, and for that we are very thankful.
+First, a thank you. This Obvious Employee Handbook is a derivative of the [Tidepool Employee Handbook](https://github.com/tidepool-org/handbook/), which is itself derived from the [Clef Employee Handbook](https://github.com/clef/handbook/). These are/were available to all via a Creative Commons license, and for that we are very thankful.
 
-At Tidepool, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries (both software and medical devices). It takes active effort to find the hidden biases in our companies and remove them.
+At Obvious, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries (both software and consulting). It takes active effort to find the hidden biases in our companies and remove them.
 
-This repository contains all of the policies that we use at Tidepool. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
+This repository contains all of the policies that we use at Obvious. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive. ([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own. Note that Tidepool did not use this templatized version because our handbook diverged quite a bit from the original.)
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive. ([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own.
 
 All feedback and suggestions (especially in the form of pull requests) are  appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
-If these policies sound like a place where you want to work, check out our jobs postings at [tidepool.org/jobs](https://tidepool.org/jobs).
+If these policies sound like a place where you want to work, check out our jobs postings at [obvious.in/careers](https://obvious.in/careers).
 
-— Howard Look
-
-CEO of Tidepool
+— Rahul Gonsalves
+Obvious
 
 ***
 
 ## Introduction
-* [Tidepool's Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
-* [Tidepool's Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Core%20Values.md)
 
 ## Employment Policies
 * [Working with Tidepool](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20with%20Tidepool.md)
@@ -68,6 +65,8 @@ CEO of Tidepool
 
 # Acknowledgements
 
+We hope that many more people will suggest ways for us to improve these policies!
+
 Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Brandon Arbiter](https://twitter.com/pancreasingame)
 * [Chris McGee](https://github.com/krystophv)
@@ -82,8 +81,6 @@ Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Lennart Goedhart](https://github.com/pazaan)
 * [Nick Riggall](http://nicholasriggall.com/)
 * [Paul Forgione](https://twitter.com/PaulForgione)
-
-We hope that many more people will suggest ways for us to improve these policies!
 
 The first version of the Clef handbook would not have been possible without the thoughtful input from these great folks:
 
