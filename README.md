@@ -12,76 +12,61 @@ All feedback and suggestions (especially in the form of pull requests) are  appr
 
 If these policies sound like a place where you want to work, check out our jobs postings at [obvious.in/careers](https://obvious.in/careers).
 
-— Rahul Gonsalves
+`— Rahul Gonsalves
 
-Obvious
+[**Obvious**)] (https://obvious.in/)
 
 ***
 
 ## Introduction
 
 ## Employment Policies
-* [Working with Tidepool](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20with%20Tidepool.md)
-* [Equal Opportunity Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-* [At-Will Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Compensation.md)
-* [Code of Conduct](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md)
-* [Complaint Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
-* [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
-* [Working Remotely](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
-* [Confidentiality and Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Confidentiality%20and%20Privacy.md)
+* [Working with Obvious](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Working%20with%20Obvious.md)
+* [Equal Opportunity Employment](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
+* [At-Will Employment](https://github.com/obvious/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
+* [Compensation](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Compensation.md)
+* [Code of Conduct](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md)
+* [Complaint Policy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
+* [Drug and Alcohol Policy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
+* [Employee Privacy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
+* [Working Remotely](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
+* [Confidentiality and Privacy](https://github.com/obvious/handbook/blob/master/Employment%20Policies/Confidentiality%20and%20Privacy.md)
 
 ## Hiring Documents
-* [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Acknowledgement of Receipt of Changes](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt%20of%20Changes.md)
-* [Tidepool Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Tidepool%20Offer%20Letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
+* [Acknowledgement of Receipt](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
+* [Acknowledgement of Receipt of Changes](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt%20of%20Changes.md)
+* [Obvious Offer Letter](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Obvious%20Offer%20Letter.md)
+* [Employee Proprietary Information and Inventions Agreement](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
+* [Handbook Introduction](https://github.com/obvious/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Health%20Insurance%20and%20Other%20Benefits.md)
-* [Vacation and Sick Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [Sabbatical](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
-* [New Parent Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+* [Health Care and Disability Insurance](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Health%20Insurance%20and%20Other%20Benefits.md)
+* [Vacation and Sick Leave](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Holiday List](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
+* [Referral Bonuses](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
+* [Continuing Education](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Sabbatical](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [New Parent Leave](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [Other Protected Absences](https://github.com/obvious/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
 ## Operations Documents
-* [Diversity and Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Diversity%20and%20Sourcing%20Candidates.md)
-* [Effective Meetings](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
-* [Interview Process](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Finances](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Finances.md)
-* [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
+* [Diversity and Sourcing Candidates](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Diversity%20and%20Sourcing%20Candidates.md)
+* [Effective Meetings](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Interview Process](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
+* [Finances](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Finances.md)
+* [Hack Weeks](https://github.com/obvious/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
 
 ## Onboarding Documents
-* [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Tidepool.md)
-* [Communication and Transparency](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
-* [One on Ones](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/One-on-Ones.md)
+* [Welcome to Obvious](https://github.com/obvious/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Obvious.md)
+* [Communication and Transparency](https://github.com/obvious/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
+* [One on Ones](https://github.com/obvious/handbook/blob/master/Onboarding%20Documents/One-on-Ones.md)
 
 ***
 
 # Acknowledgements
 
 We hope that many more people will suggest ways for us to improve these policies!
-
-Here are the folks at Tidepool who reviewed and contributed to this handbook:
-* [Brandon Arbiter](https://twitter.com/pancreasingame)
-* [Chris McGee](https://github.com/krystophv)
-* [Christopher Snider](https://twitter.com/iamspartacus)
-* [Clint Beacock](https://github.com/cbwebdevelopment)
-* [Darin Krauss](https://github.com/darinkrauss)
-* [Eric Luhrs](https://twitter.com/EricLuhrs)
-* [Gerrit Niezen](https://github.com/gniezen)
-* [Howard Look](https://twitter.com/howardlook)
-* [Jana Beck](https://github.com/jebeck)
-* [Jamie Bate](https://github.com/jh-bate)
-* [Lennart Goedhart](https://github.com/pazaan)
-* [Nick Riggall](http://nicholasriggall.com/)
-* [Paul Forgione](https://twitter.com/PaulForgione)
 
 The first version of the Clef handbook would not have been possible without the thoughtful input from these great folks:
 
