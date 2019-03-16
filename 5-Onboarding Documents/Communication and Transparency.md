@@ -53,7 +53,7 @@ Work calendars should be shared to make scheduling meetings really easy and also
 
 There is also a Tidepool OOO calendar. If you are going to be out for more than a few hours, please mark it on the
 
-A subscrition link to the Tidepool OOO Calendar can be found on the [Emp: Tidepool Resources](https://trello.com/b/0tbitS80/emp-tidepool-resources) Trello board.
+A subscription link to the Tidepool OOO Calendar can be found on the [Emp: Tidepool Resources](https://trello.com/b/0tbitS80/emp-tidepool-resources) Trello board.
 
 ### Open Stats
 
