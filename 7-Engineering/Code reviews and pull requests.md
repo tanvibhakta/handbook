@@ -12,7 +12,7 @@ It is an opportunity for discussion and evaluation; a chance for novice engineer
 - Team and project standards are much more important than personal opinions. When disagreeing, go with the prevailing standard and discuss the standard elsewhere. 
 - Don’t use hyperbolic words and avoid all sarcasm. Temper your communication, sit down, stay humble. 
 
-## Assigning a PR
+### Assigning a PR
 - In a round-robin fashion, assign your PR to a team member. This should be done without asking them. Everyone should be coding and reviewing at all times. 
 - If you think your PR is non-trivial and needs more than one pair of eyes, then assign it to two people. If you’re new to the team, assign it to two people.
 - If your PR isn’t reviewed in the next 24 hours, talk to the assignee in person and figure out what’s happening. Maybe they're busier than usual and need a helping hand?
