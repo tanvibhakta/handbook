@@ -1,3 +1,5 @@
+## One-on-one meetings
+
 1-1s are time dedicated for you with your manager, in a private space. These meetings are critical to your professional life and you should take them seriously. The point of 1-1s is not for your manager to give you feedback! This is time for you to discuss how you’ve been doing, how you’ve been feeling, recent problems you might have had, personal things potentially affecting work… anything! It’s your time to have a dialogue about things outside of what you’re directly working on.
 
 We do 1-1s every 4 weeks, and they usually last less than 30 minutes, but can be longer if need be. The meeting is driven by you, and your manager will be a passive listener. This is uncomfortable for a lot of people coming from organisations where “meeting with a manager” means bad news, so here are some pointers to get started:
