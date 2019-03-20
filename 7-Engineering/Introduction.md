@@ -10,6 +10,8 @@
 > 
 >  _and reduce risk of overruns._
 
+## We are Product Engineers
+We do more than just write code, we’re more than just a feature factory. We are co-owners of the product experience. We look at the full picture to understand the value and impact of what we’re building. We contribute to the full spectrum of a product’s development; from PRD to code to tests. We regularly talk to customers and end users; we rigorously analyse and measure the performance of features, and unearth opportunities to improve.
 
 ## High alignment, high autonomy 
 Alignment and autonomy are two important axes which can be used to classify teams:
