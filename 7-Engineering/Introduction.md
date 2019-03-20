@@ -1,14 +1,14 @@
-Software engineering is not computer science,
+#### _Software engineering is not computer science,_
 
-And computer science is not coding;
+#### _And computer science is not coding;_
 
-Better engineering practices improve predictability of costs and schedules,
+#### _Better engineering practices improve predictability of costs and schedules,_
 
-provide early warning of problems,
+#### _provide early warning of problems,_
 
-support better management,
+#### _support better management,_
 
-and reduce risk of overruns.
+#### _and reduce risk of overruns._
 
 
 ## High alignment, high autonomy 
