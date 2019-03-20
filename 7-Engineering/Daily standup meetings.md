@@ -1,3 +1,5 @@
+## Daily standup meetings
+
 Daily Standup Meetings (DSMs) happen every day, usually with the full team of a project -- this includes people from the client’s org who are working with us, and other external contractors. 
 
 In the spirit of agile engineering, the advantage of a DSM is to surface issues/blockers as soon as possible, and keep the team aware (on a broad level) of what is happening elsewhere in the project. Seeing everyone face-to-face daily builds trust and accountability. We encourage people to ask questions across the team to get increased clarity on a specific thing, if needed. 
