@@ -1,5 +1,7 @@
 ## Vital reading material
 
+> All of these books are available in our Library.
+
 1. Conceptual Blockbusting
 1. Code Complete 2
 1. Programming Pearls
