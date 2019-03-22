@@ -1,8 +1,6 @@
 # One-on-Ones
 
-At least once every two months, but more if you want, every member of the Obvious team should meet with Rahul in an open ended meeting that lasts at least thirty minutes. The agenda for the one-on-one is set by the employee and its primary intention is to build a trusting, ongoing relationship. This is not a status check-up or performance evaluation, it’s dedicated time where Rahul is available to hear what each member of the team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
-
-In addition, if employees work for another manager, like Pratul or Dhruv, they should also set up time to meet regularly.
+1-1s are time dedicated for you with your manager, in a private space. These meetings are critical to your professional life and you should take them seriously. The point of 1-1s is _not_ for your manager to give you feedback! This is time for you to discuss how you’ve been doing, how you’ve been feeling, recent problems you might have had, personal things potentially affecting work… anything! It’s your time to have a dialogue about things outside of what you’re directly working on.
 
 ## Scheduling
 
@@ -10,10 +8,19 @@ One-on-ones should be a recurring calendar event, but the schedule is meant to b
 
 ## Agenda
 
-Agendas for different one-on-ones can vary widely, but this is the team member’s meeting, so they should have ultimate control. one-on-ones should be a mix of present problems/resolutions and future goals/plans. What is blocking today and how can it be resolved or worked around? What do you want the future to look like, and what are the concrete steps you’ll take to get there?
+The meeting is driven by you, and your manager will be a passive listener. This is uncomfortable for a lot of people coming from organisations where “meeting with a manager” means bad news, so here are some pointers to get started:
 
-One-on-ones are also a good place to give and receive feedback. Talk about what’s working well and why it’s particularly effective. Ask what you can be doing better and where the team can improve.
+- Anything that can be discussed in the open with the rest of the team, probably doesn’t need your valuable 1-1 time. Use team feedback sessions for those things. This is not a status update meeting!
+- Talk about what’s been going well overall, or perhaps what has not been going so well. Ask for direct feedback on specific things you’ve been involved in.
+- Brainstorm about something that you want to try or do, but don’t want feel comfortable discussing with the rest of the team.
+- Talk about an area you’ve been trying to improve in, or grow in. Perhaps ask for guidance or suggestions. Ask for guidance with a promotion and the journey towards it. 
+- Although it might be difficult to begin with, talk about something awkward that might be at the back of your head. Be brutally honest! This is private space for you alone. 
+- Admit a fault or a mistake. Ask for support and advice.
+- Give feedback to your manager -- What can they do better? Have they been ignoring something that you think is important? 
+- Keep a private list of things to discuss during a 1-1, especially if you tend to forget little things that you might want to talk about later.
+
+Agendas for different one-on-ones can vary widely, but this is the team member’s meeting, so they should have ultimate control. one-on-ones should be a mix of present problems/resolutions and future goals/plans. What is blocking today and how can it be resolved or worked around? What do you want the future to look like, and what are the concrete steps you’ll take to get there?
 
 ## Following Up
 
-It’s useful to take notes during the meeting, so that you can ask about how things have changed in the future. It’s also useful to take notes between meetings -- if you notice something that you’d like to talk about, a note will make sure you address it in your next one-on-one.
+Your manager will create a private document shared between just the two of you. It’s useful to take notes during the meeting, so that you can ask about how things have changed in the future. It’s also useful to take notes between meetings -- if you notice something that you’d like to talk about, a note will make sure you address it in your next one-on-one.

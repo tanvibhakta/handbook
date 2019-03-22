@@ -1,6 +1,6 @@
 # Effective meetings and group work
 
-To increase flexibility in how and where employees at Tidepool work, we agree on a shared set of constraints for group work and meetings. 
+To increase flexibility in how and where employees at Obvious work, we agree on a shared set of constraints for group work and meetings. 
 
 ## Meeting Ettiquette
 
@@ -24,4 +24,4 @@ The following things are pre-requisites for successful group work:
 
 * A quiet place to take meetings
 * A clear agenda, ideally shared before-hand with the rest of the people at the meeting
-* A set of outcomes or decisions that you 
+* A set of outcomes or decisions that you wish to achieve 
