@@ -1,4 +1,4 @@
-## Vital reading material
+# Vital reading material
 
 > All of these books are available in our Library.
 
