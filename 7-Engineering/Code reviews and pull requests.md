@@ -9,7 +9,7 @@ It is an opportunity for discussion and evaluation; a chance for novice engineer
 - Many programming decisions are opinions and not facts. When discussing tradeoffs, ensure it doesn’t lead to bike-shedding and a cost-benefit analysis is done -- “What is the cost of discussing this thing for 60 minutes? What is the benefit or drawback of picking a choice? Is it worth our time?” 
 - Ask questions and don’t demand changes. Good questions avoid judgment and avoid assumptions about the author's perspective.
 - Avoid selective ownership of code. It is eventually the team’s code and the entire team has to share the responsibility of maintenance. 
-- Team and project standards are much more important than personal opinions. When disagreeing, go with the prevailing standard and discuss the standard elsewhere. 
+- Team and project standards are much more important than personal opinions. When disagreeing, go with the prevailing standard and discuss the standard ... right here, in the handbook! Just open a pull request.
 - Don’t use hyperbolic words and avoid all sarcasm. Temper your communication, sit down, stay humble. 
 
 ### Assigning a PR
