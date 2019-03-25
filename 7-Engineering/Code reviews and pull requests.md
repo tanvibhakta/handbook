@@ -1,4 +1,4 @@
-## Code reviews & Pull Requests
+# Code reviews & Pull Requests
 
 Regular, team-wide code reviews are important for the health of the software being built. Reviews ensure mistakes are caught early on, standards and guidelines are respected and followed, and the larger team learns about the new code being written. 
 
