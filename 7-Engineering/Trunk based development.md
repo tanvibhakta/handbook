@@ -1,4 +1,4 @@
-# WIP: Trunk-based Development
+# Trunk-based Development
 
 > ### A source-control branching model, where developers collaborate on code in a single branch called `master` (or “trunk”), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.
 > _From [TrunkBasedDevelopment.com](https://trunkbaseddevelopment.com/)_
@@ -44,13 +44,22 @@ To ensure that constant integration of code is happening, we prefer making "dail
  
 In the ideal world of TBD, every commit is stable and release-ready, which is why CD works so well once a team switches to doing TBD. 
 
-On a platform like the Web, every commit to `master` should be deployed as soon as possible, and it makes sense because users immediately get the updated resources. However, on mobile platforms like Google Play Store and Apple App Store, deploying every commit leads to something else. 
+On a platform like the Web, every commit to `master` should be deployed as soon as possible, and it makes sense because users immediately get the updated resources. However, on mobile platforms like Android and iOS, deploying a commit leads to the creation of an installable binary file. This file is pushed to a Store and it usually takes a few hours to a few days before all devices can see the available update -- and this process is entirely out of our control. Not only that, the user can choose to not install an update for days or weeks on end!
 
-  - release branches 
-  - cherry picking from master 
+As a result of this, we follow a periodic release cycle -- once a week, or once every two weeks -- for mobile apps, instead of pushing every single commit. To ensure that the binary that is being published is stable, we pursue the following strategy:
+
+  - We create a release branch from master; this is titled as `release/yyyy-mm-dd`, where the date in the title is the date this branch will be released to the Store
+  - The code in the branch is tested till the date of the release
+  - No one directly commits anything to a release branch. If a bug is found or an urgent change needs to be made, that change is first done on `master` and then cherry-picked onto the release branch
+
   
 
 ## Associated techniques 
 
-  - branch by abstraction
-  - feature flags 
+### Feature flags 
+
+https://trunkbaseddevelopment.com/feature-flags/
+
+### Branch by abstraction
+
+https://trunkbaseddevelopment.com/branch-by-abstraction/
