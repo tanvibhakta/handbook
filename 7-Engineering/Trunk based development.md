@@ -20,10 +20,13 @@ There are two ways that TBD is accomplished:
   
 ## Daily branches
 
-  - standards and conventions
-  - time limit
-  - 
-  
+To ensure that constant integration of code is happening, we prefer making "daily branches". This doesn't strictly mean a branch every day, but branches _rarely last beyond 2 days_ without being raised as a PR. We also ensure that the changeset of a PR doesn't exceed _300-400 lines of code_.
+
+### Conventions
+
+  - Daily branches are named as `initials/date/subject`
+  - For example, if your initials are PK, and you raise a branch on 17th December to update the Android Gradle Plugin, your branch title should be something like `pk/17dec/upgrade-agp`
+  - No underscores allowed, only dashes
 
 ## Releases 
 
