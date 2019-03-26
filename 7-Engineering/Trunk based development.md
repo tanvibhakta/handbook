@@ -1,7 +1,7 @@
 # WIP: Trunk-based Development
 
-From [the source](https://trunkbaseddevelopment.com/)... 
-> A source-control branching model, where developers collaborate on code in a single branch called `master` (or “trunk”), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.
+> ### A source-control branching model, where developers collaborate on code in a single branch called `master` (or “trunk”), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.
+> _From [TrunkBasedDevelopment.com](https://trunkbaseddevelopment.com/)_
 
 TBD promotes short-lived feature branches and frequent merges with the trunk. A branch usually has only one developer, it doesn’t last more than a day or two, flows through CI and code review, and finally gets merged into `master`.
 
@@ -9,7 +9,8 @@ TBD is a key enabler of  Continuous Integration and by extension  Continuous Dep
 
 This ensures the codebase is always releasable on demand and helps to make Continuous Delivery a reality. This also means that TBD is the opposite of models like Git Flow, where features are developed in parallel to `master`, living in long-running branches. 
 
-## Strategies
+> ### Branches create distance between developers and we do not want that
+> _Frank Compagner, Guerrilla Games_ 
 
 There are two ways that TBD is accomplished:
 
