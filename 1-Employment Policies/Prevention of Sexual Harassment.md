@@ -5,6 +5,13 @@ Obvious believes in equal employment opportunity and that sexual harassment as a
 We are committed to creating a healthy and safe working environment that enables employees to work without fear of prejudice, bias and sexual harassment. All employees of this organization have the right to be treated with dignity.
 
 The purpose of this policy is to prevent any acts of sexual harassment, and to provide an understanding of the mechanisms for redressal provided by this organization in the event of sexual harassment at the workplace. This policy has been created in accordance with the provisions of [The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013](https://en.wikipedia.org/wiki/Sexual_Harassment_of_Women_at_Workplace_(Prevention,_Prohibition_and_Redressal)_Act,_2013).
+
+```
+Important: if you would like to report a harassment incident, write to: posh-committee@obvious.in
+```
+
+
+
 ## Scope
 ### 1. Definition
 **''Sexual harassment'' includes any one or more of the following unwelcome acts or behaviour** ***(whether directly or by implication)*** **namely:**
@@ -84,7 +91,7 @@ Obvious is responsible for providing a safe working environment for its employee
 
 If you are working for our organization and in the course of your work, you have been sexually harassed by anyone through means which are mentioned above, we urge you to come forward with a written complaint as early as you can. Your complaint will be taken seriously and confidentiality will be maintained by us in the matter. We have zero tolerance towards such practices once they are proven.
 
-1. A complaint with respect to sexual harassment may be made by a written or electronic application addressed to ***the Internal Complaints Committee, through the President***/***or to any member of the Internal Complaints Committee,*** or via the following dedicated email address: [harassment@obvious.in](mailto:harassment@obvious.in)
+1. A complaint with respect to sexual harassment may be made by a written or electronic application addressed to ***the Internal Complaints Committee, through the President***/***or to any member of the Internal Complaints Committee,*** or via the following dedicated email address: [posh-committee@obvious.in](mailto:posh-committee@obvious.in)
 2. The complaint must be given to the persons specified above within 3 months of the occurrence *(the complaint can be made within 6 months if the person is able to prove that there were some exceptional circumstances due to which complaint could not be made earlier)* and we advise you to be vigilant and keep any document with you which can be used to substantiate an allegation. The redressal system will work based on other evidence if you cannot produce any documentary evidence.
 
 If the complainant cannot make a written complaint because of physical or mental incapacity or death, their legal heirs can make the complaint on their behalf.
