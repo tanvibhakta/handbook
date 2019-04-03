@@ -4,6 +4,7 @@
 | --------------------- | ----------- |
 | New Years Day         | 01-Jan-2019 |
 | Makar Sankranti       | 14-Jan-2019 |
+| Republic Day          | 26-Jan-2019 |
 | Good Friday           | 19-Apr-2019 |
 | May Day               | 01-May-2019 |
 | Eid                   | 05-Jun-2019 |

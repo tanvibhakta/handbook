@@ -1,4 +1,4 @@
-# Time Off
+# Paid Time Off
 
 Time away from work can be extremely helpful for maintaining a good work/life balance. Obvious encourages everyone to take time off when needed, and ensuring that your colleagues do the same.
 
@@ -6,11 +6,21 @@ A great example of taking time off is an Obvious-er taking a day to do some spri
 
 ## Types of Time Off
 
-1. Casual and Sick Leave: **12 days**
-2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **11 days**
-3. Maternity and Paternity Leave
+1. Casual and Sick Leave: **10 days**
+2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **12 days**
+3. The Winter Break: **8 days**
 4. Menstrual Leave ([thanks Nilenso!](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/))
-5. The Winter Break
+5. [Maternity and Paternity Leave](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Parental%20Leave.md)
+6. Bereavement Leave
+7. [Our Sabbatical Program](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Sabbatical.md)
+
+### Winter Break
+
+Obvious takes a Winter Break each year. For 2019, the Winter Break is December 24 – December 31. These deductions are automatic—you don’t need to submit any requests for time away.
+
+### Bereavement Leave
+
+Any employee who wishes to take time off due to the death of an immediate family member should do so. Paid bereavement leave will be granted up to 15 consecutive days for the death of a family member including the following: spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
 
 ## Communicating Your Time Off 
 
