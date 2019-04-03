@@ -2,7 +2,7 @@
 
 **Your invoice should have the following details on it:**
 
-- Your full name (as it appears on your PAN card or any government issued ID
+- Your full name (as it appears on your PAN card or any government issued ID)
 - Your address, which matches your PAN card or any government issued ID
 - Uncommon’s registered company name: **Unicus Web Designing Private Limited**
 - Our registered business address: **38-126/C, Bhaskara Nilayam, Ambedkar Nagar, Sainikpuri, Hyderabad - 500094, Telangana, India**
@@ -20,15 +20,12 @@
   - Branch IFSC Code
   - Bank Account Number
 - On your invoice, mention the exact number of **working days** that you have worked, broken up per client.
-- Send your invoice on the last day of the month for the preceding month; i.e, send an invoice for the days that you have worked in August on the 31st of August to either Dhruv or Pratul, and cc Jaya Priya as well.
-- Dhruv and Pratul will approve your invoice, if the number of days and rates are in order, and will forward the same to our CA
-- TaxFino will then add the invoice amount to our accounting software (Quickbooks)
+- Send your invoice on the last day of the month for the preceding month; i.e, send an invoice for the days that you have worked in August on the 31st of August to [finance@obvious.in](mailto:finance@obvious.in)
 - Your invoices will be cleared within 15 days of being approved, so if approved by the 1st of September, you should see a payment in your bank account before 15th September.
 
 ## **Reimbursements**
 
-
-- If you have had to spend money on work-related expenses, Uncommon will reimburse you for this. Please note, that any reimbursement will have to be **pre-approved**. Examples of reimbursements can include travel (flights etc), food, software, hardware etc.
+- If you have had to spend money on work-related expenses, Obvious will reimburse you for this. Please note, that any reimbursement will have to be **pre-approved**. Examples of reimbursements can include travel (flights etc), food, software, hardware etc.
 - Create **separate invoices** for reimbursements - do not club your professional fees with them. Different tax rules and compliances apply to both.
 - It’s easier to not have to do reimbursements, so check first whether Rahul/Dhruv/Pratul can purchase whatever you need.
 
@@ -37,12 +34,11 @@
 
 ### What invoicing programs should I use?
 
-- You can use any invoicing software, but [Harvest](http://www.harvestapp.com/) is web-based, and free for personal use, and a lot of Uncommoners use it.
+- You can use any invoicing software, but [Harvest](http://www.harvestapp.com/) is web-based, and free for personal use, and a lot of UObviousrs use it.
 
 ### This seems like a lot of work.
 
 - Yes. Feel free to not send us invoices. #nobigdeal
 
 ### I’m not sure about something. Who can I ask for clarifications?
-
 - Come to either Rahul, or Pratul Dhruv with any of your questions. If you have specific questions about tax, GST etc reach out to our CA and they will be happy to help you out.

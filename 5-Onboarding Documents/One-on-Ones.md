@@ -15,7 +15,7 @@ The meeting is driven by you, and your manager will be a passive listener. This 
 - Brainstorm about something that you want to try or do, but don’t want feel comfortable discussing with the rest of the team.
 - Talk about an area you’ve been trying to improve in, or grow in. Perhaps ask for guidance or suggestions. Ask for guidance with a promotion and the journey towards it. 
 - Although it might be difficult to begin with, talk about something awkward that might be at the back of your head. Be brutally honest! This is private space for you alone. 
-- Admit a fault or a mistake. Ask for support and advice.
+- Ask for support and advice.
 - Give feedback to your manager -- What can they do better? Have they been ignoring something that you think is important? 
 - Keep a private list of things to discuss during a 1-1, especially if you tend to forget little things that you might want to talk about later.
 
