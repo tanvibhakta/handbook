@@ -6,8 +6,8 @@ A great example of taking time off is an Obvious-er taking a day to do some spri
 
 ## Types of Time Off
 
-1. Paid Time Off: **18 days**
-2. Mandatory State/National Holidays: **10 days***
+1. Casual and Sick Leave: **12 days**
+2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **11 days**
 3. Maternity and Paternity Leave
 4. Menstrual Leave ([thanks Nilenso!](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/))
 5. The Winter Break

@@ -1,7 +1,5 @@
 # Obvious Holiday List (2019)
 
-
-
 | Holiday Name          | Date        |
 | --------------------- | ----------- |
 | New Years Day         | 01-Jan-2019 |
