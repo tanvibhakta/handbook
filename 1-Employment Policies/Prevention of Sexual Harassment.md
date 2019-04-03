@@ -1,4 +1,4 @@
-# Introduction
+# Prevention of Sexual Harassment Policy
 
 Obvious believes in equal employment opportunity and that sexual harassment as a form of misconduct undermines the safety and dignity of all persons. We do not tolerate verbal or physical conduct that creates an intimidating, offensive, or hostile environment for our employees. Harassment of any kind, including sexual harassment, is forbidden in this organization and every employee has the right to be protected against it.
 
@@ -94,7 +94,7 @@ An **Internal Complaints Committee** is constituted for our organization by the 
 | Role | Name | Date of Appointment |
 | President | Tanushree Jindal | 15 August, 2018 |
 | Member | Prajakta Digamber | 15 August, 2018 |
-| Member | Ankur Sethi | 15 August, 2018 |
+| Member | Ankur Sethi | 15 August, 2018-31 December, 2018 |
 | External Member | Abhaya Tatavarti | 15 August, 2018 |
 
 The President and other members of the committee shall hold office for such period, not exceeding three years, from the date of their nomination as may be specified by the employer. A complainant can approach any member of the committee with her written complaint.
