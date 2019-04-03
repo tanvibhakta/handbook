@@ -1,4 +1,4 @@
-## System architecture
+# System architecture
 
 When dealing with large, complex systems, a key problem is how to evolve the architecture without just throwing everything up in the air and hoping it lands on time. That approach is a thing of the past in our world of continuous engineering and delivery. In fact, even in the past it was problematic since it deferred many of the trickiest and time-consuming integration tasks and was a source of many a late project.
 

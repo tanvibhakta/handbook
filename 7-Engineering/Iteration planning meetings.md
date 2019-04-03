@@ -1,4 +1,4 @@
-## Iteration Planning Meetings
+# Iteration Planning Meetings
 
 IPMs will be held regularly as part of all projects that we work on. The length of an iteration varies but is usually 1 or 2 weeks. The focus of an IPM is to evaluate what was done (and not done) in the previous iteration, and ensure everyone knows what is planned for the upcoming iteration.
 

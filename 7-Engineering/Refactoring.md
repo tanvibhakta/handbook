@@ -1,4 +1,4 @@
-## Refactoring 
+# Refactoring 
 
 > hat tip: https://overreacted.io/fix-like-no-ones-watching/
 
