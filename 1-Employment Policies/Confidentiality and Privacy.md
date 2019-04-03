@@ -19,19 +19,17 @@ It may not always be obvious what is and is not confidential. If you are ever un
 
 ### Is it OK for me to keep copies of everything I've worked on and take it with me when I leave? 
 
-In general, if we already make it public, then you get the same rights that everyone else in the public gets. We release most of our source code under BSD 2, and most of our regulatory, design and web content is made public under CC-BY-SA 4.0.
+In general, if we already make it public, then you get the same rights that everyone else in the public gets.
 
 In general, other stuff that isn't explicitly made made public should be considered confidential. You should not make personal copies of this stuff or send it to parties outside of Obvious without checking with the Chief Privacy Officer (currently Rahul) first.
 
 ### What if there's something that isn't currently public that I think should be made public?
 
-If there is something else that you think we should be making public that we currently aren't making public, feel free to talk to the Chief Privacy Officer (currently Howard) about it!
+If there is something else that you think we should be making public that we currently aren't making public, feel free to talk to the Chief Privacy Officer (currently Rahul) about it!
 
 ### Who owns the intellectual property (IP) of the stuff I've worked on?
 
 In general, our registered entity "Obvious Ventures Private Limited" owns the intellectual property of stuff you work on. That's pretty important, because it's what allows Obvious to assert copyright and place a license on the work. You assigned the IP for your work to Obvious as part of your employee agreement or your consulting agreement.
-
-Fortunately, the licenses we choose (BSD2 and CC-BY-SA 4.0) for stuff that we make public are pretty permissive. They give you (and everyone else) very broad, perpetual rights.
 
 ### How do I know if something is public?
 
