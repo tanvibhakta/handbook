@@ -12,7 +12,7 @@ Given the current state of internet security, sensitive data leaking all the tim
 
 One way to do this is to use different passwords on every website, and let them be completely random — and unrelated to your date of birth, first pet, aunt’s name, first crush etc. To do that entirely in your head and remember them all, is obviously impossible. The answer? A password manager! 
 
-Password managers like 1Password, LastPass, and KeePass let you generate and store random complex passwords — how about 30 characters, mixed case, with numbers and symbols? Some of them also allow storing credit cards and personal identification details. Pretty much all the popular ones also let you auto fill the relevant details in the login form of a website. 
+Password managers like [1Password](https://1password.com/), [LastPass](https://www.lastpass.com/), and [KeePass](https://keepass.info/) let you generate and store random complex passwords — for example, 30 characters, mixed case, with numbers and symbols! Some of them also allow storing credit cards and personal identification details. Pretty much all the popular ones also let you auto-fill the relevant details in the login form of a website. Magic!
 
 Once you change all your passwords to lengthy random ones, the only password you need to remember is the “master” password of the manager itself. This means that if a service gets hacked and passwords get leaked, only the password you used on that particular website gets compromised. All other passwords remains safe!
 
