@@ -22,7 +22,7 @@
 1. Software Estimation: Demystifying the Black Art
 
 ## Release Engineering 
-1. Continuous Delivery
+1. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 1. Accelerate: The Science of Lean Software and DevOps
 
 ----
