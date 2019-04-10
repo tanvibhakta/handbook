@@ -5,6 +5,7 @@
 ## People, Teams & Projects
 1. The Mythical Man Month
 1. Peopleware: Productive Projects and Teams
+1. The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 
 ## Computer Science and Meta
 1. Conceptual Blockbusting
