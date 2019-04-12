@@ -24,4 +24,4 @@ The following things are pre-requisites for successful group work:
 
 * A quiet place to take meetings
 * A clear agenda, ideally shared before-hand with the rest of the people at the meeting
-* A set of outcomes or decisions that you wish to achieve 
+* A set of outcomes or decisions that you wish to achieve
