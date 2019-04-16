@@ -14,4 +14,8 @@ Your sessions remain completely confidential between you and your doctor. Obviou
 * [The Alternative Story](http://alternativestory.in/)
 * [The Hank Nunn Institute](http://hanknunninstitute.com/)
 
+### See Also
+
+* [Time Off: Recognising and Avoiding Burnout](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Paid%20Time%20Off.md#additional-notes)
+
 _Updated: 16 April, 2019_
