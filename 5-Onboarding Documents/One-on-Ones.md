@@ -56,7 +56,7 @@ Bring up things that are in the back of your mind. Maybe you do not know exactly
 
 Hopefully, you already provide your manager with immediate, personal one-on-one feedback regularly, whether after a meeting, privately, or through written communication. However, sometimes you might need more time. Use these meetings to give advice on how your manager can impact you directly. Also, use this time to follow up on previous advice you gave your manager to let them know how it is going.
 
-We recommend using the [Situation -> Behaviour -> Impact (SBI) model](https://docs.google.com/document/d/1tS700ENUZKF0tqeAAG4vK0TZM0TGTofaWpbFr5VdZR0/edit?ts=5cb08d8d#bookmark=id.mxkd4d48hanj). Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
+We recommend using the [Situation -> Behaviour -> Impact (SBI) model](https://github.com/obvious/handbook/blob/master/5-Onboarding%20Documents/One-on-Ones.md#situation---behaviour---impact-model). Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
 
 #### What can the manager do more of?
 
@@ -118,17 +118,21 @@ While we encourage free-flowing meetings, the direct report, who sets the agenda
 
 If you have the same conversation with your manager month after month with no progress, then something is wrong. Use the guidance in this document and to mix it up a little bit.
 
-## Situation -> Behaviour -> Impact Model
+***
+
+## Notes and Definitions
+
+### Situation -> Behaviour -> Impact Model
 
 The best way to provide constructive feedback, both positive and negative, is by putting your comments in context instead of being vague. For maximum effect, state the situation, the behaviour you liked/disliked, and how it impacted you. We call this the SBI model. Let’s look at two examples:
 
-### Positive Feedback
+#### Positive Feedback
 
 **Vague**: You did an excellent job with that client this morning!
 
 **SBI**: During the meeting this morning when the client suggested changing the homescreen (situation), the approach you took to walk him through how the modifications would negatively affect users (behaviour) saved us from creating a poor user experience and also helped him understand how important it is to keep users in mind at all times (impact). Thanks for taking the time to walk him through it.  
 
-### Negative Feedback
+#### Negative Feedback
 
 **Vague**: That client will never hire us thanks to you! 
 
