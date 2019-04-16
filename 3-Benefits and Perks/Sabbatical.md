@@ -1,6 +1,12 @@
 # Sabbatical
 
-After every 3 years of working at Obvious, full-time employees and contractors are eligible to take four weeks of paid sabbatical.
+```
+We have not come to a consensus around how to run our Sabbatical program, and do NOT currently have one. This document remains here as a starting point for our conversations, and to document our latest thinking.
+```
+
+
+
+After every 3 years of working at Obvious, full-time employees are eligible to take four weeks of paid sabbatical.
 
 During this sabbatical, you should work on passion projects - something outside the scope of your normal work that is interesting and exciting to you. This could be researching a topic of interest, volunteering for another nonprofit, or something else altogether.
 

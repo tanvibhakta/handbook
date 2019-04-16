@@ -6,13 +6,12 @@ A great example of taking time off is an Obvious-er taking a day to do some spri
 
 ## Types of Time Off
 
-1. Casual and Sick Leave: **10 days**
-2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **12 days**
-3. The Winter Break: **8 days**
+1. Casual and Sick Leave: **15 days**
+2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **8 days**
+3. The Winter Break: **7 days**
 4. Menstrual Leave ([thanks Nilenso!](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/))
 5. [Maternity and Paternity Leave](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Parental%20Leave.md)
 6. Bereavement Leave
-7. [Our Sabbatical Program](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Sabbatical.md)
 
 ### Winter Break
 
