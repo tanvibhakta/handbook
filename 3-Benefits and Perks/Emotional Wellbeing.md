@@ -2,7 +2,7 @@
 
 Wellbeing isn’t just about your physical health. It’s also about maintaining a healthy emotional balance so you have the resilience to take on life’s stressors and cope with any big changes that come your way.
 
-Finding a therapist (or psychiatrist, or counsellor) can sometimes take a while. To ease that process, Obvious will reimburse you for your first four (4) sessions (upto INR 6000 in total). These can be with the same person, or with different ones. We have a short list of therapists listed below who have come recommended by different people.
+Finding a therapist (or psychiatrist, or counsellor) can sometimes take a while. To ease that process, Obvious will reimburse you for your first four (4) sessions (upto INR 6000 in total). These can be with the same person, or with different ones. We have a short list of therapists listed below who have come recommended.
 
 Your sessions remain completely confidential between you and your doctor. Obvious will never ask either you or your doctor about what transpires during your sessions.
 
