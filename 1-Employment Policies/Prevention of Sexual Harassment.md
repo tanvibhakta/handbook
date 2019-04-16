@@ -99,9 +99,10 @@ If the complainant cannot make a written complaint because of physical or mental
 An **Internal Complaints Committee** is constituted for our organization by the management to look into matters concerning sexual harassment. The Committee consists of the following persons:
 
 | Role | Name | Date of Appointment |
+| ----- | --------------- | ----------|
 | President | Tanushree Jindal | 15 August, 2018 |
 | Member | Prajakta Digamber | 15 August, 2018 |
-| Member | Ankur Sethi | 15 August, 2018-31 December, 2018 |
+| Member | *Vacant* |  |
 | External Member | Abhaya Tatavarti | 15 August, 2018 |
 
 The President and other members of the committee shall hold office for such period, not exceeding three years, from the date of their nomination as may be specified by the employer. A complainant can approach any member of the committee with her written complaint.

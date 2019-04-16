@@ -2,6 +2,8 @@
 
 ```
 We have not come to a consensus around how to run our Sabbatical program, and do NOT currently have one. This document remains here as a starting point for our conversations, and to document our latest thinking.
+
+Updated: 16 April, 2019
 ```
 
 
@@ -15,3 +17,4 @@ The sabbatical should be a time of self-improvement and exploration with a centr
 The sabbatical is meant to help further our core value of improvement by letting the employees explore and learn about another area of interest. It may also help some employees avoid burnout from working on one thing for too long.
 
 To make sure that sabbatical is not overly disruptive to the team, you should plan the time for your sabbatical well in advance.
+

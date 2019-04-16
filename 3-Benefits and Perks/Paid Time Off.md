@@ -8,14 +8,18 @@ A great example of taking time off is an Obvious-er taking a day to do some spri
 
 1. Casual and Sick Leave: **15 days**
 2. [Mandatory State/National Holidays](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Holiday%20List.md): **8 days**
-3. The Winter Break: **7 days**
-4. Menstrual Leave ([thanks Nilenso!](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/))
+3. Winter Break: **7 days**
+4. Menstrual Leave
 5. [Maternity and Paternity Leave](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Parental%20Leave.md)
 6. Bereavement Leave
 
 ### Winter Break
 
 Obvious takes a Winter Break each year. For 2019, the Winter Break is December 24 – December 31. These deductions are automatic—you don’t need to submit any requests for time away.
+
+### Menstrual Leave
+
+Obvious offers paid menstrual leave for anyone who needs it, no questions asked. More details, and [a hat-tip to Nilenso](https://blog.nilenso.com/blog/2016/05/16/i-have-cramps/) from whom we have stolen this policy, the rationale and the explanation, wholesale.
 
 ### Bereavement Leave
 
@@ -68,3 +72,5 @@ Other [tips to avoid burnout](http://www.mayoclinic.org/healthy-lifestyle/adult-
 - Meditate to take your mind away from work. [Headspace](https://www.headspace.com/science) and [Calm](https://www.calm.com/meditate) are good tools for creating meditation habits.
 - Don't start work as soon as you wake up. Take your time doing your morning routine.
 - Set yourself as away when you are not working. Snooze your Slack notifications. It is fine to be not reachable during your off time.
+
+_Updated: 16 April, 2019_
