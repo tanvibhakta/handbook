@@ -8,6 +8,10 @@ We do not tolerate harassment of community members in any form. Harassment inclu
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance. Consider that calling attention to differences can feel alienating.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the CEO, a VP or a member of the Board of Directors immediately.
+Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the founders, a member of the [Prevention of Sexual Harassment Committee](https://github.com/obvious/handbook/blob/master/1-Employment%20Policies/Prevention%20of%20Sexual%20Harassment.md) or a member of the Board of Directors immediately.
+
+## Complaint Policy
+
+Obvious has a virtual open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with Rahul as soon as possible. If for any reason you don’t feel comfortable discussing it with Rahul, feel free to raise the issue with any of the other founders or anyone on the Board of Directors. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
 Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
