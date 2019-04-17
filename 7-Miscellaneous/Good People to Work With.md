@@ -11,21 +11,22 @@ To partly address that gap after having had the privilege of working with a few 
 ## Branding & Graphic Design
 
 - [CoDesign](www.codesign.in)
+- [Cracker and Rush](https://www.crackerandrush.com/)
 - [Beard Design](https://bearddesign.co/)
-- [Kracken Design](http://krackndesign.com/)
+- [Animal](https://www.weareanimal.co/)
+- [Itu Chaudhuri Design]([http://icdindia.com/)
 - [Turmeric Design](http://www.turmericdesign.com/)
 - [Seventh Inc](http://www.seventhinc.com/)
-- [Animal](https://www.weareanimal.co/)
-- [Itu Chaudhuri Design](http://icdindia.com/)
+- [Kracken Design](http://krackndesign.com/)
 
 ## Digital Design
 
 - [Beard Design](https://bearddesign.co/)
 - [3 Sided Coin](https://3sided.co.in)
+- [Propelland](propelland.com/)
 - [Miranj](https://miranj.in/)
 - [Thoughtput](https://thoughtput.in/)
 - [Khushbu Kapadia](https://www.khushbukapadia.com/)
-- [Propelland](propelland.com/)
 
 ## Mobile Development
 
