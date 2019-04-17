@@ -2,7 +2,7 @@
 
 At Obvious, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries (both software and consulting). It takes active effort to find the hidden biases in our companies and remove them.
 
-This repository contains all of the policies that we use at Obvious. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
+One of our core values is to be "**public by default**": this repository therefore contains nearly all of the policies that we use at Obvious. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
 
@@ -47,12 +47,17 @@ If these policies sound like a place where you want to work, write in to us at [
 * [Speaking at Conferences](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Speaking%20at%20Conferences.md)
 * [Referral Bonuses](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Referral%20Bonuses.md)
 
+## Onboarding (Your First 90 Days)
+
+* Onboarding - Days 1 to 90
+
 ## Operations
 
 * [Communication and Transparency](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Communication%20and%20Transparency.md)
 * [Diversity and Sourcing Candidates](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Diversity%20and%20Sourcing%20Candidates.md)
 * [Effective Meetings](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Effective%20Meetings.md)
 * [1 on 1s](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/One-on-Ones.md)
+* [OKRs](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Objectives and Key Results.md)
 * [Security Practices](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Security%20practices.md)
 * [Charitable Donations](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Charitable%20Donations.md)
 
@@ -77,7 +82,9 @@ If these policies sound like a place where you want to work, write in to us at [
 
 ## Design
 
-* TBD
+* [The Design Sprint](https://obvious.in/playbook/sprint/before-the-sprint/)
+* [Relay](https://obvious.in/playbook/relay/days-1-2-align/)
+* [Product Design](https://obvious.in/playbook/product-design/alignment/)
 
 ## Miscellaneous
 
