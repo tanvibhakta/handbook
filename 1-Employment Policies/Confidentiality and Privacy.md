@@ -1,6 +1,13 @@
 # Confidentiality and Privacy at Obvious
 
+``` 
+WIP - Not currently representative of our policies
+```
+
+
+
 In general, Obvious is an extremely open company. Part of our mission is to transfer as much of our knowledge, intellectual property and work product to the public as we can, because we feel like that's better for the world. Examples of things that we explicitly make public:
+
 * Our source code
 * Our user interface designs.
 * Our product planning boards.

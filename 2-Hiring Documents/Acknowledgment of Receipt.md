@@ -19,7 +19,3 @@ Print Name: ________________________
 Signature: ________________________
 
 ```
-
-
-You may digitally sign this acknowledgement using your Obvious Google login and visiting this page in Google Drive:
-HR - Private Internal to Obvious / Employee Handbook / Acknowledgement of Receipt of the Employee Handbook
