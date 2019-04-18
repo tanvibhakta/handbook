@@ -57,7 +57,7 @@ If these policies sound like a place where you want to work, write in to us at [
 * [Diversity and Sourcing Candidates](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Diversity%20and%20Sourcing%20Candidates.md)
 * [Effective Meetings](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Effective%20Meetings.md)
 * [1 on 1s](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/One-on-Ones.md)
-* [OKRs](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Objectives and Key Results.md)
+* [OKRs](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Objectives%20and%20Key%20Results.md)
 * [Security Practices](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Security%20practices.md)
 * [Charitable Donations](https://github.com/obvious/handbook/blob/master/4-How%20We%20Work/Charitable%20Donations.md)
 
