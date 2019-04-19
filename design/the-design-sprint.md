@@ -162,7 +162,11 @@ In the observation room, find a whiteboard \(or a shared spreadsheet\) and divid
 
 Alongside each interview, everyone takes notes and at the end of the interview adds them to the relevant column. Continue this exercise for all the 5 interviews, and then clean up the notes by removing duplicates.
 
+{% hint style="success" %}
 ### Closure
 
 Spend an hour discussing the observations as a team. Talk about ‘what worked well’, ‘what worked reasonably well’ and ‘what did not work at all’. Think about your next steps, pat each other on the back, and get some beers to celebrate your new found ability to put your ideas in front of your customers in a matter of a week.
+{% endhint %}
+
+
 
