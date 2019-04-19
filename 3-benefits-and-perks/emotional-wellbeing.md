@@ -6,7 +6,7 @@ Finding a therapist \(or psychiatrist, or counsellor\) can sometimes take a whil
 
 Your sessions remain completely confidential between you and your doctor. Obvious will never ask either you or your doctor about what transpires during your sessions.
 
-## List of Mental Health Practitioners
+### List of Mental Health Practitioners
 
 * [Nimhans](http://www.nimhans.ac.in/online-appointments-opd)
 * [Parivarthan](http://www.parivarthan.org/)

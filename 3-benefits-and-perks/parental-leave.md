@@ -4,7 +4,7 @@ When you welcome a new child _\(birthed or adopted\)_, Obvious encourages all fu
 
 Employees should give the rest of the team as much notice as possible before they take new parent leave, though there is no requirement for how far in advance notification needs to be given. Parenthood can be unexpected and sensitive, but the more that a team can anticipate the absence, the easier it will be to handle.
 
-## Notes
+### Notes
 
 1. Ideally, we should not distinguish between parents, and strive to give both sets of parents the same amount of time off. We will only there once we meet certain financial and organisational stability goals.
 2. You can also spread this time off over the first year - just follow our guidelines on communicating your time off

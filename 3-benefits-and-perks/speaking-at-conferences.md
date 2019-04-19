@@ -6,7 +6,7 @@ One of the key mechanisms that we've identified as being key to broadcasting the
 2. What support Obvious can provide
 3. A small collection of resources on how to choose a topic for your talk, prepare for it and present.
 
-## How to select a conference
+### How to select a conference
 
 Work with your colleagues to shortlist high impact conferences around the world. Choose conferences have featured speakers whom you've personally admired, talks that have changed the way you have worked etc. A good event or conference usually has the following features:
 
@@ -29,7 +29,7 @@ To ensure that you focus on your talk/presentation, Uncommon will do the followi
 * If a conference gives out a speaker honorarium \(usually $150-$500\), that's yours to keep! Consider it a reward for the many nights that you've undoubtedly spent putting together your conference talk, reviewing it with colleagues, friends, designing your slides and practicing your talk.
 * Unless it falls foul of conference guidelines, make sure you take some Obvious swag to give out - use it to make some new friends!
 
-## Useful Resources
+### Useful Resources
 
 * [https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences)
 * [http://cultivatedmanagement.com/how-to-submit-and-speak-at-a-conference/](http://cultivatedmanagement.com/how-to-submit-and-speak-at-a-conference/)

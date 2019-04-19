@@ -4,7 +4,7 @@
 WIP: Fill this in (with inputs from our insurance provider, Insumust)
 ```
 
-## Group Health Insurance
+### Group Health Insurance
 
 This policy covers hospital expenses related illness, disease or injury. Your spouse and up to two children are covered as well.
 

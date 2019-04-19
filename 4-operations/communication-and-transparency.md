@@ -6,15 +6,7 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ### Communication
 
-### Daily Standups and WorkingOn
-
-We keep everyone up to date on what we are working on using [WorkingOn](https://workingon.co).
-
-We also meet briefly every day at our Daily Standup meeting. At this meeting, you don't need to rehash everything that you've already put into WorkingOn, you should just highlight issues that are notable, or any impediments or dependencies that you have.
-
-This makes it easy to keep in the loop on projects and also keeps everyone at Obvious accountable to everyone else to do their part.
-
-### Pro-active checkins
+#### Pro-active checkins
 
 It's also a good idea to be proactive about letting teammates know what you're working on and how it's going. 18F has a great paragraph on this:
 
@@ -22,7 +14,7 @@ _Proactively communicate. As Kate Garklavs, a content designer who lives in Port
 
 With increased individual flexibility, since we're all working at the same time less, it's important to go above and beyond in letting people know when we are around.
 
-### Slack
+#### Slack
 
 #### Slack Status
 
@@ -35,35 +27,27 @@ There are 4 states in which a teammate can be in on Slack:
 
 Obviously, edge cases exist, but it's important that on both ends of our communication \(both asking and responding\) we uphold these expectations so that everyone on our team can plan their work effectively.
 
-## Transparency
+### Transparency
 
-### Public Slack Channels
+#### Public Slack Channels
 
 Almost all Slack conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
 
 Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly.
 
-### Public Calendars
+#### Public Calendars
 
 Work calendars should be shared to make scheduling meetings really easy and also to let the rest of the team see where we’re spending our time. Personal calendars often have sensitive information, and should be kept separate. Work calendars are documentation of how we’re budgeting our hours and are useful for the rest of the team.
 
-### Open Stats
+#### Open Stats
 
 When we measure something, it should be visible to everyone on the team. Our stats will be great sometimes and disappointing others, but when we hide or silo the hard stats, fewer people can help fix them. Any data that we’re collecting should be open to everyone.
 
-### We Succeed Together When We Trust Each Other
+#### We Succeed Together When We Trust Each Other
 
 Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our core values, and why it’s a mantra we repeat in many conversations.
 
-## Org Charts and Direct Reports
-
-At Obvious, we're still tiny and we're not so big on org charts, so you won't find one here.
-
-In general, everyone at Obvious either reports to Dhruv or Pratul.
-
-## Providing Feedback
-
-Not that who works for whom matters much...
+### Providing Feedback
 
 Since we value openness and transparency, you are as likely to get direction or feedback from your manager as you are from one of your peers. We depend on that. **If you have feedback for someone, please just give it to them.** Be polite and honest. It's not a big deal, and they will appreciate it. As a general rule, if you have feedback for someone, it's your responsibility to give it to them directly - it's not OK to talk about someone else without also being willing to talk to them directly.
 
@@ -72,4 +56,6 @@ Since we value openness and transparency, you are as likely to get direction or 
 Also be sure to thank and congratulate folks when you think they are doing great work, too. The more the better. Doing it in public, like on the \#daily-wins channel can be a morale-booster for everyone!
 
 If you are uncomfortable providing feedback to someone directly, please talk to your manager about it.
+
+See also: [One on Ones](one-on-ones.md)
 

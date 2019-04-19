@@ -8,7 +8,7 @@ There is another, more insidious kind of technical debt. Maybe the test suite is
 
 None of these things are deal breakers. If anything, they might seem like distractions. It feels vain to complain about them. And so these things never get done. They don’t seem important enough by themselves. The friction killed them. Some of these explorations could be of no consequence. Some of them could redefine your project. This is why you must actively reduce friction, like your project’s fate depends on it. Because it does.
 
-## Evolving architecture
+### Evolving architecture
 
 When dealing with large, complex systems, a key problem is how to evolve the architecture without just throwing everything up in the air and hoping it lands on time. That approach is a thing of the past in our world of continuous engineering and delivery. In fact, even in the past it was problematic since it deferred many of the trickiest and time-consuming integration tasks and was a source of many a late project.
 

@@ -48,7 +48,7 @@
   * [Release engineering](6-engineering/release-engineering.md)
   * [Code reviews & Pull Requests](6-engineering/code-reviews-and-pull-requests.md)
   * [System Design & Architecture](6-engineering/system-design-and-architecture.md)
-  * [Vital reading material](6-engineering/vital-reading-material.md)
+  * [Vital Reading Material](6-engineering/vital-reading-material.md)
 * [Miscellaneous](7-miscellaneous/README.md)
   * [Good People to Work With](7-miscellaneous/good-people-to-work-with.md)
 

@@ -1,6 +1,6 @@
 # Security Practices
 
-## Enable "Find My Mac"
+### Enable "Find My Mac"
 
 Apple’s iCloud service has a feature called Find My Mac which lets you see the location of your Apple device. As long as your lost Mac isn’t in sleep and is connected to a Wi-Fi network or tethered to a personal hotspot, you can locate it on a map. If it’s connected to the Internet via Ethernet, Wi-Fi, or a personal hotspot, you can play a sound on it, lock it, or erase it completely.
 
@@ -8,7 +8,7 @@ This location is not very precise, but it can be a useful piece of data if you a
 
 ![Find My Mac](https://i.imgur.com/nSHZFMb.png)
 
-## Use a Password Manager
+### Use a Password Manager
 
 Given the current state of internet security, sensitive data leaking all the time is not even breaking news. Which means the security of your data, although should be the concern of the service, is also slightly in your hands. You must ensure it is as difficult as possible for someone to get access to your data.
 
@@ -18,7 +18,7 @@ Password managers like [1Password](https://1password.com/), [LastPass](https://w
 
 Once you change all your passwords to lengthy random ones, the only password you need to remember is the “master” password of the manager itself. This means that if a service gets hacked and passwords get leaked, only the password you used on that particular website gets compromised. All other passwords remains safe!
 
-## Two-Factor Authentication
+### Two-Factor Authentication
 
 Whenever possible, you should use [two-factor authentication \(2FA\)](https://en.wikipedia.org/wiki/Multi-factor_authentication) for logging in to services. Normally, you only need a Username \(or an email\) and a Password to login to a service. Usernames are fairly easy to guess -- most people repeat email addresses and usernames across services, and many of those services publicly display this data. When it comes to passwords, most people repeat those too and \(unfortunately\) use something that is fairly easy to guess. Organisations have historically been bad at keeping user data safe. Passwords are stored using insecure methods, databases get hacked -- these are now normal occurrences in the news and it doesn't even surprise us.
 
@@ -26,7 +26,7 @@ Whenever possible, you should use [two-factor authentication \(2FA\)](https://en
 
 A very popular, free of cost, OTP generation app is [Authy](https://authy.com/). Authy has helpful guides to setup 2FA on most services, and you should turn on 2FA for every service. It benefits you!
 
-### Services we use that support 2FA
+#### Services we use that support 2FA
 
 * [Google](https://gmail.com)
 * [Slack](https://slack.com) 
@@ -37,7 +37,7 @@ A very popular, free of cost, OTP generation app is [Authy](https://authy.com/).
 * [Lobsters](https://lobste.rs)
 * [Instagram](https://instagram.com) 
 
-## Enable FileVault \(encryption\)
+### Enable FileVault \(encryption\)
 
 Our devices \(computers, phones, tablets etc.\) contain a lot of private and confidential data belonging to us and our clients. If you’re logged into your Obvious accounts \(email, drive, remote servers etc.\) on any device, you must take extra precaution that the data remains safe. As a general rule, you should try and limit the number of devices that have any work-related data.
 
@@ -47,7 +47,7 @@ In macOS, open System Preferences. Go to Security and find the tab called “Fil
 
 ![FileVault in macOS Mojave](https://i.imgur.com/TEfaYDh.png)
 
-### But why?
+#### But why?
 
 It is important to know why full-disk encryption is important and necessary. Most people are unaware that if you have a physical access to a computer \(pretty any computer running Windows, macOS or Linux\), and the storage is not encrypted... you can simply reset the administrator password and get access to all the files. Modern operating systems come with a recovery mode built in that allows this; the only way to truly secure your files is full-disk encryption. However, this can’t be done remotely so one needs the computer in front of them, which means this is a real possibility if your computer gets stolen.
 

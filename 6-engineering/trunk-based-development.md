@@ -1,6 +1,6 @@
 # Trunk-based Development
 
-> ### A source-control branching model, where developers collaborate on code in a single branch called `master` \(or “trunk”\), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.
+> A source-control branching model, where developers collaborate on code in a single branch called `master` \(or “trunk”\), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.
 >
 > _From_ [_TrunkBasedDevelopment.com_](https://trunkbaseddevelopment.com/)
 
@@ -12,7 +12,7 @@ This ensures the codebase is always releasable on demand and helps to make CD a 
 
 This also means that TBD is the opposite of models like Git Flow, where features are developed in parallel to `master`, living in long-running branches.
 
-> ### Branches create distance between developers and we do not want that.
+> Branches create distance between developers and we do not want that.
 >
 > _Frank Compagner, Guerrilla Games_
 
@@ -28,17 +28,17 @@ TBD is a model that reduces the "distance" to the minimum, and there are two way
 1. In large companies which have developer experience teams \(like Google\), everyone commits directly to the `master` branch. The commits do not become part of the repository immediately -- they're usually held in a staging server, where code review happens, and CI tools are run. Once everything looks good, the commits are applied to `master` and become visible to the rest of the team.
 2. Smaller teams \(like ours\) can accomplish the same thing by using Pull Requests. We create short-lived daily branches and raise a PR, usually at the end of the work day. The PR is used for CI \(formatting, lint, tests, etc.\), and it allows developers to engage in eager and continuous code review.
 
-## Daily branches
+### Daily branches
 
 To ensure that constant integration of code is happening, we prefer making "daily branches". This doesn't strictly mean a branch every day, but branches _rarely last beyond 2 days_ without being raised as a PR. We also ensure that the changeset of a PR doesn't exceed _300-400 lines of code_.
 
-### Conventions
+#### Conventions
 
 * Daily branches are named as `initials/date/subject`
 * For example, if your initials are PK, and you raise a branch on 17th December to update the Android Gradle Plugin, your branch title should be something like `pk/17dec/upgrade-agp`
 * No underscores allowed, only dashes
 
-## Releases
+### Releases
 
 In the ideal world of TBD, every commit is stable and release-ready, which is why CD works so well once a team switches to doing TBD.
 
@@ -50,13 +50,8 @@ As a result of this, we follow a periodic release cycle -- once a week, or once 
 * The code in the branch is tested till the date of the release
 * No one directly commits anything to a release branch. If a bug is found or an urgent change needs to be made, that change is first done on `master` and then cherry-picked onto the release branch
 
-## Associated techniques
+### Associated techniques
 
-### Feature flags
-
-[https://trunkbaseddevelopment.com/feature-flags/](https://trunkbaseddevelopment.com/feature-flags/)
-
-### Branch by abstraction
-
-[https://trunkbaseddevelopment.com/branch-by-abstraction/](https://trunkbaseddevelopment.com/branch-by-abstraction/)
+1. [Feature flags](https://trunkbaseddevelopment.com/feature-flags/)
+2. [Branch by abstraction](https://trunkbaseddevelopment.com/branch-by-abstraction/)
 

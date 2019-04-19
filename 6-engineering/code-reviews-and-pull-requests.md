@@ -4,7 +4,7 @@ Regular, team-wide code reviews are important for the health of the software bei
 
 It is an opportunity for discussion and evaluation; a chance for novice engineers to get feedback on their ideas from senior ones, and a time for senior engineers to walk the rest of the team through their thought process.
 
-## Never forget that
+### Never forget that
 
 * It is the code that is being reviewed, and not the person who wrote it. 
 * Many programming decisions are opinions and not facts. When discussing tradeoffs, ensure it doesn’t lead to bike-shedding and a cost-benefit analysis is done -- “What is the cost of discussing this thing for 60 minutes? What is the benefit or drawback of picking a choice? Is it worth our time?” 
@@ -13,7 +13,7 @@ It is an opportunity for discussion and evaluation; a chance for novice engineer
 * Team and project standards are much more important than personal opinions. When disagreeing, go with the prevailing standard and discuss the standard ... right here, in the handbook! Just open a pull request.
 * Don’t use hyperbolic words and avoid all sarcasm. Temper your communication, sit down, stay humble. 
 
-## Assigning a PR
+### Assigning a PR
 
 * In a round-robin fashion, assign your PR to a team member. This should be done without asking them. Everyone should be coding and reviewing at all times. 
 * If you think your PR is non-trivial and needs more than one pair of eyes, then assign it to two people. If you’re new to the team, assign it to two people.
