@@ -4,6 +4,7 @@
 * Context
 * Community
 * Judo
+* Public by Default
 
 ## We operate with openness and transparency.
 
