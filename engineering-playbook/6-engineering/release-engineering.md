@@ -1,4 +1,4 @@
-# Release engineering
+# Release Engineering
 
 Whenever a team is trying to ship a product, there are 3 major worries…
 

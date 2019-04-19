@@ -42,22 +42,25 @@
 * [Legal and Admin](employee-handbook/5-legal-and-admin/README.md)
   * [Obvious's Finance and Expense Policy](employee-handbook/5-legal-and-admin/finances.md)
   * [Getting Paid](employee-handbook/5-legal-and-admin/getting-paid.md)
-* [Engineering](employee-handbook/6-engineering/README.md)
-  * [Daily standup meetings](employee-handbook/6-engineering/daily-standup-meetings.md)
-  * [Iteration Planning Meetings](employee-handbook/6-engineering/iteration-planning-meetings.md)
-  * [Trunk-based Development](employee-handbook/6-engineering/trunk-based-development.md)
-  * [Git commit messages](employee-handbook/6-engineering/git-commit-messages.md)
-  * [Refactoring](employee-handbook/6-engineering/refactoring.md)
-  * [Release engineering](employee-handbook/6-engineering/release-engineering.md)
-  * [Code reviews & Pull Requests](employee-handbook/6-engineering/code-reviews-and-pull-requests.md)
-  * [System Design & Architecture](employee-handbook/6-engineering/system-design-and-architecture.md)
-  * [Vital Reading Material](employee-handbook/6-engineering/vital-reading-material.md)
 
-## Design Practice
+## Design Playbook
 
 * [The Design Sprint](design/the-design-sprint.md)
 * [The Design Relay](design/relay.md)
 * [The Design Marathon](design/the-design-marathon.md)
+
+## Engineering Playbook
+
+* [Engineering at Obvious](engineering-playbook/6-engineering/README.md)
+  * [Daily Standup Meetings](engineering-playbook/6-engineering/daily-standup-meetings.md)
+  * [Iteration Planning Meetings](engineering-playbook/6-engineering/iteration-planning-meetings.md)
+  * [Trunk-based Development](engineering-playbook/6-engineering/trunk-based-development.md)
+  * [Git Commit Messages](engineering-playbook/6-engineering/git-commit-messages.md)
+  * [Refactoring](engineering-playbook/6-engineering/refactoring.md)
+  * [Release Engineering](engineering-playbook/6-engineering/release-engineering.md)
+  * [Code Reviews & Pull Requests](engineering-playbook/6-engineering/code-reviews-and-pull-requests.md)
+  * [System Design & Architecture](engineering-playbook/6-engineering/system-design-and-architecture.md)
+  * [Vital Reading Material](engineering-playbook/6-engineering/vital-reading-material.md)
 
 ## For Clients
 

@@ -1,4 +1,4 @@
-# Daily standup meetings
+# Daily Standup Meetings
 
 DSMs happen every day, usually with the full team of a project -- this includes people from the client’s org who are working with us, and other external contractors.
 

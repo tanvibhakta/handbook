@@ -1,6 +1,12 @@
-# Git commit messages
+---
+description: >-
+  Writing clear and concise git commit messages is important to the overall
+  health of a project and the team that is working on the project.
+---
 
-Writing clear and concise git commit messages is important to the overall health of a project and the team that is working on the project.
+# Git Commit Messages
+
+## Good Commit Messages
 
 Good commit messages have 3 critical benefits:
 
@@ -8,7 +14,7 @@ Good commit messages have 3 critical benefits:
 2. Help in writing good release notes 
 3. Help future maintainers \(and your future self\) understand why a change was made, or what exactly a particular bug was
 
-## Sample commit message
+### Sample commit message
 
 ```text
  Short (80 chars or less) summary of changes
