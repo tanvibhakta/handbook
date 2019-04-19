@@ -56,7 +56,8 @@
 ## Design Practice
 
 * [The Design Sprint](design/the-design-sprint.md)
-* [Relay](design/relay.md)
+* [The Design Relay](design/relay.md)
+* [The Design Marathon](design/the-design-marathon.md)
 
 ## For Clients
 

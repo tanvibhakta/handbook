@@ -1,10 +1,10 @@
 ---
 description: >-
-  Relay is the time for lofty thinking and creative exploration. It is our tool
-  for innovation, big thinking, and concept development.
+  The Design Relay is the time for lofty thinking and creative exploration. It
+  is our tool for innovation, big thinking, and concept development.
 ---
 
-# Relay
+# The Design Relay
 
 ## Day 1 – Opportunities
 
