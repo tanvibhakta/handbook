@@ -28,13 +28,13 @@
   * [Continuing Education](3-benefits-and-perks/continuing-education.md)
   * [Referral Bonuses](3-benefits-and-perks/referral-bonuses.md)
   * [Sabbatical](3-benefits-and-perks/sabbatical.md)
-* [Operations](4-operations/README.md)
-  * [Effective Meetings](4-operations/effective-meetings.md)
-  * [Security Practices](4-operations/security-practices.md)
+* [Onboarding](4-operations/README.md)
   * [Objectives and Key Results](4-operations/objective-and-key-results.md)
-  * [Diversity and Hiring](4-operations/diversity-and-sourcing-candidates.md)
   * [Communication and Transparency](4-operations/communication-and-transparency.md)
+  * [Effective Meetings](4-operations/effective-meetings.md)
   * [One on Ones](4-operations/one-on-ones.md)
+  * [Security Practices](4-operations/security-practices.md)
+  * [Diversity and Hiring](4-operations/diversity-and-sourcing-candidates.md)
   * [Charitable Donations](4-operations/charitable-donations.md)
 * [Legal and Admin](5-legal-and-admin/README.md)
   * [Obvious's Finance and Expense Policy](5-legal-and-admin/finances.md)
@@ -49,6 +49,17 @@
   * [Code reviews & Pull Requests](6-engineering/code-reviews-and-pull-requests.md)
   * [System Design & Architecture](6-engineering/system-design-and-architecture.md)
   * [Vital Reading Material](6-engineering/vital-reading-material.md)
-* [Miscellaneous](7-miscellaneous/README.md)
-  * [Good People to Work With](7-miscellaneous/good-people-to-work-with.md)
+* [Miscellaneous](7-miscellaneous.md)
+
+## Design
+
+* [The Design Sprint](design/the-design-sprint.md)
+
+## For Clients
+
+* [Understanding Your New Design Team](for-clients/understanding-your-new-design-team.md)
+
+## Miscellaneous
+
+* [Good People to Work With](miscellaneous/good-people-to-work-with.md)
 
