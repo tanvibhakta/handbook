@@ -8,6 +8,12 @@ Fair compensation is critical to making Obvious a desirable place to work and he
 
 Obvious evaluates compensation annually. Our ability to offer raises is dependent on our current financial situation.
 
+- **Equitable**: A basic tenet of our framework is that 
+- **Simple and** **Accessible**: Our formula needs to be simple enough for everyone to understand
+- **Do the Right Thing**: Make sure that  take-home pay wouldn’t drop
+- **Adaptable:** Our framework needs to be able to adapt and evolve
+- **Competitive:** Our compensation package remains competitive
+
 ## Bonuses
 
 Obvious does not currently give bonuses for any reason.
