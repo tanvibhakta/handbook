@@ -1,4 +1,4 @@
-# Obvious Policies
+# Welcome to Obvious
 
 Welcome!
 

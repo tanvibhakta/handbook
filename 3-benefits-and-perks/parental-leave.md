@@ -9,5 +9,3 @@ Employees should give the rest of the team as much notice as possible before the
 1. Ideally, we should not distinguish between parents, and strive to give both sets of parents the same amount of time off. We will only there once we meet certain financial and organisational stability goals.
 2. You can also spread this time off over the first year - just follow our guidelines on communicating your time off
 
-_Updated: 16 April, 2019_
-

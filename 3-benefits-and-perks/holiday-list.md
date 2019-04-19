@@ -18,5 +18,3 @@
 | 14 | Winter Shutdown \(PTO\) | 30-Dec-2019 |
 | 15 | Winter Shutdown \(PTO\) | 31-Dec-2019 |
 
-_Updated: 16 April, 2019_
-

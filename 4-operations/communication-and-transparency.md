@@ -4,7 +4,7 @@ The best way for you to make a decision about what’s good for Obvious is to ha
 
 Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page, especially on projects they’re not working on on a daily basis, even for a company the size of Obvious. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
-## Communication
+### Communication
 
 ### Daily Standups and WorkingOn
 
@@ -57,7 +57,7 @@ Communication and negotiation among groups of people is difficult, but the more 
 
 ## Org Charts and Direct Reports
 
-At Obvious, we're still tiny and we're not so big on org charts, so you won't fine one here.
+At Obvious, we're still tiny and we're not so big on org charts, so you won't find one here.
 
 In general, everyone at Obvious either reports to Dhruv or Pratul.
 

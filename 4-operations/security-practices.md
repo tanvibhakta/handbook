@@ -1,4 +1,4 @@
-# Security practices
+# Security Practices
 
 ## Enable "Find My Mac"
 

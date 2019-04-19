@@ -1,4 +1,4 @@
-# Tidepool's Finance and Expense Policy
+# Obvious's Finance and Expense Policy
 
 ## Expense Policy
 

@@ -37,5 +37,3 @@ To ensure that you focus on your talk/presentation, Uncommon will do the followi
 * [https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic)
 * [https://www.deconstructconf.com/blog/how-to-prepare-a-talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 
-_Updated: 16 April, 2019_
-

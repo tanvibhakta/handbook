@@ -1,26 +1,28 @@
-# One-on-Ones
+---
+description: 'Dedicated time with your manager, focused on what’s important to you.'
+---
+
+# One on Ones
 
 _Frequency: Fifty minutes every month_
 
-**Dedicated time with your manager, focussed on what’s important to you.**
+### Introduction
 
-## Introduction
-
-### The What
+#### The What
 
 One-on-one meetings are a private opportunity for you to meet with your manager and discuss anything you want. This is your time! _You_ set the agenda, format, and location. During this time, you can give feedback, build and enhance trust with your manager, discuss new ideas and problems, and brainstorm on ways to advance your career. We specifically devote this time to you.
 
-### The Why
+#### The Why
 
 At Obvious, our goal is to create an environment where everyone feels empowered, supported, and heard. To accomplish this objective, we must create a safe setting for you to discuss your ambitions, concerns, and suggestions. One-on-ones provide you with that opportunity.
 
-## Agenda
+### Agenda
 
 You, as the direct report, decide the agenda of your one-on-one with your manager. You create a format that works best for you, and it may change each time, depending on your priorities. We recommend focusing on topics that pertain only to you. In other words, things you are not ready to discuss in front of the entire team.
 
 We suggest covering: positive work events, negative work events, manager feedback and outside life. Each one-on-one, though, does not need to cover all four areas. These proposed topics provide general guidance, but you have ultimate control.
 
-### Positive Work Events
+#### Positive Work Events
 
 Discussing what drives you shows your manager what you enjoy and want to do. By conveying this information, it makes it easier for your manager to provide you with more of those opportunities.
 
@@ -56,7 +58,7 @@ Bring up things that are in the back of your mind. Maybe you do not know exactly
 
 Hopefully, you already provide your manager with immediate, personal one-on-one feedback regularly, whether after a meeting, privately, or through written communication. However, sometimes you might need more time. Use these meetings to give advice on how your manager can impact you directly. Also, use this time to follow up on previous advice you gave your manager to let them know how it is going.
 
-We recommend using the [Situation -&gt; Behaviour -&gt; Impact \(SBI\) model](https://github.com/obvious/handbook/blob/master/5-Onboarding%20Documents/One-on-Ones.md#situation---behaviour---impact-model). Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
+We recommend using the [Situation -&gt; Behaviour -&gt; Impact \(SBI\)](one-on-ones.md#situation-greater-than-behaviour-greater-than-impact-model) model. Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
 
 #### What can the manager do more of?
 

@@ -1,4 +1,4 @@
-# Our recommendations
+# Good People to Work With
 
 One of the most fun parts of our job is that we get to meet people who are solving interesting, real problems in new markets on a regular basis. We’ve had the pleasure of seeing excitement go to idea to design to product and have participated in a small way in a few.
 

@@ -1,14 +1,12 @@
 # Prevention of Sexual Harassment Policy
 
+> **Important:** if you would like to report a harassment incident, write to: posh-committee@obvious.in
+
 Obvious believes in equal employment opportunity and that sexual harassment as a form of misconduct undermines the safety and dignity of all persons. We do not tolerate verbal or physical conduct that creates an intimidating, offensive, or hostile environment for our employees. Harassment of any kind, including sexual harassment, is forbidden in this organization and every employee has the right to be protected against it.
 
 We are committed to creating a healthy and safe working environment that enables employees to work without fear of prejudice, bias and sexual harassment. All employees of this organization have the right to be treated with dignity.
 
-The purpose of this policy is to prevent any acts of sexual harassment, and to provide an understanding of the mechanisms for redressal provided by this organization in the event of sexual harassment at the workplace. This policy has been created in accordance with the provisions of \[The Sexual Harassment of Women at Workplace \(Prevention, Prohibition and Redressal\) Act, 2013\]\([https://en.wikipedia.org/wiki/Sexual\_Harassment\_of\_Women\_at\_Workplace\_\(Prevention,\_Prohibition\_and\_Redressal\)\_Act,\_2013](https://en.wikipedia.org/wiki/Sexual_Harassment_of_Women_at_Workplace_%28Prevention,_Prohibition_and_Redressal%29_Act,_2013)\).
-
-```text
-Important: if you would like to report a harassment incident, write to: posh-committee@obvious.in
-```
+The purpose of this policy is to prevent any acts of sexual harassment, and to provide an understanding of the mechanisms for redressal provided by this organization in the event of sexual harassment at the workplace. This policy has been created in accordance with the provisions of [The Sexual Harassment of Women at Workplace \(Prevention, Prohibition and Redressal\) Act, 2013](https://en.wikipedia.org/wiki/Sexual_Harassment_of_Women_at_Workplace_%28Prevention,_Prohibition_and_Redressal%29_Act,_2013).
 
 ## Scope
 

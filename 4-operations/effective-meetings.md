@@ -1,18 +1,18 @@
-# Effective meetings and group work
+# Effective Meetings
 
 To increase flexibility in how and where employees at Obvious work, we agree on a shared set of constraints for group work and meetings.
 
-## Meeting Ettiquette
+### Meeting Etiquette
 
-### Meetings start on time
+#### Meetings start on time
 
 If you're leading a meeting, it's your responsibility to start the meeting on time. If you're attending a meeting, you are responsible for showing up on time.
 
-### Meetings happen in regular hours
+#### Meetings happen in regular hours
 
 All team members should make themselves available for face-to-face meetings between 10:00am-5:00pm, as long as they are scheduled at least 24 hours in advance. If a meeting needs to happen outside of these hours, the meeting organizer should scheduled it a week in advance.
 
-### Meetings should generally have a video option
+#### Meetings should generally have a video option
 
 If you're hosting a meeting, please schedule it within Google Calendar and make sure it includes a Hangout link.
 

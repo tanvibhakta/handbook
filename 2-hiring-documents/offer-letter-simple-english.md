@@ -1,4 +1,4 @@
-# Subcontractor Agreement
+# Offer Letter - Simple English
 
 ## Employee Name & Obvious
 
@@ -31,7 +31,7 @@ You will be covered by the the following benefits at Obvious:
 _Please note:_
 
 * You may be eligible for some of these only after you have completed your trial period
-* These benefits may change from time to time. The most current version of our benefits will always be on our public handbook page - located at: [https://github.com/obvious/handbook](https://github.com/obvious/handbook).
+* These benefits may change from time to time. The most current version of our benefits will always be on our public handbook page.
 
 Please indicate your agreement with these terms and accept this offer by signing and dating this agreement on or before **Signing Date**.
 

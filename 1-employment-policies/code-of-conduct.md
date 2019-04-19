@@ -8,7 +8,7 @@ We do not tolerate harassment of community members in any form. Harassment inclu
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance. Consider that calling attention to differences can feel alienating.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the founders, a member of the [Prevention of Sexual Harassment Committee](https://github.com/obvious/handbook/blob/master/1-Employment%20Policies/Prevention%20of%20Sexual%20Harassment.md) or a member of the Board of Directors immediately.
+Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the founders, a member of the [Prevention of Sexual Harassment Committee](prevention-of-sexual-harassment.md) or a member of the Board of Directors immediately.
 
 ## Complaint Policy
 

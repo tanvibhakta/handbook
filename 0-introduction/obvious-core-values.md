@@ -1,4 +1,4 @@
-# Obvious's Core Values
+# Our Core Values
 
 ## We operate with openness and transparency.
 

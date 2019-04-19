@@ -16,7 +16,5 @@ Your sessions remain completely confidential between you and your doctor. Obviou
 
 ### See Also
 
-* [Time Off: Recognising and Avoiding Burnout](https://github.com/obvious/handbook/blob/master/3-Benefits%20and%20Perks/Paid%20Time%20Off.md#additional-notes)
-
-_Updated: 16 April, 2019_
+* Time Off: [Recognising and Avoiding Burnout](paid-time-off.md#recognizing-burnout)
 
