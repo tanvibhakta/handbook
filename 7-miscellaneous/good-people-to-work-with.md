@@ -8,7 +8,7 @@ Since good digital designers are in such short supply, it is doubly frustrating 
 
 To partly address that gap after having had the privilege of working with a few exemplary designers and developers, we're creating this list to serve as a starting point for anyone seeking design assistance.
 
-## Branding & Graphic Design
+### Branding & Graphic Design
 
 * [CoDesign](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/www.codesign.in)
 * [Cracker and Rush](https://www.crackerandrush.com/)
@@ -19,7 +19,7 @@ To partly address that gap after having had the privilege of working with a few 
 * [Seventh Inc](http://www.seventhinc.com/)
 * [Kracken Design](http://krackndesign.com/)
 
-## Digital Design
+### Digital Design
 
 * [Beard Design](https://bearddesign.co/)
 * [3 Sided Coin](https://3sided.co.in)
@@ -28,18 +28,18 @@ To partly address that gap after having had the privilege of working with a few 
 * [Thoughtput](https://thoughtput.in/)
 * [Khushbu Kapadia](https://www.khushbukapadia.com/)
 
-## Mobile Development
+### Mobile Development
 
 * [Bowstring Studio](http://bowstringstudio.in/)
 * [ThoughtBot](https://thoughtbot.com/)
 
-## Backend Development
+### Backend Development
 
 * [Nilenso](https://nilenso.com/)
 * [ActiveSphere](https://www.activesphere.com/)
 * [MavenHive](http://www.mavenhive.in/)
 
-## Design/Research
+### Design/Research
 
 * [TreeMouse](http://www.treemouse.in/)
 * [Quicksand](http://quicksand.co.in/)
