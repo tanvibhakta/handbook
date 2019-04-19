@@ -14,5 +14,9 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Obvious has a virtual open-door policy, so employees are encouraged to report work-related concerns. If something about your job is bothering you, or if you have a question, concern, idea, or problem related to your work, please discuss it with Rahul as soon as possible. If for any reason you don’t feel comfortable discussing it with Rahul, feel free to raise the issue with any of the other founders or anyone on the Board of Directors. We encourage employees to come forward with any workplace complaint, even if it’s not about something that’s explicitly covered in our written policies.
 
-Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).
+#### See Also:
+
+{% page-ref page="prevention-of-sexual-harassment.md" %}
+
+_Adapted from the_ [_Hack Code of Conduct_](http://hackcodeofconduct.org/)_._
 

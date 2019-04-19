@@ -2,7 +2,7 @@
 description: Getting the most out of a Design Engagement with Obvious
 ---
 
-# Understanding Your New Design Team
+# Design at Obvious
 
 ## Welcome <a id="docs-internal-guid-c8751372-7fff-0b68-fec8-7ebdbb94ce30"></a>
 
@@ -197,7 +197,13 @@ It’s important for designers to remain creative, and that means stepping away 
 
 Our goal is to form a productive and communicative team, which is based on mutual respect and trust, to create an exceptional experience not only for your customers but also for your company.
 
-## Closure
+{% hint style="success" %}
+## In Closing...
 
 We know that you have a choice when choosing a design firm, and we are glad you selected Obvious. Each of us looks forward to working with you!
+{% endhint %}
+
+
+
+
 

@@ -57,5 +57,7 @@ Also be sure to thank and congratulate folks when you think they are doing great
 
 If you are uncomfortable providing feedback to someone directly, please talk to your manager about it.
 
-See also: [One on Ones](one-on-ones.md)
+#### See also
+
+{% page-ref page="one-on-ones.md" %}
 

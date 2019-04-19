@@ -14,7 +14,7 @@ Your sessions remain completely confidential between you and your doctor. Obviou
 * [The Alternative Story](http://alternativestory.in/)
 * [The Hank Nunn Institute](http://hanknunninstitute.com/)
 
-### See Also
+#### See Also
 
-* Time Off: [Recognising and Avoiding Burnout](paid-time-off.md#recognizing-burnout)
+{% page-ref page="paid-time-off.md" %}
 

@@ -45,9 +45,10 @@
 
 ## Design Playbook
 
-* [The Design Sprint](design/the-design-sprint.md)
-* [The Design Relay](design/relay.md)
-* [The Design Marathon](design/the-design-marathon.md)
+* [Design at Obvious](design/understanding-your-new-design-team/README.md)
+  * [The Design Sprint](design/understanding-your-new-design-team/the-design-sprint.md)
+  * [The Design Relay](design/understanding-your-new-design-team/relay.md)
+  * [The Design Marathon](design/understanding-your-new-design-team/the-design-marathon.md)
 
 ## Engineering Playbook
 
@@ -61,10 +62,6 @@
   * [Code Reviews & Pull Requests](engineering-playbook/6-engineering/code-reviews-and-pull-requests.md)
   * [System Design & Architecture](engineering-playbook/6-engineering/system-design-and-architecture.md)
   * [Vital Reading Material](engineering-playbook/6-engineering/vital-reading-material.md)
-
-## For Clients
-
-* [Understanding Your New Design Team](for-clients/understanding-your-new-design-team.md)
 
 ## Miscellaneous
 

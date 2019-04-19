@@ -1,6 +1,8 @@
 # Prevention of Sexual Harassment Policy
 
-> **Important:** if you would like to report a harassment incident, write to: posh-committee@obvious.in
+{% hint style="danger" %}
+**Important**: if you would like to report a harassment incident, write to: [posh-committee@obvious.in](mailto:posh-committee@obvious.in)
+{% endhint %}
 
 Obvious believes in equal employment opportunity and that sexual harassment as a form of misconduct undermines the safety and dignity of all persons. We do not tolerate verbal or physical conduct that creates an intimidating, offensive, or hostile environment for our employees. Harassment of any kind, including sexual harassment, is forbidden in this organization and every employee has the right to be protected against it.
 
