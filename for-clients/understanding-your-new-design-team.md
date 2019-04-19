@@ -38,7 +38,7 @@ We follow the [5 Whys](https://en.wikipedia.org/wiki/5_Whys) approach because we
 
 We use the Design Sprint to gather as much information as we can from you, so bring up any ‘gut feelings’ or suggestions. While you have input throughout the entire process, ideas discussed now are the easiest to consider without impacting the budget or timeline.
 
-### Tips for a successful Design Sprint
+#### Tips for a successful Design Sprint
 
 #### Who needs to be involved?
 
@@ -82,7 +82,7 @@ This day requires co-location because we present the prototype to your entire te
 
 We repeat this seven-day Relay process until the entire solution is fully specified. For tips on how to communicate effectively, read Giving us feedback later in this document.
 
-### Tips for success during the Relay
+#### Tips for success during the Relay
 
 #### Provide evidence-based feedback
 
