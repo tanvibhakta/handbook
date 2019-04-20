@@ -47,5 +47,5 @@ There should always be notes from these meetings, which should live at the botto
 
 ### Merging
 
-After changes have been proposed, discussed, and Rahul decides they are ready to be merged into the handbook, Howard will do the merge on Github, update the card on Trello, post about it in Slack, and send an email. For major changes, he or another team member may also write a blog post about the change and the factors that went into making it. Blog posts should \(with their permission\) acknowledge all of the community members that participated in the discussion and helped us make the change.
+After changes have been proposed, discussed, and Rahul decides they are ready to be merged into the handbook, Rahul will do the merge on Github, update the card on Trello, post about it in Slack, and send an email. For major changes, he or another team member may also write a blog post about the change and the factors that went into making it. Blog posts should \(with their permission\) acknowledge all of the community members that participated in the discussion and helped us make the change.
 
