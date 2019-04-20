@@ -11,6 +11,8 @@ description: >-
 
 The first step in the Design Marathon is to create alignment between the prototype created in the [Design Relay](relay.md) and your team.
 
+
+
 ### Experience Mapping
 
 We create _user journey maps_ to help your team understand what a user goes through when interacting with your product or service. Our _service blueprints_ diagram how customers interact with each business unit in your organisation. These two items together create the experience map that we use throughout the Design Marathon to maintain clarity and alignment.
