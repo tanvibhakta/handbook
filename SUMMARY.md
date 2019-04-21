@@ -35,6 +35,7 @@
   * [Objectives and Key Results](employee-handbook/4-operations/objective-and-key-results.md)
   * [Communication and Transparency](employee-handbook/4-operations/communication-and-transparency.md)
   * [Effective Meetings](employee-handbook/4-operations/effective-meetings.md)
+  * [Team Meetings](employee-handbook/4-operations/team-meetings.md)
   * [One on Ones](employee-handbook/4-operations/one-on-ones.md)
   * [Security Practices](employee-handbook/4-operations/security-practices.md)
   * [Diversity and Hiring](employee-handbook/4-operations/diversity-and-sourcing-candidates.md)
