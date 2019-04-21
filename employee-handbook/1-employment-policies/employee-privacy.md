@@ -1,6 +1,22 @@
 # Employee Privacy
 
-### Email Privacy
+## Personnel Records
+
+Obvious maintains a personnel file for each employee. The personnel file includes information such as an employee’s job application, resume, record of training, documentation of performance appraisal, salary/fee increases, and other employment/contract records. Records and information regarding each employee is maintained to support benefit programs and employment actions. Therefore, employees are asked to notify an Administrator of any changes in:
+
+* Name
+* Bank Account details
+* Address and/or telephone number
+* Number of dependents
+* Emergency contact person
+* Qualifications
+* Change in Resident Status
+
+### Access to Files
+
+Personnel files are the property of Obvious and access to the information they contain is restricted. Generally, only the HR team and the Directors will have access to these files.
+
+## Email Privacy
 
 Obvious email is not being actively monitored by anyone, but because it is a company resource that is managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage to protect both employee safety and well being, as well as company property and interests.
 
@@ -26,7 +42,7 @@ If you believe your computer has been infected by a virus, worm, or other securi
 
 Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Obvious network.
 
-### Privacy when using Obvious's Communication Tools
+## Privacy when using Obvious's Communication Tools
 
 Some Obvious employees have administrative access to some or all of Obvious's communication and collaboration tools, including Obvious-managed Google apps and accounts, Slack, Trello, and Pivotal Tracker. We reserve the right to monitor employee use of the Obvious's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit and the communications you have, will be private.
 
