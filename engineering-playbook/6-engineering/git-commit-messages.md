@@ -17,7 +17,7 @@ Good commit messages have 3 critical benefits:
 ### Sample commit message
 
 ```text
- Short (80 chars or less) summary of changes
+ Short (70 chars or less) summary of changes
 
  More detailed explanatory text, if necessary.  Wrap it to about 80
  characters or so.  In some contexts, the first line is treated as the
