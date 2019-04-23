@@ -22,6 +22,14 @@ You, as the direct report, decide the agenda of your one-on-one with your manage
 
 We suggest covering: positive work events, negative work events, manager feedback and outside life. Each one-on-one, though, does not need to cover all four areas. These proposed topics provide general guidance, but you have ultimate control.
 
+### Outside Life
+
+We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you have family issues that cause you to be distracted or have health issues that sometimes require you to be away from work during normal business hours. Speak as freely as you want and know that your information will remain confidential.
+
+In addition, it is helpful for managers to know what motivates you. If your life’s goal is to open a pet rescue shelter, let’s talk about the skills necessary for that to become a reality and how we can develop those while you are at Obvious. We understand that people’s aspirations change. You may not want to be in your current job forever. If you want to do something else in life, we want to support you and see you succeed in that goal.
+
+One-on-ones are the time for you to speak about whatever you want. Each meeting may focus on a different topic or could be a continuation of a previous conversation. You call the shots!
+
 ### Positive Work Events
 
 Discussing what drives you shows your manager what you enjoy and want to do. By conveying this information, it makes it easier for your manager to provide you with more of those opportunities.
@@ -67,14 +75,6 @@ What can your manager do to make you more productive and happy? When possible, u
 #### What can the manager do less of?
 
 Tell your manager what they could stop doing to make your job easier. Remember to use the SBI model and avoid talking about the personality of your manager.
-
-### Outside Life
-
-We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you have family issues that cause you to be distracted or have health issues that sometimes require you to be away from work during normal business hours. Speak as freely as you want and know that your information will remain confidential.
-
-In addition, it is helpful for managers to know what motivates you. If your life’s goal is to open a pet rescue shelter, let’s talk about the skills necessary for that to become a reality and how we can develop those while you are at Obvious. We understand that people’s aspirations change. You may not want to be in your current job forever. If you want to do something else in life, we want to support you and see you succeed in that goal.
-
-One-on-ones are the time for you to speak about whatever you want. Each meeting may focus on a different topic or could be a continuation of a previous conversation. You call the shots!
 
 ## Guidance
 
