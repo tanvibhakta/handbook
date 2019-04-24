@@ -54,15 +54,15 @@
 ## Engineering Playbook
 
 * [Engineering at Obvious](engineering-playbook/6-engineering/README.md)
-  * [Daily Standup Meetings](engineering-playbook/6-engineering/daily-standup-meetings.md)
-  * [Iteration Planning Meetings](engineering-playbook/6-engineering/iteration-planning-meetings.md)
+  * [Vital Reading Material](engineering-playbook/6-engineering/vital-reading-material.md)
   * [Trunk-based Development](engineering-playbook/6-engineering/trunk-based-development.md)
   * [Git Commit Messages](engineering-playbook/6-engineering/git-commit-messages.md)
-  * [Refactoring](engineering-playbook/6-engineering/refactoring.md)
   * [Release Engineering](engineering-playbook/6-engineering/release-engineering.md)
   * [Code Reviews & Pull Requests](engineering-playbook/6-engineering/code-reviews-and-pull-requests.md)
+  * [Daily Standup Meetings](engineering-playbook/6-engineering/daily-standup-meetings.md)
+  * [Iteration Planning Meetings](engineering-playbook/6-engineering/iteration-planning-meetings.md)
+  * [Refactoring](engineering-playbook/6-engineering/refactoring.md)
   * [System Design & Architecture](engineering-playbook/6-engineering/system-design-and-architecture.md)
-  * [Vital Reading Material](engineering-playbook/6-engineering/vital-reading-material.md)
 
 ## Miscellaneous
 
