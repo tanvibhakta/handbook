@@ -7,7 +7,7 @@ description: >-
 
 # The Design Sprint
 
-## Day 0: Before the sprint
+## Before the sprint
 
 Just like any intense exercise, the sprint also requires some warm-up before starting. We recommend doing the following before the sprint: 
 
@@ -27,7 +27,7 @@ It’s best to be prepared with a list of users who can participate in the user 
 
 ### Supplies and space
 
-To make a mentally taxing exercise like the sprint enjoyable, it’s a good idea to invest some time in procuring the right space and materials for it. Try to get a large room with plenty of natural light and space for whiteboarding. Get lots of whiteboard markers, post-its, papers, sharpies, sketchpens, masking tape etc. Use this checklist to make sure you have all the supplies you might need.
+To make a mentally taxing exercise like the sprint enjoyable, it’s a good idea to invest some time in procuring the right space and materials for it. Try to get a large room with plenty of natural light and space for white-boarding. Get lots of whiteboard markers, post-its, papers, sharpies, sketch pens, masking tape etc. Use this checklist to make sure you have all the supplies you might need.
 
 ## Day 1 – Opportunities
 
@@ -38,15 +38,15 @@ Solutions are meaningful only when they solve very well thought out problems. On
 ### Pitch
 
 The pitch brings everyone in the team on the same page. In 2 minute or less, the product owner defines the 3-5 year vision for the product. Who is it for? What does it solve? What is the business opportunity?  
- In the next 20 minutes, the product owner then tries to define what all should be solved in the next 6 months to make sure the team is on the right path to achieving this vision.
+In the next 20 minutes, the product owner then tries to define what all should be solved in the next 6 months to make sure the team is on the right path to achieving this vision.
 
 ### Assumptions board
 
 For the pitch to become a reality, it’s likely that a lot of assumptions will have to be addressed.  
- In the next hour, every member of the team reviews the shared research and lists down all the assumptions they can think of. After going through the existing research, the team calls in experts \(think people from sales, marketing, customer support etc\) and interviews them, while the team continues to jot down their assumptions.
+In the next hour, every member of the team reviews the shared research and lists down all the assumptions they can think of. After going through the existing research, the team calls in experts \(think people from sales, marketing, customer support etc\) and interviews them, while the team continues to jot down their assumptions.
 
 Next, we ask everyone to put down a way to measure each of their assumptions.  
- For example, the assumption ‘users will engage regularly with the product’ might be measured by tracking the ‘number of daily active users’.
+For example, the assumption ‘users will engage regularly with the product’ might be measured by tracking the ‘number of daily active users’.
 
 We open up a collaborative spreadsheet in which we put down all the assumptions along with the right metrics to track them. We cluster the assumptions into themes, remove duplicates and get ready to turn the assumptions board into a target board. Use this sheet as a starting point to create your own assumptions board.
 
@@ -136,7 +136,7 @@ Building a prototype isn’t a one-man job. To make it as real as possible in ju
 
 ### Dry run
 
-After you’ve built the prototype, leave room for a dry run before the actual user test. The interviewer uses the prototype to conduct a mock user test with a team member. The mock test is likely to surface some issues with the protype or the script. Fix those issues and get ready for judgement day!
+After you’ve built the prototype, leave room for a dry run before the actual user test. The interviewer uses the prototype to conduct a mock user test with a team member. The mock test is likely to surface some issues with the prototype or the script. Fix those issues and get ready for judgement day!
 
 ## Day 5 – Testing
 
