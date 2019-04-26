@@ -70,6 +70,7 @@
 
 ## Legal Templates
 
-* [Legal Templates](legal-templates/legal-templates.md)
-* [Mutual Non-Disclosure Agreement](legal-templates/mutual-non-disclosure-agreement.md)
+* [Legal Templates](legal-templates/legal-templates/README.md)
+  * [Mutual Non-Disclosure Agreement](legal-templates/legal-templates/mutual-non-disclosure-agreement.md)
+  * [Master Services Agreement](legal-templates/legal-templates/master-services-agreement.md)
 
