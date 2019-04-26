@@ -35,33 +35,36 @@ Solutions are meaningful only when they solve very well thought out problems. On
 
 ![](https://obvious.in/wp-content/uploads/2019/02/day-1@2x.png)
 
-### Pitch
+### **Pitch**
 
-The pitch brings everyone in the team on the same page. In 2 minute or less, the product owner defines the 3-5 year vision for the product. Who is it for? What does it solve? What is the business opportunity?  
-In the next 20 minutes, the product owner then tries to define what all should be solved in the next 6 months to make sure the team is on the right path to achieving this vision.
+The pitch brings everyone in the team on the same page. In 2 minute or less, the product owner defines the 3-5 year vision for the product. Who is it for? What does it solve? What is the business opportunity?
 
-### Assumptions board
+In the next 20 minutes, the product owner then tries to define all foreseeable problems in the next 6 months, to ensure the team is on the right path to mission accomplishment.
 
-For the pitch to become a reality, it’s likely that a lot of assumptions will have to be addressed.  
-In the next hour, every member of the team reviews the shared research and lists down all the assumptions they can think of. After going through the existing research, the team calls in experts \(think people from sales, marketing, customer support etc\) and interviews them, while the team continues to jot down their assumptions.
+### **Journey Map**
 
-Next, we ask everyone to put down a way to measure each of their assumptions.  
-For example, the assumption ‘users will engage regularly with the product’ might be measured by tracking the ‘number of daily active users’.
+Next, we create a journey map with a focus on the touch-points where the user might come in contact with the product or service. We define key stages of interaction in the journey along with activities performed by the user in each stage. Additional actors or service layers that contribute to the activities are also mapped out. A graph reflecting the emotions of the user at every touchpoint is also baked in to the map.  
+****
 
-We open up a collaborative spreadsheet in which we put down all the assumptions along with the right metrics to track them. We cluster the assumptions into themes, remove duplicates and get ready to turn the assumptions board into a target board. Use this sheet as a starting point to create your own assumptions board.
+### **How Might We…**
 
-### Target board
+For the pitch to become a reality, it’s likely that a lot of problems will have to be addressed. In the next hour, every member of the team reviews the shared research and records all the problems they can think of in the form of “How Might We” questions. A good “How Might We” question should neither be too broad nor too narrow. The idea, is to sharply articulate specific problems without hinting at potential solutions.
 
-Now that the team has an exhaustive list of assumptions, it’s time to choose what to address first. We do this through a series of simple steps
+After going through the existing research, the team calls in experts \(think people from sales, marketing, customer support etc\) and interviews them, while the team continues to jot down more “How Might We” questions.  
+****
 
-* Confidence score – Each team member scores every assumption on a scale of 0 to 10, 0 meaning that they have no confidence that the assumption will be true and 10 meaning that they’re a 100 percent sure that the assumption will be true.
-* Discuss – It’s a good idea to discuss the assumptions where there’s a significant gap between the scores, and understand the reasons behind that gap.
-* Vote – After the discussion, the team takes 5 minutes and votes on the assumptions they think are the most critical.
-* Pick winners – Decide on the number of assumptions you want to tackle in this sprint. The top 2-3 assumptions which receive the maximum number of votes are usually the ones worth addressing. These are the assumptions you will try to prove/disprove in the next 4 days.
+### **Target Board**
 
-### Journey map
+The team captures all relevant problems in one single board by going through a series of simple steps.
 
-Next, we create a journey map with a focus on the touchpoints where the user might come in contact with the winning assumptions. It helps to superimpose a graph reflecting the emotions of the user at every touchpoint on top of the journey map. Attaching the selected problems to a user’s entire journey throughout the service helps the team zoom out and see the problems in the context of a larger whole.
+* **Cluster and reframe:** The team clusters similar “How Might We” questions under a few themes, removes duplicates and improves their articulation. This exercise should not only reduce the number of questions, but also improve their quality.
+* **Define success criteria:** For each reframed “How Might We” question, the team defines a success criterion. For example, the success of the solution for - “How might we make the user interested in the product description?” can be measured by tracking the time she spends on the product details page during the user study. Questions that might lead to unmeasurable solutions should be dropped at this stage.
+* **Pick winners:** The team decides on the number of problems they want to tackle in the sprint and cast their individual votes accordingly. The top 2-3 problems which receive the maximum number of votes are selected. These are the problems that the team tries solving in the next 4 days.
+
+### Home Work
+
+At the end of the day’s work, everyone is asked to come prepared the next day with a few examples of solutions that address the chosen problems. It’s a good idea to look for inspiration outside the direct problem space and see how other industries have solved similar problems.  
+
 
 ## Day 2 – Ideas
 
@@ -71,15 +74,19 @@ Solutions are meaningful only when they solve very well thought out problems. On
 
 ### Lightning demos
 
-This needs some homework on day 1. Ask everyone to come back with a few examples of ideas that address the chosen problems. It’s a good idea to look outside your industry and see how other industries have solved similar problems. On day 2, everyone gets 5 minutes to present their favourite solutions, while others capture what they like about those solutions on post-its. By the end of lightning demos, you should have a wall full of inspiring ideas to help you through the next steps.
+Day 2 starts with a presentation of the home work from Day 1. Everyone gets 5 minutes to present their favourite solutions, while others capture what they like about those solutions on post-its. By the end of lightning demos, you should have a wall full of inspiring ideas to help you through the next steps.
 
 ### Gather notes
 
 For the next 20 minutes, everyone goes around the room individually, making notes of everything that might help them come up with ideas to solve the selected problems.
 
+### **Ideas**
+
+Next, everyone takes 20 minutes to privately jot down some rough ideas and then circle the most promising ones.
+
 ### Crazy 8s
 
-After taking notes, everyone gets ready to ideate at breakneck speed. Crazy 8s is a great exercise for your creative muscles. It helps you ideate rapidly without worrying too much about the quality of your ideas. Everyone folds a sheet of paper into 8 frames, and tries to come up with 8 solutions for a problem in 8 minutes. It’s a good idea to repeat this exercise for all your selected problems, but limit it to a maximum of 4 rounds so that you can finish in about half an hour.
+Next, everyone gets ready to ideate at breakneck speed. Crazy 8s is a great exercise for creative muscles. It helps you ideate rapidly without worrying too much about the quality of your ideas. Everyone folds a sheet of paper into 8 frames, and tries to come up with 8 solutions for a problem in 8 minutes. It’s a good idea to repeat this exercise for all your selected problems, but limit it to a maximum of 4 rounds so that you can finish in about half an hour.
 
 ### Solution sketch
 
