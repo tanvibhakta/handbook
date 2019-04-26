@@ -64,13 +64,13 @@
   * [Refactoring](engineering-playbook/engineering/refactoring.md)
   * [System Design & Architecture](engineering-playbook/engineering/system-design-and-architecture.md)
 
-## Miscellaneous
-
-* [Good People to Work With](miscellaneous/good-people-to-work-with.md)
-
 ## Legal Templates
 
 * [Legal Templates](legal-templates/legal-templates/README.md)
   * [Mutual Non-Disclosure Agreement](legal-templates/legal-templates/mutual-non-disclosure-agreement.md)
   * [Master Services Agreement](legal-templates/legal-templates/master-services-agreement.md)
+
+## Miscellaneous
+
+* [Good People to Work With](miscellaneous/good-people-to-work-with.md)
 
