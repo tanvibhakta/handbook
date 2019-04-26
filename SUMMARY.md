@@ -46,25 +46,30 @@
 
 ## Design Playbook
 
-* [Design at Obvious](design/understanding-your-new-design-team/README.md)
-  * [The Design Sprint](design/understanding-your-new-design-team/the-design-sprint.md)
-  * [The Design Relay](design/understanding-your-new-design-team/relay.md)
-  * [The Design Marathon](design/understanding-your-new-design-team/the-design-marathon.md)
+* [Design at Obvious](design/design/README.md)
+  * [The Design Sprint](design/design/the-design-sprint.md)
+  * [The Design Relay](design/design/relay.md)
+  * [The Design Marathon](design/design/the-design-marathon.md)
 
 ## Engineering Playbook
 
-* [Engineering at Obvious](engineering-playbook/6-engineering/README.md)
-  * [Vital Reading Material](engineering-playbook/6-engineering/vital-reading-material.md)
-  * [Trunk-based Development](engineering-playbook/6-engineering/trunk-based-development.md)
-  * [Git Commit Messages](engineering-playbook/6-engineering/git-commit-messages.md)
-  * [Release Engineering](engineering-playbook/6-engineering/release-engineering.md)
-  * [Code Reviews & Pull Requests](engineering-playbook/6-engineering/code-reviews-and-pull-requests.md)
-  * [Daily Standup Meetings](engineering-playbook/6-engineering/daily-standup-meetings.md)
-  * [Iteration Planning Meetings](engineering-playbook/6-engineering/iteration-planning-meetings.md)
-  * [Refactoring](engineering-playbook/6-engineering/refactoring.md)
-  * [System Design & Architecture](engineering-playbook/6-engineering/system-design-and-architecture.md)
+* [Engineering at Obvious](engineering-playbook/engineering/README.md)
+  * [Vital Reading Material](engineering-playbook/engineering/vital-reading-material.md)
+  * [Trunk-based Development](engineering-playbook/engineering/trunk-based-development.md)
+  * [Git Commit Messages](engineering-playbook/engineering/git-commit-messages.md)
+  * [Release Engineering](engineering-playbook/engineering/release-engineering.md)
+  * [Code Reviews & Pull Requests](engineering-playbook/engineering/code-reviews-and-pull-requests.md)
+  * [Daily Standup Meetings](engineering-playbook/engineering/daily-standup-meetings.md)
+  * [Iteration Planning Meetings](engineering-playbook/engineering/iteration-planning-meetings.md)
+  * [Refactoring](engineering-playbook/engineering/refactoring.md)
+  * [System Design & Architecture](engineering-playbook/engineering/system-design-and-architecture.md)
 
 ## Miscellaneous
 
 * [Good People to Work With](miscellaneous/good-people-to-work-with.md)
+
+## Legal Templates
+
+* [Legal Templates](legal-templates/legal-templates.md)
+* [Mutual Non-Disclosure Agreement](legal-templates/mutual-non-disclosure-agreement.md)
 
