@@ -6,7 +6,7 @@ description: 'Strengthening team communication, effectiveness and unity, week by
 
 **Frequency: Once a week**
 
-## Intro
+## Introduction
 
 ### The What
 
