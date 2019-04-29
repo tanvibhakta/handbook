@@ -4,7 +4,7 @@ Obvious was formed with certain core values which we have held, evolved and iter
 
 ## We build with Care
 
-We care deeply about **our craft** \(whether design or engineering\), and aim to practice it at it's highest level. We care equally about the **contexts** in which our work exists, and will strive to understand it and respond to them with sophistication and compassion.
+We care deeply about **our craft** \(whether design or engineering\), and aim to practice it at its highest level. We care equally about the **contexts** in which our work exists, and will strive to understand it and respond to them with sophistication and compassion.
 
 ## We are generous
 
