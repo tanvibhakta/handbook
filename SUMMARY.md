@@ -47,10 +47,10 @@
 
 ## Design Playbook
 
-* [Design at Obvious](design/design/README.md)
-  * [The Design Sprint](design/design/the-design-sprint.md)
-  * [The Design Relay](design/design/relay.md)
-  * [The Design Marathon](design/design/the-design-marathon.md)
+* [Design at Obvious](design-playbook/design/README.md)
+  * [The Design Sprint](design-playbook/design/the-design-sprint.md)
+  * [The Design Relay](design-playbook/design/relay.md)
+  * [The Design Marathon](design-playbook/design/the-design-marathon.md)
 
 ## Engineering Playbook
 
