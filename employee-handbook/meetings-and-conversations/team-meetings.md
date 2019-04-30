@@ -59,7 +59,7 @@ Use the following tips to make the most of your Team Meetings.
 
 Leave your ego outside the Team Meeting. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts instead of making it personal. Our team is united by the goal of creating the best solution for the end user. It’s not about one person’s idea winning or losing.
 
-### Focus on Listening
+### Focus on Quite Listening
 
 Talk less, listen more. Instead of thinking of a rebuttal when someone else presents their idea, actively listen to the speaker. Ask for clarification to fully understand the concept, and then listen intently. Paraphrase a team member if you disagree to ensure that you have an accurate understanding of their viewpoint.
 
@@ -67,15 +67,15 @@ Talk less, listen more. Instead of thinking of a rebuttal when someone else pres
 
 The premise of this common [improv technique](https://www.thoughtco.com/yes-and-improv-game-2713213) is to accept an idea as true and build on it. The goal is to refine ideas and gain clarity. Reserve judgement of others’ suggestions until you fully explore them. For example:
 
-Person 1: I know this might sound crazy because we have an upcoming deadline, but running another user study before we make a final decision might provide the clarity we need.
+**Person 1:** I know this might sound crazy because we have an upcoming deadline, but running another user study before we make a final decision might provide the clarity we need.
 
-Person 2: Yes, and then we can be sure that this feature is relevant for our users. Let’s talk to the product manager about pushing the deadline out a few days.
+**Person 2:** Yes, and then we can be sure that this feature is relevant for our users. Let’s talk to the product manager about pushing the deadline out a few days.
 
 ### Time Box
 
 Cap each discussion by setting time limits in advance. If a decision is not reached, decide whether to continue the conversation later or vote to resolve the disagreement. Consider using a [Time Timer](https://www.timetimer.com/products/time-timer-12-inch) so that everyone stays on track.
 
-### Make Decisions
+### Make Evidence Based Decisions
 
 At Obvious, we make decisions based on evidence, not gut feelings. If your argument lacks evidence, we ask you to let it go and trust your colleagues’ idea.
 
