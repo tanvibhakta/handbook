@@ -20,7 +20,7 @@ To partly address that gap after having had the privilege of working with a few 
 
 ### Digital Design
 
-* [Silverorange](https://www.silverorange.com/)
+* [silverorange](https://www.silverorange.com/)
 * [Beard Design](https://bearddesign.co/)
 * [3 Sided Coin](https://3sided.co.in)
 * [Propelland](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/propelland.com)
