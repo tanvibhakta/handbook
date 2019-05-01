@@ -4,7 +4,7 @@ description: 'Strengthening team communication, effectiveness and unity, week by
 
 # Team Meetings
 
-**Frequency: Once a week**
+_**Frequency: Once a week**_
 
 ## The What
 
