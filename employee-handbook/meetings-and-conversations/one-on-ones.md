@@ -6,13 +6,11 @@ description: 'Dedicated time with your manager, focused on what’s important to
 
 _Frequency: Fifty minutes every month_
 
-## Introduction
-
-### The What
+## The What
 
 One-on-one meetings are a private opportunity for you to meet with your manager and discuss anything you want. This is your time! _You_ set the agenda, format, and location. During this time, you can give feedback, build and enhance trust with your manager, discuss new ideas and problems, and brainstorm on ways to advance your career. We specifically devote this time to you.
 
-### The Why
+## The Why
 
 At Obvious, our goal is to create an environment where everyone feels empowered, supported, and heard. To accomplish this objective, we must create a safe setting for you to discuss your ambitions, concerns, and suggestions. One-on-ones provide you with that opportunity.
 
