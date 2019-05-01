@@ -124,19 +124,19 @@ If you have the same conversation with your manager month after month with no pr
 
 ### Situation -&gt; Behaviour -&gt; Impact Model
 
-The best way to provide constructive feedback, both positive and negative, is by putting your comments in context instead of being vague. For maximum effect, state the situation, the behaviour you liked/disliked, and how it impacted you. We call this the SBI model. Let’s look at two examples:
+The best way to provide constructive feedback, both positive and negative, is by putting your comments in context instead of being vague.  For maximum effect, state the situation, the behaviour you liked/disliked, and how it impacted you. We call this the SBI model. Use it to offer sincere praise, or seek clarification before delivering critical feedback. Let’s look at two examples:
 
 #### Positive Feedback
 
 **Vague**: You did an excellent job with that client this morning!
 
-**SBI**: During the meeting this morning when the client suggested changing the homescreen \(situation\), the approach you took to walk him through how the modifications would negatively affect users \(behaviour\) saved us from creating a poor user experience and also helped him understand how important it is to keep users in mind at all times \(impact\). Thanks for taking the time to walk him through it.
+**SBI**: During the meeting this morning when the client suggested changing the home-screen \(situation\), the approach you took to walk him through how the modifications would negatively affect users \(behaviour\) saved us from creating a poor user experience and also helped him understand how important it is to keep users in mind at all times \(impact\). Thanks for taking the time to walk him through it.
 
 #### Negative Feedback
 
 **Vague**: That client will never hire us thanks to you!
 
-**SBI**: When we met with the client this morning and she asked how our team would decide how we find candidates for the user studies \(situation\), you told her that we will not discuss that today and that it was not relevant to the conversation \(behaviour\). She stopped participating and cut short our proposal meeting \(impact\). Instead of explaining our process to her, you told her that it was not important. But to her, it was.
+**SBI**: When we met with the client this morning and she asked how our team would decide how we find candidates for the user studies \(situation\), you told her that we will not discuss that today and that it was not relevant to the conversation \(behaviour\). She stopped participating and cut short our proposal meeting \(impact\). She wanted a better understanding of our process, and she felt that her questions were not considered important. I would love to hear your take on the situation.
 
 In both these conversations, the SBI approach provides the one receiving the feedback with concrete information that allows them to either change their behaviour in the future or receive the compliment knowing that it is sincere.
 

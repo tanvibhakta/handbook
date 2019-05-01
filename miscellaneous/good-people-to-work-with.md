@@ -16,7 +16,6 @@ To partly address that gap after having had the privilege of working with a few 
 * [Animal](https://www.weareanimal.co/)
 * [Itu Chaudhuri Design](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/[http:/icdindia.com)
 * [Turmeric Design](http://www.turmericdesign.com/)
-* [Seventh Inc](http://www.seventhinc.com/)
 * [Kracken Design](http://krackndesign.com/)
 
 ### Digital Design
