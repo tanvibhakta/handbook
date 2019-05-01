@@ -4,7 +4,7 @@ description: 'Dedicated time with your manager, focused on what’s important to
 
 # One on Ones
 
-_Frequency: Fifty minutes every month_
+_**Frequency: Fifty minutes every month**_
 
 ## The What
 
