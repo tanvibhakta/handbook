@@ -12,7 +12,7 @@ Team meetings provide an opportunity to reflect on the previous week’s work, s
 
 ## The Why
 
-Communication is vital to every project, so it is important that we dedicate time to bring the team together. When everyone is aligned, projects run smoother and more efficiently and lead to exceptional products. Team Meetings confirm that the team has a common direction, and everyone’s efforts are geared towards the same larger goal.
+Communication is vital to every project, so it is important that we dedicate time to bring the team together. When everyone is aligned, projects run smoother and more efficiently and lead to exceptional products. Team Meetings confirm that the team has a common direction, and everyone’s efforts are geared towards the same larger goal. We recommend the use of the following framework to run team meetings effectively.
 
 ## Step 1: Reflect
 
