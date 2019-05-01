@@ -6,13 +6,11 @@ description: 'Strengthening team communication, effectiveness and unity, week by
 
 **Frequency: Once a week**
 
-## Introduction
-
-### The What
+## The What
 
 Team meetings provide an opportunity to reflect on the previous week’s work, share important updates, and discuss and debate decisions that may need course correction. These meetings also create alignment between team members and set the direction for internal and external projects for the upcoming week.
 
-### The Why
+## The Why
 
 Communication is vital to every project, so it is important that we dedicate time to bring the team together. When everyone is aligned, projects run smoother and more efficiently and lead to exceptional products. Team Meetings confirm that the team has a common direction, and everyone’s efforts are geared towards the same larger goal.
 
