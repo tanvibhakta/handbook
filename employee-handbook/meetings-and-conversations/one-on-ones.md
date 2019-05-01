@@ -2,7 +2,7 @@
 description: 'Dedicated time with your manager, focused on what’s important to you.'
 ---
 
-# One on Ones
+# One on One Conversations
 
 _**Frequency: Fifty minutes every month**_
 
