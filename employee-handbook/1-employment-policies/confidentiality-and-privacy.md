@@ -1,8 +1,8 @@
 # Confidentiality and Privacy at Obvious
 
-```text
-WIP - Not currently representative of our policies
-```
+{% hint style="warning" %}
+WIP: Currently not representative of our policies.
+{% endhint %}
 
 In general, Obvious is an extremely open company. Part of our mission is to transfer as much of our knowledge, intellectual property and work product to the public as we can, because we feel like that's better for the world. Examples of things that we explicitly make public:
 

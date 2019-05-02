@@ -1,8 +1,8 @@
 # Healthcare, Disability Insurance and other benefits.
 
-```text
-WIP: Fill this in (with inputs from our insurance provider, Insumust)
-```
+{% hint style="warning" %}
+WIP: Fill this in with inputs from our insurance provider, Insumust.
+{% endhint %}
 
 ### Group Health Insurance
 
