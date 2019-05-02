@@ -1,6 +1,8 @@
 # Sabbatical
 
-> **We have not come to a consensus around how to run our Sabbatical program, and do NOT currently have one. This document remains here as a starting point for our conversations, and to document our latest thinking.**
+{% hint style="info" %}
+We have not come to a consensus around how to run our Sabbatical program, and do NOT currently have one. This document remains here as a starting point for our conversations, and to document our latest thinking.
+{% endhint %}
 
 After every 3 years of working at Obvious, full-time employees are eligible to take four weeks of paid sabbatical.
 
