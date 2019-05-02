@@ -16,7 +16,7 @@
   * [Equal Opportunity Employment](employee-handbook/1-employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/1-employment-policies/at-will-employment.md)
   * [Code of Conduct](employee-handbook/1-employment-policies/code-of-conduct.md)
-  * [Confidentiality and Privacy at Obvious](employee-handbook/1-employment-policies/confidentiality-and-privacy.md)
+  * [Confidentiality and Privacy](employee-handbook/1-employment-policies/confidentiality-and-privacy.md)
   * [Employee Privacy](employee-handbook/1-employment-policies/employee-privacy.md)
   * [Compensation](employee-handbook/1-employment-policies/compensation.md)
   * [Prevention of Sexual Harassment Policy](employee-handbook/1-employment-policies/prevention-of-sexual-harassment.md)

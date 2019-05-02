@@ -1,4 +1,4 @@
-# Confidentiality and Privacy at Obvious
+# Confidentiality and Privacy
 
 {% hint style="warning" %}
 WIP: Currently not representative of our policies.
