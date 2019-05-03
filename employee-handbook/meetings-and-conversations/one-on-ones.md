@@ -2,13 +2,15 @@
 description: 'Dedicated time with your manager, focused on what’s important to you.'
 ---
 
-# One on One Conversations
+# One-on-one Meetings
 
-_**Frequency: Fifty minutes every month**_
+{% hint style="info" %}
+Frequency: 1 hour every month
+{% endhint %}
 
 ## The What
 
-One-on-one meetings are a private opportunity for you to meet with your manager and discuss anything you want. This is your time! _You_ set the agenda, format, and location. During this time, you can give feedback, build and enhance trust with your manager, discuss new ideas and problems, and brainstorm on ways to advance your career. We specifically devote this time to you.
+One-on-one meetings are an opportunity for you to meet with your manager and discuss anything you want, in private. This is your time! _You_ set the agenda, format, and location. During this time, you can give feedback, build and enhance trust with your manager, discuss new ideas and problems, and brainstorm on ways to advance your career. We specifically devote this time to you.
 
 ## The Why
 
@@ -22,9 +24,9 @@ We suggest covering: positive work events, negative work events, manager feedbac
 
 ### Outside Life
 
-We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you have family issues that cause you to be distracted or have health issues that sometimes require you to be away from work during normal business hours. Speak as freely as you want and know that your information will remain confidential.
+We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you're going through something personally that causes you to be distracted, or have a health issue that sometimes require you to be away from work during normal business hours. Speak as freely as you want and know that your information will always remain confidential.
 
-In addition, it is helpful for managers to know what motivates you. If your life’s goal is to open a pet rescue shelter, let’s talk about the skills necessary for that to become a reality and how we can develop those while you are at Obvious. We understand that people’s aspirations change. You may not want to be in your current job forever. If you want to do something else in life, we want to support you and see you succeed in that goal.
+In addition, it is helpful for managers to know what motivates you. If your life’s goal is to open a design school, let’s talk about the skills necessary for that to become a reality and how we can develop those while you are at Obvious. We understand that people’s aspirations change. You may not want to be in your current job forever. If you want to do something else in life, we want to support you and see you succeed in that goal.
 
 One-on-ones are the time for you to speak about whatever you want. Each meeting may focus on a different topic or could be a continuation of a previous conversation. You call the shots!
 
@@ -34,11 +36,11 @@ Discussing what drives you shows your manager what you enjoy and want to do. By 
 
 #### Motivators
 
-What motivates you to come to work? When you are excited to come into the office, then you are likely more productive. and your energy is contagious. We want to do what we can to keep you motivated, so let us know what that is!
+What motivates you to come to work? When you are excited to come into the office, then you are likely to be more productive, and that energy is contagious. We want to do what we can to keep you motivated, so let us know what that is.
 
 #### New Ideas
 
-New ideas are like infants – innocent and fragile. They need care and nurturing before they stand on their own. Use this time to explain any new ideas you have, then brainstorm and ask for constructive guidance before rolling it out on a larger scale. These ideas could be small items like a new type of tea or larger suggestions such as a new way to work with a client. Creativity is crucial at Obvious, so use this time to strengthen your ideas at their inception.
+New ideas are like infants – innocent and fragile. They need care and nurturing before they stand on their own. Use this time to explain any new ideas you have, then brainstorm and ask for constructive guidance before rolling it out on a larger scale. These ideas could be small items like a new type of coffee, or larger suggestions such as a new way to work with a client. Creativity is crucial at Obvious, so use this time to strengthen your ideas at their inception.
 
 #### Future
 
@@ -54,7 +56,7 @@ What do you dread about coming into work? Let your manager know what that is. Od
 
 #### Blockers
 
-If you experience roadblocks that impede doing your job or make you feel unproductive, vent your frustrations. From there, we will find answers or workarounds. It may take a few attempts, but we will continue to address the problem.
+If you experience roadblocks that impede doing your job or make you feel unproductive, let us know. We will look for answers or workarounds. It may take a few attempts, but we will continue to address the problem.
 
 #### Concerns
 
@@ -64,7 +66,7 @@ Bring up things that are in the back of your mind. Maybe you do not know exactly
 
 Hopefully, you already provide your manager with immediate, personal one-on-one feedback regularly, whether after a meeting, privately, or through written communication. However, sometimes you might need more time. Use these meetings to give advice on how your manager can impact you directly. Also, use this time to follow up on previous advice you gave your manager to let them know how it is going.
 
-We recommend using the [Situation -&gt; Behaviour -&gt; Impact \(SBI\)](one-on-ones.md#situation-greater-than-behaviour-greater-than-impact-model) model. Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
+We recommend using the [Situation → Behaviour → Impact \(SBI\)](one-on-ones.md#situation-greater-than-behaviour-greater-than-impact-model) model. Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
 
 #### What can the manager do more of?
 
@@ -76,7 +78,7 @@ Tell your manager what they could stop doing to make your job easier. Remember t
 
 ## Guidance
 
-Use the following tips to make the most of your one-on-one meetings.
+Use the following tips to make the most of your one-on-ones:
 
 ### Mindset
 
@@ -84,7 +86,7 @@ Use one-on-ones as a time to release the pressure you might be under. We want th
 
 ### Frequency
 
-These meetings occur once a month for 50 minutes and are scheduled at roughly the same time. The one-on-ones can be rescheduled when necessary but not canceled.
+These meetings occur once a month for 60 minutes and are scheduled at roughly the same time. The one-on-ones can be rescheduled when necessary but not canceled.
 
 ### Resist Work Critique
 
@@ -98,43 +100,43 @@ Instead of preparing a list of things to talk about at the last minute, keep an 
 
 Keep a written account of your meetings so that you can look back and see progress. Share the document with your manager where s/he can make comments and track your growth. Either take notes during your one-on-one or add notes after the meeting. In addition, add notes throughout the week. This master list of your yearly progress will be helpful when the Career Conversation comes around!
 
-### Bullshit Meter
+## Bullshit Meter
 
 As in everything we do, it is important to measure how well the one-on-ones are working. The following are indications that the process is not going smoothly.
 
-#### Only Good News
+### Only Good News
 
 If you only talk about how positive everything is and how well you are doing, you limit the feedback your manager can provide. Bring issues up as soon as possible so that the two of you can plan a course of action.
 
-#### Lack of Criticism for the Manager
+### Lack of Criticism for the Manager
 
 Praise is great but constructive criticism and suggestions are crucial as well. It is how we grow as individuals and as a team. Managers make mistakes and want to know when it happens. In fact, we encourage it. If you feel uncomfortable critiquing, then talk it through at these one-on-ones.
 
-#### No Agenda
+### No Agenda
 
 While we encourage free-flowing meetings, the direct report, who sets the agenda, needs to have a general idea of what to talk about. We specifically carve out time for these meetings because we feel strongly that they will increase the effectiveness of everyone involved, on a personal and professional level.
 
-#### Stagnation
+### Stagnation
 
 If you have the same conversation with your manager month after month with no progress, then something is wrong. Use the guidance in this document and to mix it up a little bit.
 
 ## Notes and Definitions
 
-### Situation -&gt; Behaviour -&gt; Impact Model
+### Situation → Behaviour → Impact Model
 
 The best way to provide constructive feedback, both positive and negative, is by putting your comments in context instead of being vague.  For maximum effect, state the situation, the behaviour you liked/disliked, and how it impacted you. We call this the SBI model. Use it to offer sincere praise, or seek clarification before delivering critical feedback. Let’s look at two examples:
 
 #### Positive Feedback
 
-**Vague**: You did an excellent job with that client this morning!
+_Vague:_ You did an excellent job with that client this morning!
 
-**SBI**: During the meeting this morning when the client suggested changing the home-screen \(situation\), the approach you took to walk him through how the modifications would negatively affect users \(behaviour\) saved us from creating a poor user experience and also helped him understand how important it is to keep users in mind at all times \(impact\). Thanks for taking the time to walk him through it.
+_SBI:_ During the meeting this morning when the client suggested changing the home-screen \(situation\), the approach you took to walk him through how the modifications would negatively affect users \(behaviour\) saved us from creating a poor user experience and also helped him understand how important it is to keep users in mind at all times \(impact\). Thanks for taking the time to walk him through it.
 
 #### Negative Feedback
 
-**Vague**: That client will never hire us thanks to you!
+_Vague:_ That client will never hire us thanks to you!
 
-**SBI**: When we met with the client this morning and she asked how our team would decide how we find candidates for the user studies \(situation\), you told her that we will not discuss that today and that it was not relevant to the conversation \(behaviour\). She stopped participating and cut short our proposal meeting \(impact\). She wanted a better understanding of our process, and she felt that her questions were not considered important. I would love to hear your take on the situation.
+_SBI:_ When we met with the client this morning and she asked how our team would decide how we find candidates for the user studies \(situation\), you told her that we will not discuss that today and that it was not relevant to the conversation \(behaviour\). She stopped participating and cut short our proposal meeting \(impact\). She wanted a better understanding of our process, and she felt that her questions were not considered important. I would love to hear your take on the situation.
 
-In both these conversations, the SBI approach provides the one receiving the feedback with concrete information that allows them to either change their behaviour in the future or receive the compliment knowing that it is sincere.
+> In both these conversations, the SBI approach provides the one receiving the feedback with concrete information that allows them to either change their behaviour in the future or receive the compliment knowing that it is sincere.
 
