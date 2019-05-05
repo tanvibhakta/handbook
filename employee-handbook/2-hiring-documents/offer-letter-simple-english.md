@@ -37,7 +37,6 @@ Please indicate your agreement with these terms and accept this offer by signing
 
 Sincerely,
 
-Rahul Gonsalves
-
+Rahul Gonsalves  
 Founder
 

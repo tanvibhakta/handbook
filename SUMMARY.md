@@ -55,15 +55,16 @@
 ## Engineering Playbook
 
 * [Engineering at Obvious](engineering-playbook/engineering/README.md)
-  * [Vital Reading Material](engineering-playbook/engineering/vital-reading-material.md)
-  * [Trunk-based Development](engineering-playbook/engineering/trunk-based-development.md)
-  * [Git Commit Messages](engineering-playbook/engineering/git-commit-messages.md)
-  * [Release Engineering](engineering-playbook/engineering/release-engineering.md)
-  * [Code Reviews & Pull Requests](engineering-playbook/engineering/code-reviews-and-pull-requests.md)
-  * [Daily Standup Meetings](engineering-playbook/engineering/daily-standup-meetings.md)
   * [Iteration Planning Meetings](engineering-playbook/engineering/iteration-planning-meetings.md)
+  * [Daily Standup Meetings](engineering-playbook/engineering/daily-standup-meetings.md)
+  * [Release Engineering](engineering-playbook/engineering/release-engineering/README.md)
+    * [Trunk-based Development](engineering-playbook/engineering/release-engineering/trunk-based-development.md)
+    * [Code Reviews & Pull Requests](engineering-playbook/engineering/release-engineering/code-reviews-and-pull-requests.md)
+    * [Git Commit Messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
   * [Refactoring](engineering-playbook/engineering/refactoring.md)
   * [System Design & Architecture](engineering-playbook/engineering/system-design-and-architecture.md)
+* [Vital Reading Material](engineering-playbook/vital-reading-material.md)
+* [Conferences & CFPs](engineering-playbook/conferences-and-cfps.md)
 
 ## Legal Templates
 

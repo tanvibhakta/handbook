@@ -8,8 +8,7 @@ Each employee is responsible for reading, understanding, and complying with this
 
 As a small company, we anticipate changes will be made to this handbook in the future and reserve the right to amend, revise and/or withdraw the provisions set forth in the handbook.
 
-```text
-Rahul Gonsalves
-Founder and CEO, Obvious
-```
+Rahul Gonsalves  
+Founder & CEO   
+Obvious.
 

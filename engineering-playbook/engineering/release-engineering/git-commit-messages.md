@@ -6,8 +6,6 @@ description: >-
 
 # Git Commit Messages
 
-## Good Commit Messages
-
 Good commit messages have 3 critical benefits:
 
 1. Help speed up the code review process
