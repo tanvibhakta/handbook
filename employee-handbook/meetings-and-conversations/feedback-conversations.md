@@ -5,7 +5,7 @@ description: 'Short, everyday conversations to consistently provide constructive
 # Feedback Conversations
 
 {% hint style="info" %}
-Frequency: 5-15 minutes right after the event
+Frequency: 5 - 15 minutes right after the event
 {% endhint %}
 
 ## **The What**
