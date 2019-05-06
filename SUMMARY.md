@@ -41,6 +41,7 @@
   * [Running Effective Meetings](employee-handbook/meetings-and-conversations/effective-meetings.md)
   * [One-on-one Meetings](employee-handbook/meetings-and-conversations/one-on-ones.md)
   * [Team Meetings & Conversations](employee-handbook/meetings-and-conversations/team-meetings.md)
+  * [Feedback Conversations](employee-handbook/meetings-and-conversations/feedback-conversations.md)
 * [Legal and Admin](employee-handbook/5-legal-and-admin/README.md)
   * [Obvious's Finance and Expense Policy](employee-handbook/5-legal-and-admin/finances.md)
   * [Getting Paid](employee-handbook/5-legal-and-admin/getting-paid.md)
