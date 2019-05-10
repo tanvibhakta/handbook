@@ -58,9 +58,9 @@ Obvious is filled with smart people, and we can all learn something from each ot
 
 ### **Use Radical Candor**
 
-Radical Candor is a fantastic framework for providing honest and constructive feedback to colleagues. We recommend that you [read the book](https://www.radicalcandor.com/the-book/) or [listen to the podcast](https://www.radicalcandor.com/candor-podcast/). The framework relies on a simple idea -&gt; In order to provide clear and candid feedback to your colleagues that challenges them directly, you must first establish a deep sense of trust and show them that you care about them personally.
+Radical Candor is a fantastic framework for providing honest and constructive feedback to colleagues. We recommend that you [read the book](https://www.radicalcandor.com/the-book/) or [listen to the podcast](https://www.radicalcandor.com/candor-podcast/). The framework relies on this simple idea: In order to provide clear and candid feedback to your colleagues that challenges them directly, you must first establish a deep sense of trust and show them that you care about them personally.
 
-[One-on-ones](https://playbook.obvious.in/employee-handbook/meetings-and-conversations/one-on-ones) offer a solid opportunity to go up on the “Care Personally” axis with your colleagues. Once that is achieved, it’s easy to provide candid feedback because it helps people open up to being “Challenged Directly”.  
+[One-on-one meetings](https://playbook.obvious.in/employee-handbook/meetings-and-conversations/one-on-ones) offer a solid opportunity to go up on the “Care Personally” axis with your colleagues. Once that is achieved, it’s easy to provide candid feedback because it helps people open up to being “Challenged Directly”.  
 
 
 ![](https://lh5.googleusercontent.com/Dw_1bFpp4jyjbH-Yd9KBwcklM0i-z4gMDFOxzZf-1B7Pr54k7DDjkx21TqDZNKCny8uZBKWIj5_60wGFiwlWhPWzYMHVQPvFAubFR_jf7Ms3jjbZu8NnErs4OM5fAIs22_yjS5Jv)
@@ -73,7 +73,7 @@ Try the following tips to be successful in this step -
 
 ### **Be Mindful of Your Words**
 
-No matter how hard you try to depersonalise the feedback, it is personal for the person receiving it. Telling someone “not take it personally” is similar to telling someone “not to be sad”. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts.
+No matter how hard you try to depersonalise the feedback, it is personal for the person receiving it. Telling someone to “not take it personally” is similar to telling someone “not to be sad”. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts.
 
 ### **Distance Yourself From Your Work**
 
@@ -87,9 +87,9 @@ Telling people what to do, doesn’t work. Nobody likes to be told what to do. W
 
 The premise of this common [improv technique](https://www.thoughtco.com/yes-and-improv-game-2713213) is to accept an idea as true and build on it. The goal is to refine ideas and gain clarity. Reserve judgement of others’ suggestions until you fully explore them. For example:
 
-Person 1: I know this might sound crazy because we have an upcoming deadline, but running another user study before we make a final decision might provide the clarity we need.
+**Person 1:** I know this might sound crazy because we have an upcoming deadline, but running another user study before we make a final decision might provide the clarity we need.
 
-Person 2: Yes, and then we can be sure that this feature is relevant for our users. Let’s talk to the product manager about pushing the deadline out a few days.
+**Person 2:** Yes, and then we can be sure that this feature is relevant for our users. Let’s talk to the product manager about pushing the deadline out a few days.
 
 ## **Step 4: Resolve**
 

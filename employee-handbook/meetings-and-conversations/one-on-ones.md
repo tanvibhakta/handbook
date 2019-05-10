@@ -2,7 +2,7 @@
 description: 'Dedicated time with your manager, focused on what’s important to you.'
 ---
 
-# One-on-one Meetings
+# One-on-One Conversations
 
 {% hint style="info" %}
 Frequency: 1 hour every month
@@ -24,7 +24,7 @@ We suggest covering: positive work events, negative work events, manager feedbac
 
 ### Outside Life
 
-We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you're going through something personally that causes you to be distracted, or have a health issue that sometimes require you to be away from work during normal business hours. Speak as freely as you want and know that your information will always remain confidential.
+We do not want to pry into your personal life, but sometimes, it is beneficial to share what goes on in your life outside of work. Perhaps you're going through something personally that causes you to be distracted, or have a health issue that sometimes requires you to be away from work during normal business hours. Speak as freely as you want and know that your information will always remain confidential.
 
 In addition, it is helpful for managers to know what motivates you. If your life’s goal is to open a design school, let’s talk about the skills necessary for that to become a reality and how we can develop those while you are at Obvious. We understand that people’s aspirations change. You may not want to be in your current job forever. If you want to do something else in life, we want to support you and see you succeed in that goal.
 

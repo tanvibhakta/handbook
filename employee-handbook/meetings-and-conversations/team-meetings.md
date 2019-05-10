@@ -2,7 +2,7 @@
 description: 'Strengthening team communication, effectiveness and unity, week by week.'
 ---
 
-# Team Meetings & Conversations
+# Team Conversations
 
 {% hint style="info" %}
 Frequency: Once a week
@@ -10,11 +10,11 @@ Frequency: Once a week
 
 ## The What
 
-Team meetings provide an opportunity to reflect on the previous week’s work, share important updates, and discuss and debate decisions that may need course correction. These meetings also create alignment between team members and set the direction for internal and external projects for the upcoming week.
+Team conversations provide an opportunity to reflect on the previous week’s work, share important updates, and discuss and debate decisions that may need course correction. These conversations also create alignment between team members and set the direction for internal and external projects for the upcoming week.
 
 ## The Why
 
-Communication is vital to every project, so it is important that we dedicate time to bring the team together. When everyone is aligned, projects run smoother and more efficiently and lead to exceptional products. Team Meetings confirm that the team has a common direction, and everyone’s efforts are geared towards the same larger goal. We recommend the use of the following framework to run team meetings effectively.
+Communication is vital to every project, so it is important that we dedicate time to bring the team together. When everyone is aligned, projects run smoother and more efficiently and lead to exceptional products. Team Conversations confirm that the team has a common direction, and everyone’s efforts are geared towards the same larger goal. We recommend the use of the following framework to run team conversations effectively.
 
 ## Step 1: Reflect
 
@@ -53,11 +53,11 @@ Using inputs from the brainstorming activity, the plan for the upcoming week is 
 
 ## Guidance
 
-Use the following tips to make the most of your Team Meetings.
+Use the following tips to make the most of your Team Conversations.
 
 ### Keep Egos Out
 
-Leave your ego outside the Team Meeting. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts instead of making it personal. Our team is united by the goal of creating the best solution for the end user. It’s not about one person’s idea winning or losing.
+Leave your ego outside the Team Conversation. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts instead of making it personal. Our team is united by the goal of creating the best solution for the end user. It’s not about one person’s idea winning or losing.
 
 ### Focus on Quite Listening
 
