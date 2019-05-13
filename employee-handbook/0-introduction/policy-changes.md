@@ -13,7 +13,7 @@ We’re using several different tools and platforms to collect feedback and disc
 
 #### Github
 
-The handbook is hosted on Github, and anyone with a Github account can make an issue or open a pull request. This is an important home for the project, and we want to encourage and reward participation. We will respond to issues and comments here and use the edits in pull requests when they’re appropriate. Howard will do this regularly, and anyone else is free to respond when they're interested. This will help more people feel bought into the handbook and will help us gather more opinions on our policies.
+The handbook is hosted on Github, and anyone with a Github account can make an issue or open a pull request. This is an important home for the project, and we want to encourage and reward participation. We will respond to issues and comments here and use the edits in pull requests when they’re appropriate. Rahul/Pratul will do this regularly, and anyone else is free to respond when they're interested. This will help more people feel bought into the handbook and will help us gather more opinions on our policies.
 
 However, our internal processing does not need to happen on Github. Anyone should feel free to post their thoughts on Github, but there are a lot of sensitive topics that we may want to discuss internally. When we make changes, they should be merged on Github and we should explain our rationale there, but we don’t need to rehash the whole conversation.
 
