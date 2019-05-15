@@ -43,7 +43,7 @@
   * [Team Conversations](employee-handbook/meetings-and-conversations/team-meetings.md)
   * [Feedback Conversations](employee-handbook/meetings-and-conversations/feedback-conversations.md)
 * [Legal and Admin](employee-handbook/5-legal-and-admin/README.md)
-  * [Obvious's Finance and Expense Policy](employee-handbook/5-legal-and-admin/finances.md)
+  * [Finance and Expense Policy](employee-handbook/5-legal-and-admin/finances.md)
   * [Getting Paid](employee-handbook/5-legal-and-admin/getting-paid.md)
 
 ## Design Playbook
