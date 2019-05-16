@@ -20,6 +20,7 @@
   * [Employee Privacy](employee-handbook/1-employment-policies/employee-privacy.md)
   * [Compensation](employee-handbook/1-employment-policies/compensation.md)
   * [Prevention of Sexual Harassment Policy](employee-handbook/1-employment-policies/prevention-of-sexual-harassment.md)
+  * [Fraternisation Policy](employee-handbook/1-employment-policies/fraternisation-policy.md)
   * [Drug and Alcohol Policy](employee-handbook/1-employment-policies/drug-and-alcohol-policy.md)
 * [Benefits and Perks](employee-handbook/3-benefits-and-perks/README.md)
   * [Paid Time Off](employee-handbook/3-benefits-and-perks/paid-time-off.md)
