@@ -6,7 +6,7 @@
 
 * Your full name \(as it appears on your PAN card or any government issued ID\)
 * Your address, which matches your PAN card or any government issued ID
-* Uncommon’s registered company name: **Unicus Web Designing Private Limited**
+* Our registered company name: **Unicus Web Designing Private Limited**
 * Our registered business address: **38-126/C, Bhaskara Nilayam, Ambedkar Nagar, Sainikpuri, Hyderabad - 500094, Telangana, India**
 * If you are registered to pay GST, include your GSTIN \(15-digits\). Also include your SAC code—you can find [an exhaustive list of SAC codes here](https://cleartax.in/s/sac-codes-gst-rates-for-services), but for the most of you, SAC code 998314 should suffice. Please double-check with your CA for the SAC code that you need to put on your invoice.
 * If you are registered to pay GST, you usually would add 18% GST to your invoice amount. 

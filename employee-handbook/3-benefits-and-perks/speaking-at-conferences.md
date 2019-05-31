@@ -6,19 +6,19 @@ One of the key mechanisms that we've identified as being key to broadcasting the
 2. What support Obvious can provide
 3. A small collection of resources on how to choose a topic for your talk, prepare for it and present.
 
-### How to select a conference
+## How to select a conference
 
 Work with your colleagues to shortlist high impact conferences around the world. Choose conferences have featured speakers whom you've personally admired, talks that have changed the way you have worked etc. A good event or conference usually has the following features:
 
-* It **cares** about its attendees and speakers
-* has got a **Code of Conduct** and is prepared to enforce it \([here's a good example](https://www.djangoproject.com/conduct/)\)
-* is **accessible and inclusive**
-* deeply cares about and works on **diversity** in its speaker lineup and attendees, and, of course,
-* cares about creating a **good environment** in which people can **learn**.
-* It also should be an event that I can somehow **relate** to in terms of my work or interests
-* And, of course, the **talk topic should fit** the event as well.
+* _cares_ about its attendees and speakers
+* has got a _Code of Conduct_ and is prepared to enforce it \([here's a good example](https://www.djangoproject.com/conduct/)\)
+* is _accessible and inclusive_
+* deeply cares about and works on _diversity_ in its speaker lineup and attendees
+* cares about creating a _good environment_ in which people can _learn_
+* It also should be an event that I can somehow _relate_ to in terms of my work or interests
+* And, of course, the _talk topic should fit_ the event as well.
 
-To ensure that you focus on your talk/presentation, Uncommon will do the following:
+## What we provide
 
 * Cover up to $100/day for your expenses during the conference. If it's a one day event, we'll cover $100, two days, $200 and so forth.
   * Note that this will be capped at $500 - so if you choose to attend all ten days of SXSW, be prepared to skip a few meals.
@@ -29,7 +29,7 @@ To ensure that you focus on your talk/presentation, Uncommon will do the followi
 * If a conference gives out a speaker honorarium \(usually $150-$500\), that's yours to keep! Consider it a reward for the many nights that you've undoubtedly spent putting together your conference talk, reviewing it with colleagues, friends, designing your slides and practicing your talk.
 * Unless it falls foul of conference guidelines, make sure you take some Obvious swag to give out - use it to make some new friends!
 
-### Useful Resources
+## Useful Resources
 
 * [https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences](https://www.ashedryden.com/blog/what-you-need-to-know-about-speaking-at-conferences)
 * [http://cultivatedmanagement.com/how-to-submit-and-speak-at-a-conference/](http://cultivatedmanagement.com/how-to-submit-and-speak-at-a-conference/)

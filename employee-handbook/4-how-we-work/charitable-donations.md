@@ -6,7 +6,7 @@ There are many worthy charities. It is impossible to construct a partial order \
 
 ## Decision
 
-Any personal donation made by any individual member of uncommon will be matched by Obvious. This rule has one exemption which is when Obvious is asked for a donation directly, in which case it is up for discussion.
+A personal donation made by an individual at Obvious, will be matched by Obvious. This rule has one exemption which is when Obvious is asked for a donation directly, in which case it is up for discussion.
 
 ### Partial list of donations
 
@@ -17,6 +17,4 @@ Any personal donation made by any individual member of uncommon will be matched 
 | 2​019 | [HasGeek](https://hasgeek.com/) | S​upport women speakers at conferences with travel stipends | ₹100,000 |
 | 2​019 | [I​nternet Freedom Foundation](https://internetfreedom.in/) | We committed to a [donation-matching drive](https://internetfreedom.in/obvious-fundraise/) for the IFF. | ₹127,001 |
 |  |  |  |  |
-
-
 
