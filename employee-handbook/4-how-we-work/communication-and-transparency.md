@@ -59,5 +59,5 @@ If you are uncomfortable providing feedback to someone directly, please talk to 
 
 #### See also
 
-{% page-ref page="../meetings-and-conversations/one-on-ones.md" %}
+{% page-ref page="../conversations/one-on-ones.md" %}
 
