@@ -4,6 +4,8 @@
 
 ## Employee Handbook
 
+* [Starting at Obvious](employee-handbook/starting-at-obvious/README.md)
+  * [Dress Code](employee-handbook/starting-at-obvious/dress-code.md)
 * [Introduction](employee-handbook/0-introduction/README.md)
   * [Our Core Values](employee-handbook/0-introduction/obvious-core-values.md)
   * [Policy Changes](employee-handbook/0-introduction/policy-changes.md)
