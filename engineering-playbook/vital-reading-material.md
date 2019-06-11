@@ -11,6 +11,7 @@ description: All of these books are available in our Library
 1. The Mythical Man Month: Essays on Software Engineering -- Frederick Brooks
 2. Peopleware: Productive Projects and Teams -- Tom DeMarco, Tim Lister
 3. The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change -- Camille Fournier
+4. Radical Candor: Be a Kickass Boss Without Losing Your Humanity -- Kim Malone Scott
 
 ### Computer Science and Meta
 

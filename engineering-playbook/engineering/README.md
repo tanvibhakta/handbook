@@ -1,20 +1,24 @@
 # Engineering at Obvious
 
-> _Software engineering is not computer science,_
->
-> _And computer science is not coding;_
->
-> _Better engineering practices improve predictability of costs and schedules,_
->
-> _provide early warning of problems,_
->
-> _support better management,_
->
-> _and reduce risk of overruns._
+{% hint style="success" %}
+Software engineering **is not** computer science,  
+And computer science **is not** coding;
+
+Better engineering practices **improve predictability** of costs and schedules,  
+provide **early warning** of problems,  
+support **better management**,  
+and **reduce risk** of overruns.
+{% endhint %}
 
 ## We are Product Engineers
 
-We do more than just write code, we’re more than just a feature factory. We are co-owners of the product experience. We look at the full picture to understand the value and impact of what we’re building. We contribute to the full spectrum of a product’s development; from PRD to code to tests. We regularly talk to customers and end users; we rigorously analyse and measure the performance of features, and unearth opportunities to improve.
+We do more than just write code, we’re more than just a feature factory. 
+
+We are co-owners of the product experience. We look at the full picture to understand the value and impact of what we’re building. 
+
+We contribute to the full spectrum of a product’s development; from PRD to code to tests. 
+
+We regularly talk to customers and end users; we rigorously analyse and measure the performance of features, and unearth opportunities to improve.
 
 ## High alignment, High autonomy
 

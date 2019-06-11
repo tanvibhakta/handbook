@@ -16,8 +16,10 @@ This ensures the codebase is always releasable on demand and helps to make CD a 
 
 This also means that TBD is the opposite of models like Git Flow, where features are developed in parallel to `master`, living in long-running branches.
 
-> **Branches create distance between developers and we do not want that.**  
-> _Frank Compagner, Guerrilla Games_
+{% hint style="warning" %}
+**"Branches create distance between developers and we do not want that."**  
+_Frank Compagner, Guerrilla Games_
+{% endhint %}
 
 Frank’s "distance" is about the distance to the integration of code from multiple components/modules/sub-teams for a binary that could be deployed or shipped. The problematic distance is to code not present in `master`, that might:
 
