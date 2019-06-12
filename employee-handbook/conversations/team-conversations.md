@@ -59,7 +59,7 @@ Use the following tips to make the most of your Team Conversations.
 
 Leave your ego outside the Team Conversation. Using the words “works/doesn’t work” instead of “like/dislike” keeps the conversation focused on facts instead of making it personal. Our team is united by the goal of creating the best solution for the end user. It’s not about one person’s idea winning or losing.
 
-### Focus on Quite Listening
+### Focus on Quiet Listening
 
 Talk less, listen more. Instead of thinking of a rebuttal when someone else presents their idea, actively listen to the speaker. Ask for clarification to fully understand the concept, and then listen intently. Paraphrase a team member if you disagree to ensure that you have an accurate understanding of their viewpoint.
 
