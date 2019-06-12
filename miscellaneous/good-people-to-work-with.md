@@ -10,11 +10,11 @@ To partly address that gap after having had the privilege of working with a few 
 
 ## Branding & Graphic Design
 
-* [CoDesign](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/www.codesign.in)
+* [CoDesign](http://www.codesign.in)
 * [Cracker and Rush](https://www.crackerandrush.com/)
 * [Beard Design](https://bearddesign.co/)
 * [Animal](https://www.weareanimal.co/)
-* [Itu Chaudhuri Design](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/[http:/icdindia.com)
+* [Itu Chaudhuri Design](http:/icdindia.com)
 * [Turmeric Design](http://www.turmericdesign.com/)
 * [Kracken Design](http://krackndesign.com/)
 
@@ -24,7 +24,7 @@ To partly address that gap after having had the privilege of working with a few 
 * [silverorange](https://www.silverorange.com/)
 * [Beard Design](https://bearddesign.co/)
 * [3 Sided Coin](https://3sided.co.in)
-* [Propelland](https://github.com/obvious/handbook/tree/3054d49bd9dc578e92a33ac98bb45519bd9741b2/7-Miscellaneous/propelland.com)
+* [Propelland](http://propelland.com)
 * [Miranj](https://miranj.in/)
 * [Thoughtput](https://thoughtput.in/)
 * [Khushbu Kapadia](https://www.khushbukapadia.com/)
