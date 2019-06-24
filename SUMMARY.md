@@ -10,6 +10,7 @@
 * [Hiring Documents](employee-handbook/2-hiring-documents/README.md)
   * [Welcome to Obvious](employee-handbook/2-hiring-documents/handbook-introduction.md)
   * [Offer Letter - Simple English](employee-handbook/2-hiring-documents/offer-letter-simple-english.md)
+  * [Consultancy Agreement](employee-handbook/2-hiring-documents/consultancy-agreement.md)
   * [Acknowledgement of Receipt of Employee Handbook](employee-handbook/2-hiring-documents/acknowledgment-of-receipt.md)
   * [Acknowledgement of Receipt of Changes to the Employee Handbook](employee-handbook/2-hiring-documents/acknowledgement-of-receipt-of-changes.md)
 * [Employment Policies](employee-handbook/1-employment-policies/README.md)
