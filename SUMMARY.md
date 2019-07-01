@@ -71,7 +71,6 @@
     * [Git Commit Messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
   * [Refactoring](engineering-playbook/engineering/refactoring.md)
   * [System Design & Architecture](engineering-playbook/engineering/system-design-and-architecture.md)
-* [Conferences & CFPs](engineering-playbook/conferences-and-cfps.md)
 
 ## Legal Templates
 
