@@ -4,7 +4,7 @@ description: >-
   health of a project and the team that is working on the project.
 ---
 
-# Git Commit Messages
+# Git commit messages
 
 Good commit messages have 3 critical benefits:
 

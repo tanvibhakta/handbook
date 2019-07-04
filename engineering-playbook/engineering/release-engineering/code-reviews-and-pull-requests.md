@@ -4,7 +4,7 @@ description: >-
   being built.
 ---
 
-# Code Reviews & Pull Requests
+# Code reviews & Pull Requests
 
 Code reviews ensure standards and guidelines are respected and followed, and the larger team learns about the new code being written. Sure, code reviews can \(and do!\) help with catching mistakes early on, but in large codebases, techniques like test-driven-development are far more effective for writing bug-free code.
 

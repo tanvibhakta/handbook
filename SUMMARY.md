@@ -61,16 +61,17 @@
 
 ## Engineering Playbook
 
-* [Vital Reading Material](engineering-playbook/vital-reading-material.md)
+* [Our hiring process](engineering-playbook/our-hiring-process.md)
+* [Vital reading material](engineering-playbook/vital-reading-material.md)
 * [Engineering at Obvious](engineering-playbook/engineering/README.md)
   * [Iteration Planning Meetings](engineering-playbook/engineering/iteration-planning-meetings.md)
   * [Daily Standup Meetings](engineering-playbook/engineering/daily-standup-meetings.md)
-  * [Release Engineering](engineering-playbook/engineering/release-engineering/README.md)
-    * [Trunk-based Development](engineering-playbook/engineering/release-engineering/trunk-based-development.md)
-    * [Code Reviews & Pull Requests](engineering-playbook/engineering/release-engineering/code-reviews-and-pull-requests.md)
-    * [Git Commit Messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
   * [Refactoring](engineering-playbook/engineering/refactoring.md)
-  * [System Design & Architecture](engineering-playbook/engineering/system-design-and-architecture.md)
+  * [System design & architecture](engineering-playbook/engineering/system-design-and-architecture.md)
+  * [Release engineering](engineering-playbook/engineering/release-engineering/README.md)
+    * [Trunk-based development](engineering-playbook/engineering/release-engineering/trunk-based-development.md)
+    * [Code reviews & Pull Requests](engineering-playbook/engineering/release-engineering/code-reviews-and-pull-requests.md)
+    * [Git commit messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
 
 ## Legal Templates
 

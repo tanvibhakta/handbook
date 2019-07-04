@@ -2,7 +2,7 @@
 description: See trunkbaseddevelopment.com for the official documentation.
 ---
 
-# Trunk-based Development
+# Trunk-based development
 
 {% hint style="info" %}
 A source-control branching model, where developers collaborate on code in a single branch called `master` \(or “trunk”\), and resist any pressure to create other long-lived development branches. They therefore avoid merge hell, do not break the build, and live happily ever after.

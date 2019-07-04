@@ -1,4 +1,4 @@
-# System Design & Architecture
+# System design & architecture
 
 Some of the most important things in the world are intentionally designed “simple”. In any system, the potential for error directly increases with its complexity - that’s why most elections still work by putting pieces of paper in a box.
 

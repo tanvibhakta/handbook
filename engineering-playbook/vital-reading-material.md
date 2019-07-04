@@ -2,7 +2,7 @@
 description: All of these books are available in our Library.
 ---
 
-# Vital Reading Material
+# Vital reading material
 
 ## Core
 

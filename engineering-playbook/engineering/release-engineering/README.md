@@ -5,7 +5,7 @@ description: >-
   predictable results, and scales well.
 ---
 
-# Release Engineering
+# Release engineering
 
 Whenever a team is trying to ship a product, there are 3 major worries…
 
