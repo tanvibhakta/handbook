@@ -7,7 +7,7 @@ description: >-
 
 # Our hiring process
 
-Thank you for considering Obvious as a potential workplace -- [we're](https://obvious.in/team/) stoked! Hiring procedures make everyone anxious and nervous -- including us! -- and we want to make your experience with us as smooth as possible. 
+Thank you for considering Obvious as a potential workplace -- [we're](https://obvious.in/team/) stoked! Hiring procedures make everyone anxious and nervous -- including us -- and we want to make your experience with us as smooth as possible. 
 
 So, here's what you can expect when you interview with us.
 
@@ -15,13 +15,17 @@ So, here's what you can expect when you interview with us.
 
 We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq), while also announcing them on [our Twitter](https://twitter.com/obvious_in/) account. 
 
-{% hint style="warning" %}
-Our compensation is the same for everyone on the same level. All our salaries are public internally. We do not ask for your payslips to decide how much we will pay you, and we do not engage in salary negotations.
+{% hint style="success" %}
+Our compensation is the same for everyone on the same level. Our salaries are public internally. We don't ask for your payslips to decide how much we will pay you, and we don't engage in salary negotations.
 {% endhint %}
 
 ## 1. Send us your CV
 
-Most CVs that companies ask for contain information that is prone to bias. For e.g.: photo, demographic information, education history. So when you send us your CV, we want you to send a fairly abbreviated document containing the following... 
+Most CVs contain information that is prone to bias. For e.g.: photo, demographic information, education history. So when you send us your CV, we want you to send a fairly abbreviated document containing the following... 
+
+{% hint style="warning" %}
+We will reject your CV if you don't send it in this specific format.
+{% endhint %}
 
 * Your work experience in full detail:
   * What are the places you have worked at, when, and for how long?
@@ -38,10 +42,10 @@ _Response time: 4-5 days._
 
 As a team, we're quite an opinionated one! It helps us to listen to everyone -- we end up learning from each other's point of view. To know you better, we ask you to answer these 4 questions:
 
-_**Q1.** What advice would you give to your younger self \(back when you started programming\)?   
+**Q1.** What advice would you give to your younger self \(back when you started programming\)?   
 **Q2.** What is your favourite programming language, or framework? Why? What do you not like about it?   
 **Q3.** What are some of your favourite technical essays, books, or videos? What do you like about them?   
-**Q4.** Why do you want to be at Obvious?_ 
+**Q4.** Why do you want to be at Obvious? 
 
 Evidently, there are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion!
 
@@ -65,7 +69,7 @@ _Response time: 4-5 days_
 
 ## 5. Obvious Day
 
-This is the last step in our process, congratulations! You will be spending a day at our office, meeting our team, seeing how we work, and writing some code.
+This is the last step in our process, congratulations! You will be spending a day at our office, meeting our team, seeing how we work, and writing some code. You'll eat lunch with the team, and if we can convince you, go out for some tea and snacks in the evening. 
 
 ### Technical interview: 1 hour
 
@@ -73,7 +77,7 @@ You talk to one or two engineers from our team about your technical journey. Exp
 
 ### Pairing exercise: 2 hours
 
-You pair with an engineer on the Homework Exercise code you wrote. This might involve refactoring parts of the code or adding some features. To make you comfortable, we will do this on your computer, or give you time to setup one of our computers to fit your usage. 
+You pair with an engineer on the Homework Exercise code you wrote. This might involve refactoring or adding some features. To make you comfortable, we will do this on your computer, or give you time to setup one of our computers to fit your usage. 
 
 ### Mentor a Junior Developer: 1 hour
 
