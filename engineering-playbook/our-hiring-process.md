@@ -13,7 +13,7 @@ So, here's what you can expect when you interview with us.
 
 ## 0. Check our open positions
 
-We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq/jobs/), while also announcing them on [our Twitter](https://twitter.com/obvious_in/) account. 
+We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq), while also announcing them on [our Twitter](https://twitter.com/obvious_in/) account. 
 
 {% hint style="warning" %}
 Our compensation is the same for everyone on the same level. All our salaries are public internally. We do not ask for your payslips to decide how much we will pay you, and we do not engage in salary negotations.
