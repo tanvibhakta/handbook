@@ -44,7 +44,9 @@ To get this degree of alignment, our teams must adhere to a set of non-negotiabl
 
 Every time we’re trying to change people’s behaviour, we need to start them off with a lot of structure, so they don’t have to think. A lot of what we do is habit, and it’s hard to change those habits, but having very clear guardrails can help us.
 
-### Trust is more important than Control
+{% hint style="success" %}
+Trust is more important than control!
+{% endhint %}
 
 * We don’t want people in the team who we cannot trust.
 * To be agile at scale, requires trust at scale.
