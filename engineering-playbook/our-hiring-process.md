@@ -9,7 +9,9 @@ description: >-
 
 Thank you for considering Obvious as a potential workplace -- [we're](https://obvious.in/team/) stoked! Hiring procedures make everyone anxious and nervous -- including us -- and we want to make your experience with us as smooth as possible. 
 
-So, here's what you can expect when you interview with us.
+This process is not something that is set in stone. We keep iterating, and the steps tend to be slightly different for everyone -- just like everyone who goes through them!
+
+So, here are the 5 stages you can expect when you interview with us.
 
 ## 0. Check our open positions
 
@@ -36,26 +38,26 @@ We will reject your CV if you don't send it in this specific format.
 * Side projects you might have, related to the position:
   * These could be hobby projects, open source contributions, or anything else you think is interesting that you'd like to share with us.
 
-_Response time: 4-5 days._
+_We'll get back to you in 4-5 days._
 
 ## 2. Answer the "Opinion Questions"
 
-As a team, we're quite an opinionated one! It helps us to listen to everyone -- we end up learning from each other's point of view. To know you better, we ask you to answer these 4 questions:
+As a team, we're quite an opinionated one! It helps us to listen to everyone -- we end up learning from each other's point of view. To know you better, we ask you to write down answers to these 4 questions:
 
 **Q1.** What advice would you give to your younger self \(back when you started programming\)?   
 **Q2.** What is your favourite programming language, or framework? Why? What do you not like about it?   
 **Q3.** What are some of your favourite technical essays, books, or videos? What do you like about them?   
 **Q4.** Why do you want to be at Obvious? 
 
-Evidently, there are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion!
+We're not judging your English skills here. Instead, we're looking for clarity of thought and explanation. There are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion. 
 
-_Response time: 2-3 days._
+_We'll get back to you in 2-3 days._
 
 ## 3. In-person Conversation
 
 We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. You should go through our Playbook beforehand -- it answers many frequently asked questions!
 
-_Response time: 2-3 days._
+_We'll get back to you in 2-3 days._
 
 ## 4. Homework Exercise
 
@@ -65,7 +67,7 @@ Aha, finally some code! We're not fond of asking questions around algorithms or 
 * We expect you to use git, commit code as you go along, and build the app iteratively -- just as you would during a normal workday. 
 * When you're done, you give us access privately to your git repository, or simply email us the entire thing. We'll go through what you've built and get back to you in a few days.
 
-_Response time: 4-5 days_
+_We'll get back to you in 4-5 days._
 
 ## 5. Obvious Day
 
@@ -83,11 +85,9 @@ You pair with an engineer on the Homework Exercise code you wrote. This might in
 
 If you're interviewing for an experienced position, we ask you to explain a concept/pattern to a junior developer. You may use a computer or whiteboard or anything else you feel comfortable with. One of our engineers will silently shadow this discussion.
 
-_Response time: 2-3 days._
+_We'll get back to you in 2-3 days._
 
 ## Done!
 
-That's all! We aim to close all conversations within a week of you finishing the process.
-
-This process is not something that is set in stone. We keep iterating, and the steps tend to be slightly different for everyone -- just like everyone who goes through them!
+That's all! We aim to close all conversations within 7 days of you finishing the process.
 
