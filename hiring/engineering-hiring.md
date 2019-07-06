@@ -4,24 +4,28 @@
 
 As a team, we're quite an opinionated one! It helps us to listen to everyone -- we end up learning from each other's point of view. To know you better, we ask you to write down answers to these 4 questions:
 
-**Q1.** What advice would you give to your younger self \(back when you started programming\)?   
-**Q2.** What is your favourite programming language, or framework? Why? What do you not like about it?   
-**Q3.** What are some of your favourite technical essays, books, or videos? What do you like about them?   
-**Q4.** Why do you want to be at Obvious? 
+1. What advice would you give to your younger self \(back when you started programming\)?
+2. What is your favourite programming language, or framework? Why? What do you not like about it?
+3. What are some of your favourite technical essays, books, or videos? What do you like about them?
+4. Why do you want to be at Obvious? 
 
 We're not judging your English skills here. Instead, we're looking for clarity of thought and explanation. There are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion. 
 
+{% hint style="info" %}
 _We'll get back to you in 2-3 days, with further instructions._
+{% endhint %}
 
 ## 2. In-person Conversation
 
-We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. You should go through our Playbook beforehand -- it answers many frequently asked questions!
+We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. You should go through [our Playbook](https://playbook.obvious.in/) beforehand -- it answers many frequently asked questions!
 
+{% hint style="info" %}
 _We'll get back to you in 2-3 days, with further instructions._
+{% endhint %}
 
 ## 3. Homework Exercise
 
-Aha, finally some code! We're not fond of asking questions around algorithms or data structures or even on-site whiteboarding exercises. Instead, we will ask you to build a small app using publicly available resources. 
+Aha, finally some code! We're not fond of asking questions around algorithms or data structures or even on-site white-boarding exercises. Instead, we will ask you to build a small app using publicly available resources. 
 
 * You do this exercise at your own pace, on your own computer, and in an environment that is comfortable for you. 
 * We expect you to use git, [commit code as you go along](../engineering-playbook/engineering/release-engineering/git-commit-messages.md), and build the app iteratively -- just as you would during a normal workday. 
@@ -29,7 +33,9 @@ Aha, finally some code! We're not fond of asking questions around algorithms or 
 
 If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one.
 
+{% hint style="info" %}
 _We'll get back to you in 4-5 days, with further instructions._
+{% endhint %}
 
 ## 4. Obvious Day
 
@@ -47,5 +53,7 @@ You pair with an engineer on the Homework Exercise code you wrote. This might in
 
 If you're interviewing for an experienced position, we ask you to explain a concept/pattern to a junior developer. You may use a computer or whiteboard or anything else you feel comfortable with. One of our engineers will silently shadow this discussion.
 
+{% hint style="success" %}
 _We'll get back to you in 2-3 days, with further instructions._
+{% endhint %}
 
