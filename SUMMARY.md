@@ -7,12 +7,6 @@
 * [Introduction](employee-handbook/introduction/README.md)
   * [Our Core Values](employee-handbook/introduction/obvious-core-values.md)
   * [Policy Changes](employee-handbook/introduction/policy-changes.md)
-* [Hiring Documents](employee-handbook/hiring-documents/README.md)
-  * [Welcome to Obvious](employee-handbook/hiring-documents/handbook-introduction.md)
-  * [Offer Letter - Simple English](employee-handbook/hiring-documents/offer-letter-simple-english.md)
-  * [Consultancy Agreement](employee-handbook/hiring-documents/consultancy-agreement.md)
-  * [Acknowledgement of Receipt of Employee Handbook](employee-handbook/hiring-documents/acknowledgment-of-receipt.md)
-  * [Acknowledgement of Receipt of Changes to the Employee Handbook](employee-handbook/hiring-documents/acknowledgement-of-receipt-of-changes.md)
 * [Employment Policies](employee-handbook/employment-policies/README.md)
   * [Equal Opportunity Employment](employee-handbook/employment-policies/equal-opportunity-employment.md)
   * [At-Will Employment Policy](employee-handbook/employment-policies/at-will-employment.md)
@@ -77,6 +71,12 @@
 * [The Hiring Process](hiring/our-hiring-process.md)
 * [Engineering Hiring](hiring/engineering-hiring.md)
 * [Design Hiring](hiring/design-hiring.md)
+* [Hiring Documents](hiring/hiring-documents/README.md)
+  * [Welcome to Obvious](hiring/hiring-documents/handbook-introduction.md)
+  * [Offer Letter - Simple English](hiring/hiring-documents/offer-letter-simple-english.md)
+  * [Consultancy Agreement](hiring/hiring-documents/consultancy-agreement.md)
+  * [Acknowledgement of Receipt of Employee Handbook](hiring/hiring-documents/acknowledgment-of-receipt.md)
+  * [Acknowledgement of Receipt of Changes to the Employee Handbook](hiring/hiring-documents/acknowledgement-of-receipt-of-changes.md)
 
 ## Legal Templates
 
