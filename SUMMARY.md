@@ -61,7 +61,6 @@
 
 ## Engineering Playbook
 
-* [Our hiring process](engineering-playbook/our-hiring-process.md)
 * [Vital reading material](engineering-playbook/vital-reading-material.md)
 * [Engineering at Obvious](engineering-playbook/engineering/README.md)
   * [Iteration Planning Meetings](engineering-playbook/engineering/iteration-planning-meetings.md)
@@ -72,6 +71,12 @@
     * [Trunk-based development](engineering-playbook/engineering/release-engineering/trunk-based-development.md)
     * [Code reviews & Pull Requests](engineering-playbook/engineering/release-engineering/code-reviews-and-pull-requests.md)
     * [Git commit messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
+
+## Hiring
+
+* [The Hiring Process](hiring/our-hiring-process.md)
+* [Engineering Hiring](hiring/engineering-hiring.md)
+* [Design Hiring](hiring/design-hiring.md)
 
 ## Legal Templates
 
