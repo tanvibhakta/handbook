@@ -1,2 +1,0 @@
-# Obvious Hiring Philosophy
-
