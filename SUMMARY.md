@@ -68,8 +68,8 @@
 
 ## Hiring
 
-* [Obvious Hiring Philosophy](hiring/obvious-hiring-philosophy-1.md)
-* [The Hiring Process](hiring/our-hiring-process.md)
+* [Obvious Hiring Philosophy](hiring/hiring-philosophy.md)
+* [The Hiring Process](hiring/hiring-process.md)
 * [Engineering Hiring](hiring/engineering-hiring.md)
 * [Design Hiring](hiring/design-hiring.md)
 * [Hiring Documents](hiring/hiring-documents/README.md)
