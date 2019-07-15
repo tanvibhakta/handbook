@@ -2,7 +2,7 @@
 description: This is a work in progress.
 ---
 
-# Obvious Hiring Philosophy
+# Our Hiring Philosophy
 
 At Obvious, we are always looking to get in touch with interesting craftspeople who are not only very good at what they do, but also very passionate about it. We might not have an opening throughout the year, but we believe that these interactions and conversations should be facilitated because they in turn lead to mutually beneficial long-term engagements. 
 
@@ -28,9 +28,9 @@ At Obvious, we are ardent believers that culture fit leads to a homogeneous team
 
 Openness and transparency helps in building a productive workplace. Humble people who communicate their thought process openly and give/receive feedback in a helpful manner   increase the overall quality of work output, as well as help in building trust and mutual respect among coworkers. This openness and transparency extends beyond the workplace - to the client and to the users for whom we are designing the products.
 
-{% hint style="info" %}
-#### Read about our [Employment policies](https://playbook.obvious.in/employee-handbook/employment-policies) here.
+{% hint style="success" %}
+If this is aligned with your idea of an ideal workplace, please read on.
 {% endhint %}
 
-If you feel that this is aligned with your own value system, please read about [our hiring process](https://playbook.obvious.in/hiring/our-hiring-process).
+{% page-ref page="../employee-handbook/employment-policies/" %}
 

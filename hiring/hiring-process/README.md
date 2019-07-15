@@ -5,7 +5,7 @@ description: >-
   inclusive and diverse is essential.
 ---
 
-# The Hiring Process
+# Our Hiring Process
 
 Thank you for considering Obvious as a potential workplace -- we're stoked! Hiring procedures make everyone anxious and nervous -- including us -- and we want to make your experience as smooth as possible. 
 
