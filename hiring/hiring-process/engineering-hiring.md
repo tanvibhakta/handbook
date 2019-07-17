@@ -15,15 +15,7 @@ We're not judging your English skills here. Instead, we're looking for clarity o
 _We'll get back to you in 2-3 days, with further instructions._
 {% endhint %}
 
-## 2. In-person Conversation
-
-We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. You should go through [our Playbook](https://playbook.obvious.in/) beforehand -- it answers many frequently asked questions!
-
-{% hint style="info" %}
-_We'll get back to you in 2-3 days, with further instructions._
-{% endhint %}
-
-## 3. Homework Exercise
+## 2. Take-home Exercise
 
 Aha, finally some code! We're not fond of asking questions around algorithms or data structures or even on-site white-boarding exercises. Instead, we will ask you to build a small app using publicly available resources. 
 
@@ -37,7 +29,7 @@ If you have done a different homework exercise in the recent past, we might cons
 _We'll get back to you in 4-5 days, with further instructions._
 {% endhint %}
 
-## 4. Obvious Day
+## 3. Obvious Day
 
 This is the last step in our process, congratulations! You will be spending a day at our office, meeting our team, seeing how we work, and writing some code. You'll eat lunch with the team, and if we can convince you, go out for some tea and snacks in the evening. 
 
@@ -53,7 +45,21 @@ You pair with an engineer on the Homework Exercise code you wrote. This might in
 
 If you're interviewing for an experienced position, we ask you to explain a concept/pattern to a junior developer. You may use a computer or whiteboard or anything else you feel comfortable with. One of our engineers will silently shadow this discussion.
 
-{% hint style="success" %}
+{% hint style="info" %}
 _We'll get back to you in 2-3 days, with further instructions._
 {% endhint %}
+
+## 4. In-person Conversation
+
+We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. 
+
+You should go through [our Playbook](https://playbook.obvious.in/) beforehand -- it answers many frequently asked questions. We also welcome your feedback about the entire process -- bouquets and brickbats welcome.
+
+{% hint style="info" %}
+_We'll get back to you in 2-3 days, with further instructions._
+{% endhint %}
+
+## And... that's all!
+
+We'll get back to you with an answer in less than 7 days. Good luck!
 

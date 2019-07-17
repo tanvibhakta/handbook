@@ -11,9 +11,7 @@ Thank you for considering Obvious as a potential workplace -- we're stoked! Hiri
 
 This process is not something that is set in stone. We keep iterating, and the steps tend to be slightly different for everyone -- just like everyone who goes through them!
 
-So, here are the 5 stages you can expect when you interview with us.
-
-## 0. Check our open positions
+## Check our open positions
 
 We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq), while also announcing them on [our Twitter](https://twitter.com/obvious_in/) account. 
 
@@ -21,7 +19,7 @@ We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obv
 Our compensation is the same for everyone on the same level. Our salaries are public internally. We don't ask for your payslips to decide how much we will pay you, and we don't engage in salary negotiations.
 {% endhint %}
 
-## 1. Send us your CV
+## Send us your _trimmed_ CV
 
 {% hint style="warning" %}
 We will not accept your CV if you don't send it in our _specific_ format.
@@ -38,9 +36,15 @@ Most CVs contain information that is prone to bias. For e.g.: photo, demographic
 2. Any side projects, related to the position:
    * These could be hobby projects, open source contributions, or anything else that you think is interesting and you'd like to share with us.
 
+Please **do not include** any of the following... ****
+
+* Photo, of any type
+* Demographic information \(hometown, date of birth, etc.\) 
+* Educational information \(schooling, college, university, etc.\) 
+
 _We'll get back to you in 4-5 days, with further instructions._
 
 ## Done!
 
-That's all! We aim to close all conversations within 7 days of you finishing the process.
+That's all! We aim to respond to all conversations within 7 days.
 
