@@ -32,6 +32,7 @@
   * [Timeline to Becoming a Permanent Employee](employee-handbook/starting-at-obvious/timeline-to-becoming-a-permanent-employee.md)
   * [Getting Paid](employee-handbook/starting-at-obvious/getting-paid.md)
   * [Dress Code](employee-handbook/starting-at-obvious/dress-code.md)
+  * [Useful Links](employee-handbook/starting-at-obvious/useful-links.md)
 * [How We Work](employee-handbook/how-we-work/README.md)
   * [Objectives and Key Results](employee-handbook/how-we-work/objective-and-key-results.md)
   * [Communication and Transparency](employee-handbook/how-we-work/communication-and-transparency.md)
