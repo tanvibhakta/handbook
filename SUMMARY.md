@@ -89,4 +89,5 @@
 ## Miscellaneous
 
 * [Good People to Work With](miscellaneous/good-people-to-work-with.md)
+* [The Obvious Library](miscellaneous/the-obvious-library.md)
 

@@ -16,7 +16,9 @@ See also: [Getting Paid](getting-paid.md).
 
 #### 📔Borrow a Book
 
-[Obvious Library](https://airtable.com/shr9bjAqUqqpY8pWp/tblfcet3KFsNkVINQ?blocks=hide): this is a read-only view at this point in time.
+[Obvious Library](https://airtable.com/login): you should be able to log in through Airtable and "check out" a book that you wish to borrow.
+
+See also: [The Obvious Library](../../miscellaneous/the-obvious-library.md).
 
 #### 🗓Calendar
 
