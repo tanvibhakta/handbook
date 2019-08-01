@@ -91,3 +91,10 @@
 * [Good People to Work With](miscellaneous/good-people-to-work-with.md)
 * [The Obvious Library](miscellaneous/the-obvious-library.md)
 
+## Elsewhere
+
+* [Website](https://obvious.in/)
+* [Careers](https://angel.co/company/obvious_in)
+* [Github](https://github.com/obvious/)
+* [Dribbble](https://dribbble.com/obvious_hq)
+
