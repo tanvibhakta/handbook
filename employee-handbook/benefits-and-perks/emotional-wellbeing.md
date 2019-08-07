@@ -12,7 +12,6 @@ Your sessions remain completely confidential between you and your doctor. Obviou
 * [Parivarthan](http://www.parivarthan.org/)
 * [iCall's Curated List of Trustworthy Mental Helath Professionals](https://docs.google.com/spreadsheets/u/1/d/1pzckT6ns2H1IlmwYwJa8EnBh_1u3gRA9cEOoA4zfilc/htmlview#)
 * [The Alternative Story](http://alternativestory.in/)
-* [The Hank Nunn Institute](http://hanknunninstitute.com/)
 
 #### See Also
 
