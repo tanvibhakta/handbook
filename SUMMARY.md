@@ -72,7 +72,6 @@
 * [Our Hiring Philosophy](hiring/hiring-philosophy.md)
 * [Our Hiring Process](hiring/hiring-process/README.md)
   * [Engineering Hiring](hiring/hiring-process/engineering-hiring.md)
-  * [Design Hiring](hiring/hiring-process/design-hiring.md)
 * [Hiring Documents](hiring/hiring-documents/README.md)
   * [Welcome to Obvious](hiring/hiring-documents/handbook-introduction.md)
   * [Offer Letter - Simple English](hiring/hiring-documents/offer-letter-simple-english.md)
