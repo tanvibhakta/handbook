@@ -13,7 +13,7 @@ This process is not something that is set in stone. We keep iterating, and the s
 
 ## Check our open positions
 
-We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq), [HasJobs](https://hasjob.co/obvious.in) and also announce them on [our Twitter](https://twitter.com/obvious_in/) account. 
+We publish our open positions [on LinkedIn](https://www.linkedin.com/company/obvious-hq), [Angel](https://angel.co/company/obvious_in/jobs), and [Hasjob](https://hasjob.co/obvious.in). We also announce them on [our Twitter](https://twitter.com/obvious_in/) account. 
 
 {% hint style="success" %}
 Our compensation is the same for everyone on the same level. Our salaries are public internally. We don't ask for your payslips to decide how much we will pay you, and we don't engage in salary negotiations.
