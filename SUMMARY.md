@@ -54,6 +54,7 @@
   * [The Design Sprint](design-playbook/design/the-design-sprint.md)
   * [The Design Relay](design-playbook/design/relay.md)
   * [The Design Marathon](design-playbook/design/the-design-marathon.md)
+  * [Working with Our Design Team](design-playbook/design/starting-a-design-engagement.md)
 
 ## Engineering Playbook
 
