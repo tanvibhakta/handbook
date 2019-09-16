@@ -51,7 +51,7 @@ At the end of week 4, the candidate presents their work from the investigation e
 
 ### Weeks 5-8: Solve
 
-Using our design/engineering frameworks, the candidate translates the direction from the previous stage into a well thought out 4 week execution plan with the help of their fellowship manager. For the next 4 weeks, the candidate builds out the solution iteratively, seeking feedback and guidance from the manager \(and the larger team\) at a regular cadence.
+Using our design/engineering frameworks, along with some guidance from the fellowship manager, the candidate translates the direction from the previous stage into a well thought out, 4 week execution plan. For the next 4 weeks, the candidate builds out the solution iteratively, seeking feedback and counsel from the manager \(and the larger team\) at a regular cadence.
 
 {% hint style="success" %}
 **Milestone 4**  
