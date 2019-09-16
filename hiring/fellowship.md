@@ -75,7 +75,7 @@ The candidate continues working on the solution and refines it further till the 
 
 {% hint style="success" %}
 **Milestone 5**  
-At the end of week 12, the candidate presents their final refined solution along with some key learnings from the apprenticeship, followed up by a detailed written feedback by the team. Depending on the outcomes from the previous milestone, the candidate either rolls off and joins the Obvious community as a proud Obvious Fellow, or transitions into a full time role as a proud member of the Obvious Family.
+At the end of week 12, the candidate presents their final refined solution along with some key learnings from the fellowship, followed up by a detailed written feedback by the team. Depending on the outcomes from the previous milestone, the candidate either rolls off and joins the Obvious community as a proud Obvious Fellow, or transitions into a full time role as a proud member of the Obvious Family.
 {% endhint %}
 
 
