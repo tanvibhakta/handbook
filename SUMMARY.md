@@ -80,7 +80,7 @@
   * [Consultancy Agreement](hiring/hiring-documents/consultancy-agreement.md)
   * [Acknowledgement of Receipt of Employee Handbook](hiring/hiring-documents/acknowledgment-of-receipt.md)
   * [Acknowledgement of Receipt of Changes to the Employee Handbook](hiring/hiring-documents/acknowledgement-of-receipt-of-changes.md)
-* [The First 90 Days](hiring/the-first-90-days.md)
+* [The Obvious Fellowship](hiring/the-first-90-days.md)
 
 ## Legal Templates
 
