@@ -12,7 +12,7 @@ As a result of this outward focus, throughout the last few years, we have made f
 
 * People who can work at Obvious in future
 * People who are working at Obvious
-* People who have already worked at Obvious and are now doing other things \(Obvious Alumnus\)
+* People who have already worked at Obvious and are now doing other things \(Obvious alumni\)
 
 And we are on good terms with all. 
 
