@@ -1,4 +1,4 @@
-# Engineering at Obvious
+# Our Engineering Philosophy
 
 {% hint style="success" %}
 Software engineering **is not** computer science,  
