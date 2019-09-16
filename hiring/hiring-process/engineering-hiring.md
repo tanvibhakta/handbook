@@ -20,7 +20,7 @@ _We'll get back to you in 2-3 days, with further instructions._
 Aha, finally some code! We're not fond of asking questions around algorithms or data structures or even on-site white-boarding exercises. Instead, we will ask you to build a small app using publicly available resources. 
 
 * You do this exercise at your own pace, on your own computer, and in an environment that is comfortable for you. 
-* We expect you to use git, [commit code as you go along](../../engineering-playbook/refactoring/release-engineering/git-commit-messages.md), and build the app iteratively -- just as you would during a normal workday. 
+* We expect you to use git, [commit code as you go along](../../engineering-playbook/engineering/release-engineering/git-commit-messages.md), and build the app iteratively -- just as you would during a normal workday. 
 * When you're done, make your repository public and send us a link to it. We'll go through what you've built and get back to you in a few days.
 
 If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one.

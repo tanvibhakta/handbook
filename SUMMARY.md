@@ -58,16 +58,16 @@
 
 ## Engineering Playbook
 
-* [Our Engineering Philosophy](engineering-playbook/engineering.md)
-* [Iteration Planning Meetings](engineering-playbook/iteration-planning-meetings.md)
-* [Daily Standup Meetings](engineering-playbook/daily-standup-meetings.md)
-* [Refactoring](engineering-playbook/refactoring/README.md)
-  * [System design & architecture](engineering-playbook/refactoring/system-design-and-architecture.md)
-  * [Release engineering](engineering-playbook/refactoring/release-engineering/README.md)
-    * [Trunk-based development](engineering-playbook/refactoring/release-engineering/trunk-based-development.md)
-    * [Code reviews & Pull Requests](engineering-playbook/refactoring/release-engineering/code-reviews-and-pull-requests.md)
-    * [Git commit messages](engineering-playbook/refactoring/release-engineering/git-commit-messages.md)
 * [Vital reading material](engineering-playbook/vital-reading-material.md)
+* [Engineering at Obvious](engineering-playbook/engineering/README.md)
+  * [Iteration Planning Meetings](engineering-playbook/engineering/iteration-planning-meetings.md)
+  * [Daily Standup Meetings](engineering-playbook/engineering/daily-standup-meetings.md)
+  * [Refactoring](engineering-playbook/engineering/refactoring.md)
+  * [System design & architecture](engineering-playbook/engineering/system-design-and-architecture.md)
+  * [Release engineering](engineering-playbook/engineering/release-engineering/README.md)
+    * [Trunk-based development](engineering-playbook/engineering/release-engineering/trunk-based-development.md)
+    * [Code reviews & Pull Requests](engineering-playbook/engineering/release-engineering/code-reviews-and-pull-requests.md)
+    * [Git commit messages](engineering-playbook/engineering/release-engineering/git-commit-messages.md)
 
 ## Hiring
 
