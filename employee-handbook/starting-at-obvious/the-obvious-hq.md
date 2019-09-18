@@ -2,28 +2,36 @@
 
 ### Location & Directions
 
+We're located on the 2nd floor of [Raheja Paramount at Richmond Circle, Bangalore](https://www.google.com/maps/place/Obvious/@12.9653795,77.5955305,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1581be6ca40f:0x54ed4c2dbb69d178!8m2!3d12.9653743!4d77.5977192) 
+You can reach us via the Richmond Circle bus stop, walk down from Brigade Road, or get off at the Cubbon Park Metro Station and cut through the calming roads of Cubbon Park to get to our office.
+
 **Parking**
 
-We have eight parking slots \(4 on the surface, 2 in Basement 1 and 2 in Basement 2\). We encourage the use of public transport, or bicycling to work \(helmets and safety gear compulsory\).
+If you must drive in, we have eight parking slots \(4 on the surface, 2 in Basement 1 and 2 in Basement 2\). 
+We encourage the use of public transport, or bicycling to work \(helmets and safety gear compulsory\).
 
-**Entry and Exit Protocol**
+### Entry and Exit Protocol
 
 Everyone will get a PIN code to enter the office. **Do not share this code with anyone,** as it would give them access to our office.
 
 The last person leaving the office must ensure that:
 
-* all the lights and fans are turned off, including the ones in the washrooms
+* all the lights and air conditioning is turned off, including the ones in the washrooms
 * the coffee machine in the kitchen is turned off
-* doors and windows are closed—be especially careful about the door to the terraces
+* doors and windows are closed—be especially careful about the doors to the balconies
 * however, don’t turn off **anyone’s** computer—they’re called _personal_ computers for a reason!
 
 If you’re the only person in the office, or if the area near the main door is unoccupied, please **keep the main door locked.**
 
 ### Timings
 
-The office is officially open Monday to Friday. We encourage you to take weekends off from work, and use the space for anything fun—screen a movie, invite friends over to play board games or party. If you do use the office over the weekend, please note that you should be extra careful about keeping the premises secure and the space clean.
+The office is officially open Monday to Friday. We encourage you to take weekends off from work. If you do use the office over the weekend, please note that you should be extra careful about keeping the premises secure and the space clean.
 
 Use the office as you please—just ensure that you follow the Entry and Exit protocol. Most people leave by 6pm, but should you need to pull an all-nighter, feel free.
+
+### Layout
+
+WIP
 
 ### Printer
 
