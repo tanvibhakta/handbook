@@ -10,9 +10,8 @@ description: All of these books are available in our Library.
 
 1. The Manager's Path -- Camille Fournier
 2. Radical Candor -- Kim Malone Scott
-3. The Making of a Manager -- Julie Zhou
-4. The Mythical Man Month -- Frederick Brooks
-5. Peopleware: Productive Projects and Teams -- Tom DeMarco, Tim Lister
+3. The Mythical Man Month -- Frederick Brooks
+4. Peopleware: Productive Projects and Teams -- Tom DeMarco, Tim Lister
 
 ### Computer science & meta
 
@@ -34,8 +33,9 @@ description: All of these books are available in our Library.
 
 ### Release engineering 
 
-1. Accelerate: The Science of Lean Software and DevOps -- Nicole Forsgren, Jez Humble, Gene Kim
-2. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation -- Jez Humble, David Farley
+1. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win -- Gene Kim, Kevin Behr, George Spafford 
+2. Accelerate: The Science of Lean Software and DevOps -- Nicole Forsgren, Jez Humble, Gene Kim
+3. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation -- Jez Humble, David Farley
 
 ## Android / Java / Kotlin specific
 
