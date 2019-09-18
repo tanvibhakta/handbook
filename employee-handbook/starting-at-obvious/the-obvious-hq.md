@@ -1,16 +1,14 @@
 # The Obvious HQ
 
-### Location & Directions
+## Location & Directions
 
-We're located on the 2nd floor of [Raheja Paramount at Richmond Circle, Bangalore](https://www.google.com/maps/place/Obvious/@12.9653795,77.5955305,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1581be6ca40f:0x54ed4c2dbb69d178!8m2!3d12.9653743!4d77.5977192) 
-You can reach us via the Richmond Circle bus stop, walk down from Brigade Road, or get off at the Cubbon Park Metro Station and cut through the calming roads of Cubbon Park to get to our office.
+We're located on the 2nd floor of [Raheja Paramount at Richmond Circle, Bangalore](https://www.google.com/maps/place/Obvious/@12.9653795,77.5955305,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1581be6ca40f:0x54ed4c2dbb69d178!8m2!3d12.9653743!4d77.5977192) You can reach us via the Richmond Circle bus stop, walk down from Brigade Road, or get off at the Cubbon Park Metro Station and cut through the calming roads of Cubbon Park to get to our office.
 
 **Parking**
 
-If you must drive in, we have eight parking slots \(4 on the surface, 2 in Basement 1 and 2 in Basement 2\). 
-We encourage the use of public transport, or bicycling to work \(helmets and safety gear compulsory\).
+If you must drive in, we have eight parking slots \(4 on the surface, 2 in Basement 1 and 2 in Basement 2\). We encourage the use of public transport, or bicycling to work \(helmets and safety gear compulsory\).
 
-### Entry and Exit Protocol
+## Entry and Exit Protocol
 
 Everyone will get a PIN code to enter the office. **Do not share this code with anyone,** as it would give them access to our office.
 
@@ -23,17 +21,17 @@ The last person leaving the office must ensure that:
 
 If you’re the only person in the office, or if the area near the main door is unoccupied, please **keep the main door locked.**
 
-### Timings
+## Timings
 
 The office is officially open Monday to Friday. We encourage you to take weekends off from work. If you do use the office over the weekend, please note that you should be extra careful about keeping the premises secure and the space clean.
 
 Use the office as you please—just ensure that you follow the Entry and Exit protocol. Most people leave by 6pm, but should you need to pull an all-nighter, feel free.
 
-### Layout
+## Layout
 
 WIP
 
-### Printer
+## Printer
 
 We have a printer-scanner-copier-fax machine: an HP Colour Laserjet. It’s a duplex printer, so try and save paper by printing on both sides wherever you can.
 
@@ -42,21 +40,21 @@ We have a printer-scanner-copier-fax machine: an HP Colour Laserjet. It’s a du
 Mac OS X: Go to System Preferences → Printers and Scanners. Click on the ‘Add Printer’ button and an entry titled ‘HP Color LaserJet MFP’ should show up. Click ‘Add’, and you’re all done!  
 **Drivers**: The HP website has [a comprehensive support section](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m477-series/7326560/model/7326586). Please do go through it before asking for help.
 
-### Supplies
+## Supplies
 
 For the purpose of these House Rules, “Supplies” shall mean any object, article, item, artefact, goods, commodity, doodah, doobry, gubbins, that is consumed, destroyed, depleted, demolished, wiped out, ingested, swallowed, gobbled during the normal course of a work day and requires regular replenishment to maintain a sustainable working environment including, without limitation, all toiletries, all stationery, all packaged food and beverages.
 
-* **Rule 1:** _Everything belongs to everyone._  
+* **Rule 1:** _Everything belongs to everyone._
 
   Of course you can bring in your lunch boxes — just make sure it looks unmistakably personal.
 
-* **Rule 2:** _Report anything that’s about to run out._  
+* **Rule 2:** _Report anything that’s about to run out._
 
   The moment you open the last box of tissue, the last jar of Nutella or find that only a few serving of a particular flavour/variety of a product is left — shout out on Slack. Ensure that you’re unambiguous while adding the item i.e. mention the brand name, name the flavour/variety, etc. Typically we do a massive round of shopping once-a-month, but many things are ordered on the fly or picked up on the passing. Whenever items are replenished we report it back on Slack. Exceptions to this schedule are perishables like bread, curd, etc. They are generally purchased while walking into office every other day.
 
 * **Rule 3:** _Suggest products that we don’t stock already._ Suggestions also go on Slack. You could expedite the purchase by sharing exactly where to buy it from \(preferably online\).
 
-### Stationery
+## Stationery
 
 We stock basic office stationery, in one of the various cupboards. A list of what we usually have available is below. For more stationery, ask Jaya to purchase it.
 
@@ -70,7 +68,7 @@ We stock basic office stationery, in one of the various cupboards. A list of wha
 * Post-Its
 * Scissors
 
-### The Kitchenette
+## The Kitchenette
 
 Feel free to make yourself a coffee using the coffee machine. Basic utensils and cutlery is available; if you need anything else, let us know.
 
@@ -84,7 +82,7 @@ If you leave food in the fridge and plan to consume it the next day, please cove
 
 During the summer, ensure that we always have cold water and ice in the fridge. If you take out a bottle, please replace it with a filled one, or if you notice that the ice trays are empty, do refill them.
 
-### **Cleanliness**
+## **Cleanliness**
 
 A maid comes in every day to clean the office. We do our own dishes. The maid shouldn’t be expected to do our dishes, even though she is kind enough to clean the the utensils that are left in the sink overnight. Leaving behind utensils in the sink is discouraged—do it only if you must.
 
@@ -96,13 +94,13 @@ Food, and other types of wet waste should go in the mini-compost bin located nea
 
 Paper, plastic, metal and glass should all be sorted into the Sorting Hat Station next to the kitchen. When in doubt, ask for help.
 
-### **Guests**
+## **Guests**
 
 You can occasionally bring in your guests to work from the office for a day or two. Just ensure that seats are available on the day, and drop in a message on Slack that someone will be tagging along with you. The house rules apply equally to guests, so if you’re inviting them please brief them.
 
 _**Note:**_ Guests will not have access to Slack, lockers and the main door keys. It is expected that you’ll be around with your guest.
 
-### **In General**
+## **In General**
 
 * Respect co-workers. Everyone is doing serious work. Avoid shouting across the tables \(use Slack instead\). If you're having conversations, head to the dining area or the main lounge/living.
 * Leave the place cleaner than when you got in. At the very least, clean your own mess.
