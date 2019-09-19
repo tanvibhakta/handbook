@@ -1,5 +1,5 @@
 ---
-description: 'Our approach towards a healthy, cross functional growth, at Obvious.'
+description: 'Our approach towards healthy, cross functional growth, at Obvious.'
 ---
 
 # Design Growth Framework
@@ -81,7 +81,7 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 {% tab title="Research" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | `Develops and demonstrates expertise in design and product strategy.` |
+|  | `Develops and demonstrates expertise in design research and experience mapping.` |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
 | `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
 | `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
