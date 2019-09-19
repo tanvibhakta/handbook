@@ -31,7 +31,7 @@ The scoring has four different sections \(see table below\), all of which contri
 | Some documentation with basic setup instructions or feature descriptions | 1 | 1 |
 | Detailed documentation with setup, screenshots, configuration instructions, etc | 2 | 2 |
 | **Commit History \(See** [**Note 1**](scoring-a-take-home-exercise.md#note-1) **below\)** |  |  |
-| The repository has a few large commits \(Exceptions are commits with auto-generated code like Room schemas or the initial commit when initialising a project through an IDE or a CLI\) | 0 | -1 |
+| The repository has a few large commits \(Exceptions for auto-generated code like Room schemas or the initial commit when initialising a project\) | 0 | -1 |
 | The repository has some small-ish commits with clear \(what the commit does\) messages | 1 | 1 |
 | The repository has many tiny, atomic commits with clear, descriptive \(what the commit does and why, when appropriate\) messages | 2 | 2 |
 | **Testing** |  |  |
