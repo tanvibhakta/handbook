@@ -25,6 +25,10 @@ Aha, finally some code! We're not fond of asking questions around algorithms or 
 
 If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one.
 
+#### For reviewers
+
+The process for evaluating a Take-Home Exercise solution is detailed [HERE](scoring-a-take-home-exercise.md).
+
 {% hint style="info" %}
 _We'll get back to you in 4-5 days, with further instructions._
 {% endhint %}
