@@ -1,5 +1,5 @@
 ---
-description: 'Our approach towards a healthy, cross functional growth, at Obvious.'
+description: 'Our approach towards healthy, cross functional growth, at Obvious.'
 ---
 
 # Design Growth Framework
@@ -16,7 +16,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 The framework is divided into 12 different skills, each of which have 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Each milestone is somewhat exponentially harder to cross than the previous one, which is reflected in the number of points assigned to each milestone.
 
-| **Milestone** | **Points** |
+| Milestone | Points          |
 | :--- | :--- |
 | 1 | 1 |
 | 2 | 3 |
@@ -26,7 +26,7 @@ The framework is divided into 12 different skills, each of which have 5 differen
 
 Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
 
-| **Points** | **Levels** |
+| **Points** | **Levels**   |
 | :--- | :--- |
 | 7 | 1.1 |
 | 12 | 1.2 |
@@ -46,7 +46,7 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 
 At Obvious,  we do not have designations, so we think of these levels in terms of the following 5 bands - 
 
-| **Bands** | **Levels** |
+| **Bands** | **Levels**                |
 | :--- | :--- |
 | Beginner | 1.1 - 1.3 |
 | Intermediate | 2.1 - 2.3 |

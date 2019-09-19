@@ -55,7 +55,6 @@
   * [The Design Relay](design-playbook/design/relay.md)
   * [The Design Marathon](design-playbook/design/the-design-marathon.md)
 * [Working with Our Design Team](design-playbook/starting-a-design-engagement.md)
-* [Design Growth Framework](design-playbook/design-growth-framework.md)
 
 ## Engineering Playbook
 
@@ -83,6 +82,10 @@
   * [Acknowledgement of Receipt of Employee Handbook](hiring/hiring-documents/acknowledgment-of-receipt.md)
   * [Acknowledgement of Receipt of Changes to the Employee Handbook](hiring/hiring-documents/acknowledgement-of-receipt-of-changes.md)
 * [The Obvious Fellowship](hiring/fellowship.md)
+
+## Career Growth
+
+* [Design Growth Framework](career-growth/design-growth-framework.md)
 
 ## Legal Templates
 
