@@ -18,7 +18,7 @@ If it doesn't, the solution is rejected and we **must** respond with an appropri
 
 ## Quick Score
 
-The scoring has four different sections \(see table below\), all of which contribute a certain number of points to the overall score of a solution. The exercise has been designed to compensate for a solution lacking in one aspect, but done well in others
+The scoring has four different sections \(see table below\), all of which contribute a certain number of points to the overall score of a solution. The scoring process has been designed to compensate for a solution lacking in one aspect, but done well in others
 
 1. For each of the four sections in the table below, look at the state of the repository and select an appropriate score for the role the candidate is applying for.
 2. Sum up the scores for the individual sections \(Documentation, Commit History, Testing, and Application\).
