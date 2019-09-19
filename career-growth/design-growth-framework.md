@@ -1,5 +1,5 @@
 ---
-description: 'Our approach towards healthy, cross functional growth, at Obvious.'
+description: 'Our approach towards a healthy, cross functional growth, at Obvious.'
 ---
 
 # Design Growth Framework
