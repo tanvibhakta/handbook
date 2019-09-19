@@ -1,10 +1,3 @@
----
-description: >-
-  The evaluation process is, as all things currently are, a "Work In Progress".
-  This means that we will constantly evaluate whether this continues to make
-  sense and iterate on it going forward.
----
-
 # Evaluating a take-home exercise
 
 There are two stages to screening a take-home exercise solution:
@@ -31,7 +24,7 @@ The scoring has four different sections \(see table below\), all of which contri
 | Some documentation with basic setup instructions or feature descriptions | 1 | 1 |
 | Detailed documentation with setup, screenshots, configuration instructions, etc | 2 | 2 |
 | **Commit History \(See** [**Note 1**](scoring-a-take-home-exercise.md#note-1) **below\)** |  |  |
-| The repository has a few large commits \(Exceptions for auto-generated code like Room schemas or the initial commit when initialising a project\) | 0 | -1 |
+| The repository has a few large commits \(Exceptions are commits with auto-generated code like Room schemas or the initial commit when initialising a project through an IDE or a CLI\) | 0 | -1 |
 | The repository has some small-ish commits with clear \(what the commit does\) messages | 1 | 1 |
 | The repository has many tiny, atomic commits with clear, descriptive \(what the commit does and why, when appropriate\) messages | 2 | 2 |
 | **Testing** |  |  |
@@ -54,6 +47,11 @@ The scoring has four different sections \(see table below\), all of which contri
 #### Note 1
 
 The ideal "size" of a commit diff is subjective. A good rule of thumb would be to follow the section on ["Small CLs"](https://google.github.io/eng-practices/review/developer/small-cls.html) in the Google Engineering Practices guide.
+
+## Recommended Reading and watching
+
+* Google's guide for Change List authors: [https://google.github.io/eng-practices/review/developer/](https://google.github.io/eng-practices/review/developer/)
+* Write awesome tests by Jeroen Mols: [https://www.youtube.com/watch?v=F8Gc8Nwf0yk](https://www.youtube.com/watch?v=F8Gc8Nwf0yk)
 
 
 
