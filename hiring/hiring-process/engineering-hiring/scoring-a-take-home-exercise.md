@@ -30,10 +30,10 @@ The scoring has four different sections \(see table below\), all of which contri
 | No documentation in the repository | 0 | -1 |
 | Some documentation with basic setup instructions or feature descriptions | 1 | 1 |
 | Detailed documentation with setup, screenshots, configuration instructions, etc | 2 | 2 |
-| **Commit History** |  |  |
-| The repository has a few large \(See: note 1\) commits \(Exceptions for auto-generated code like Room schemas or the initial commit when initialising a project\) | 0 | -1 |
-| The repository has some small-ish \(See: note 1\) commits with clear \(what the commit does\) messages | 1 | 1 |
-| The repository has many tiny, atomic commits \(See: note 1\) commits with clear, descriptive \(what the commit does and why, when appropriate\) messages | 2 | 2 |
+| **Commit History \(See** [**Note 1**](scoring-a-take-home-exercise.md#note-1) **below\)** |  |  |
+| The repository has a few large commits \(Exceptions are commits with auto-generated code like Room schemas or the initial commit when initialising a project through an IDE or a CLI\) | 0 | -1 |
+| The repository has some small-ish commits with clear \(what the commit does\) messages | 1 | 1 |
+| The repository has many tiny, atomic commits with clear, descriptive \(what the commit does and why, when appropriate\) messages | 2 | 2 |
 | **Testing** |  |  |
 | There are either no tests, or a few tests that aren't really that useful | 0 | -1 |
 | Tests for business logic are present, but they are tested via instrumentation/UI tests | 1 | 1 |
