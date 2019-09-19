@@ -2,16 +2,14 @@
 
 There are two stages to screening a take-home exercise solution:
 
-* An initial, quick score which the solution will have to pass before moving onto the second stage
-* A pair of engineers spend a couple of hours reviewing the solution in detail
+1. An initial scoring, which the solution will have to pass before it is considered for the second stage.
+2. If a solution passes the cut-off score, then a pair of engineers will review the exercise more thoroughly and decide on whether we should bring a candidate in for the in-person interview or not. 
 
-Note that meeting the cut-off score is a "necessary but not sufficient" condition to consider a candidate for the in-person interview. If a solution passes the cut-off score, then a pair of engineers will review the exercise more thoroughly and decide on whether we should bring a candidate in for the in-person interview or not. 
-
-If it doesn't, the solution is rejected and we **must** respond with an appropriate rejection mail.
+If we think the solution doesn't meet our standards, we **will** respond with an appropriate rejection mail.
 
 ## Quick Score
 
-The scoring has four different sections \(see table below\), all of which contribute a certain number of points to the overall score of a solution. The scoring process has been designed to compensate for a solution lacking in one aspect, but done well in others
+The scoring has four different sections \(see table below\), all of which contribute a certain number of points to the overall score of a solution. The scoring process has been designed to compensate for a solution lacking in one aspect, but done well in others.
 
 1. For each of the four sections in the table below, look at the state of the repository and select an appropriate score for the role the candidate is applying for.
 2. Sum up the scores for the individual sections \(Documentation, Commit History, Testing, and Application\).
@@ -48,10 +46,10 @@ The scoring has four different sections \(see table below\), all of which contri
 
 The ideal "size" of a commit diff is subjective. A good rule of thumb would be to follow the section on ["Small CLs"](https://google.github.io/eng-practices/review/developer/small-cls.html) in the Google Engineering Practices guide.
 
-## Recommended Reading and watching
+
+
+## Recommended reading and watching
 
 * Google's guide for Change List authors: [https://google.github.io/eng-practices/review/developer/](https://google.github.io/eng-practices/review/developer/)
 * Write awesome tests by Jeroen Mols: [https://www.youtube.com/watch?v=F8Gc8Nwf0yk](https://www.youtube.com/watch?v=F8Gc8Nwf0yk)
-
-
 
