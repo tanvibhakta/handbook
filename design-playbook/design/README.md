@@ -1,2 +1,2 @@
-# Design at Obvious
+# Our Design Practice
 

@@ -50,11 +50,12 @@
 
 ## Design Playbook
 
-* [Design at Obvious](design-playbook/design/README.md)
+* [Our Design Practice](design-playbook/design/README.md)
   * [The Design Sprint](design-playbook/design/the-design-sprint.md)
   * [The Design Relay](design-playbook/design/relay.md)
   * [The Design Marathon](design-playbook/design/the-design-marathon.md)
-  * [Working with Our Design Team](design-playbook/design/starting-a-design-engagement.md)
+* [Working with Our Design Team](design-playbook/starting-a-design-engagement.md)
+* [Design Growth Framework](design-playbook/design-growth-framework.md)
 
 ## Engineering Playbook
 
