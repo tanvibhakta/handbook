@@ -12,57 +12,9 @@ At Obvious, we look for multi-faceted, [T-shaped](https://en.wikipedia.org/wiki/
 
 This framework is inspired by the fantastic [work done by the folks at Medium](https://medium.com/s/engineering-growth-framework/engineering-growth-introduction-8ba7b78c8d6c).
 
-## How it Works
-
-The framework is divided into 12 different skills, each of which have 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Each milestone is somewhat exponentially harder to cross than the previous one, which is reflected in the number of points assigned to each milestone.
-
-| Milestone | Points          |
-| :--- | :--- |
-| 1 | 1 |
-| 2 | 3 |
-| 3 | 6 |
-| 4 | 12 |
-| 5 | 20 |
-
-Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
-
-| **Points** | **Levels**   |
-| :--- | :--- |
-| 7 | 1.1 |
-| 12 | 1.2 |
-| 17 | 1.3 |
-| 23 | 2.1 |
-| 29 | 2.2 |
-| 35 | 2.3 |
-| 42 | 3.1 |
-| 49 | 3.2 |
-| 56 | 3.3 |
-| 64 | 4.1 |
-| 74 | 4.2 |
-| 86 | 4.3 |
-| 100 | 5.1 |
-| 116 | 5.2 |
-| 136 | 5.3 |
-
-At Obvious,  we do not have designations, so we think of these levels in terms of the following 5 bands - 
-
-| **Bands** | **Levels**                |
-| :--- | :--- |
-| Beginner | 1.1 - 1.3 |
-| Intermediate | 2.1 - 2.3 |
-| Advanced | 3.1 - 3.3 |
-| Principal | 4.1 - 4.3 |
-| Leader | 5.1 - 5.3 |
-
-Now that we have the numbers out of the way, let's talk about what exactly does it take to cross those milestones in each skill.
-
-
-
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. 
-
-
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Here's what the skills and the corresponding milestones look like -
 
 ### Creating
 
@@ -211,4 +163,50 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | `5` | Sets recruitment strategy, invests in long-term relationships for critical roles, and recruits at scale. |
 {% endtab %}
 {% endtabs %}
+
+
+
+## Evaluation
+
+Each milestone is somewhat exponentially harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
+
+| Milestone | Points          |
+| :--- | :--- |
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 6 |
+| 4 | 12 |
+| 5 | 20 |
+
+Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
+
+| **Points** | **Levels**   |
+| :--- | :--- |
+| 7 | 1.1 |
+| 12 | 1.2 |
+| 17 | 1.3 |
+| 23 | 2.1 |
+| 29 | 2.2 |
+| 35 | 2.3 |
+| 42 | 3.1 |
+| 49 | 3.2 |
+| 56 | 3.3 |
+| 64 | 4.1 |
+| 74 | 4.2 |
+| 86 | 4.3 |
+| 100 | 5.1 |
+| 116 | 5.2 |
+| 136 | 5.3 |
+
+At Obvious,  we do not have designations, so we think of these levels in terms of the following 5 bands - 
+
+| **Bands** | **Levels**                |
+| :--- | :--- |
+| Beginner | 1.1 - 1.3 |
+| Intermediate | 2.1 - 2.3 |
+| Advanced | 3.1 - 3.3 |
+| Principal | 4.1 - 4.3 |
+| Leader | 5.1 - 5.3 |
+
+
 
