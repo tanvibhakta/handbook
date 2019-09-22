@@ -200,13 +200,13 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 
 At Obvious,  we do not have designations, so we think of these levels in terms of the following 5 bands - 
 
-| **Bands** | **Levels**                |
+| **Bands** | **Levels**                             |
 | :--- | :--- |
-| Beginner | 1.1 - 1.3 |
-| Intermediate | 2.1 - 2.3 |
-| Advanced | 3.1 - 3.3 |
-| Principal | 4.1 - 4.3 |
-| Leader | 5.1 - 5.3 |
+| Associate Designer | 1.1 - 1.3 |
+| Designer | 2.1 - 2.3 |
+| Senior Designer | 3.1 - 3.3 |
+| Principal Designer | 4.1 - 4.3 |
+| Design Leader | 5.1 - 5.3 |
 
 
 
