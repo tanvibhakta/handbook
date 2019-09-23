@@ -2,11 +2,15 @@
 description: 'Our approach towards healthy, cross functional growth.'
 ---
 
-# Design Growth Framework
+# Engineering Growth Framework
+
+{% hint style="danger" %}
+This page is still a work in progress!
+{% endhint %}
 
 ## Introduction
 
-We strongly believe that people produce their best work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it. 
+We strongly believe that people produce their best work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it.
 
 At Obvious, we look for multi-faceted, [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) individuals, who bring a lot to the table other than just their craft. To nurture and accelerate the growth of such people, over the years we've experimented with several different frameworks. We've finally resolved to the one that follows.
 
@@ -19,18 +23,18 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 ### Creating
 
 {% tabs %}
-{% tab title="Strategy" %}
+{% tab title="Foundation" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | `Develops and demonstrates expertise in design and product strategy.` |
-| `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
-| `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
-| `5` | Is a thought leader in the field and sets the direction for design strategy as a function within the organization. |
+|  | _Develops and demonstrates expertise in design and product strategy._ |
+| 1 | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
+| 2 | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
+| 3 | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
+| 4 | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
+| 5 | Is a thought leader in the field and sets the direction for design strategy as a function within the organization. |
 {% endtab %}
 
-{% tab title="Research" %}
+{% tab title="Android & iOS" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in design research and experience mapping.` |
@@ -41,7 +45,7 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | `5` | Is a thought leader in the field and sets the direction for design research as a function within the organization. |
 {% endtab %}
 
-{% tab title="Function" %}
+{% tab title="Frontend Web" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in product thinking and digital product design.` |
@@ -52,7 +56,7 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | `5` | Is a thought leader in the field and sets the direction for product design as a function within the organization. |
 {% endtab %}
 
-{% tab title="Form" %}
+{% tab title="Release Engineering" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in aesthetics, visual design and branding.` |
@@ -70,12 +74,12 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 {% tab title="Project Management" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | `Plans well and delivers the right quantum of work, at the right quality, within the committed timeframe.` |
-| `1` | Effectively delivers individual tasks. |
-| `2` | Effectively delivers small individual projects. |
-| `3` | Effectively delivers projects through a small team. |
-| `4` | Effectively delivers projects through a large team with a significant amount of stakeholders or complexity, or delivers multiple projects through a number of small teams. |
-| `5` | Sets org-wide direction for project management, improves current project management practices and creates new ones wherever required. |
+|  | _Plans well and delivers the right quantum of work, at the right quality, within the committed timeframe._ |
+| 1 | Effectively delivers individual tasks. |
+| 2 | Effectively delivers small individual projects. |
+| 3 | Effectively delivers projects through a small team. |
+| 4 | Effectively delivers projects through a large team with a significant amount of stakeholders or complexity, or delivers multiple projects through a number of small teams. |
+| 5 | Sets org-wide direction for project management, improves current project management practices and creates new ones wherever required. |
 {% endtab %}
 
 {% tab title="Communication" %}
@@ -118,12 +122,12 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 {% tab title="Community & Wellbeing" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | `Contributes to the well-being of team members by building a strong internal community that lives and breathes company values.` |
-| `1` | Brings a positive vibe to the floor, is approachable and helpful towards close collaborators. |
-| `2` | Promotes a culture of lending support, proactively helps individuals experience a sense of belonging. |
-| `3` | Creates a supportive and engaging team environment, promotes inclusivity, empowers team members to vocalise and then act on their fears and aspirations. |
-| `4` | Exemplifies selflessness without compromising responsibilities, advocates for the needs of teams, proactively works to maintain calm in the organization. |
-| `5` | Personifies company values, promotes positive culture by shaping strong people policies, inspires and protects the entire organization. |
+|  | _Contributes to the well-being of team members by building a strong internal community that lives and breathes company values._ |
+| 1 | Brings a positive vibe to the floor, is approachable and helpful towards close collaborators. |
+| 2 | Promotes a culture of lending support, proactively helps individuals experience a sense of belonging. |
+| 3 | Creates a supportive and engaging team environment, promotes inclusivity, empowers team members to vocalise and then act on their fears and aspirations. |
+| 4 | Exemplifies selflessness without compromising responsibilities, advocates for the needs of teams, proactively works to maintain calm in the organization. |
+| 5 | Personifies company values, promotes positive culture by shaping strong people policies, inspires and protects the entire organization. |
 {% endtab %}
 
 {% tab title="Mentorship" %}
@@ -164,18 +168,18 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 
 Each milestone is significantly harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
 
-| Milestone | Points                              |
-| :--- | :--- |
+| Milestone | Points             |
+| :---: | :--- |
 | 1 | 1 |
 | 2 | 3 |
 | 3 | 6 |
 | 4 | 12 |
 | 5 | 20 |
 
-Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
+Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
-| **Points** | **Level**                   |
-| :--- | :--- |
+| **Points** | **Level**       |
+| :---: | :--- |
 | 7 | 1.1 |
 | 12 | 1.2 |
 | 17 | 1.3 |
@@ -194,11 +198,11 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 
 At Obvious, we do not have designations, so we think of these levels in terms of the following 5 bands:
 
-| **Bands** | **Levels**                             |
+| **Bands** | **Levels**                                   |
 | :--- | :--- |
-| Associate Designer | 1.1 - 1.3 |
-| Designer | 2.1 - 2.3 |
-| Senior Designer | 3.1 - 3.3 |
-| Principal Designer | 4.1 - 4.3 |
-| Design Leader | 5.1 - 5.3 |
+| Associate Engineer | 1.1 - 1.3 |
+| Engineer | 2.1 - 2.3 |
+| Senior Engineer | 3.1 - 3.3 |
+| Staff Engineer | 4.1 - 4.3 |
+| Principal Engineer | 5.1 - 5.3 |
 
