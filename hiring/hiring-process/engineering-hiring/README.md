@@ -23,7 +23,7 @@ Aha, finally some code! We're not fond of asking questions around algorithms or 
 * We expect you to use git, [commit code as you go along](../../../engineering-playbook/release-engineering/git-commit-messages.md), and build the app iteratively -- just as you would during a normal workday. 
 * When you're done, make your repository public and send us a link to it. We'll go through what you've built and get back to you in a few days.
 
-If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one.
+If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one. Any alternate exercise that we could review in lieu of our take-home exercise must be a publicly viewable repository on a service like GitHub, Bitbucket, or Gitlab.
 
 #### For reviewers
 
