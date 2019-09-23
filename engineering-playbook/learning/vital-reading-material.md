@@ -8,10 +8,10 @@ description: All of these books are available in our Library.
 
 ### People, teams & projects
 
-1. The Manager's Path -- Camille Fournier
-2. Radical Candor -- Kim Malone Scott
-3. The Mythical Man Month -- Frederick Brooks
-4. Peopleware: Productive Projects and Teams -- Tom DeMarco, Tim Lister
+1. Radical Candor -- Kim Malone Scott
+2. The Mythical Man Month -- Frederick Brooks
+3. Peopleware: Productive Projects and Teams -- Tom DeMarco, Tim Lister
+4. The Manager's Path -- Camille Fournier
 
 ### Computer science & meta
 

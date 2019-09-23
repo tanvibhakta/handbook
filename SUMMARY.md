@@ -67,7 +67,9 @@
   * [Git commit messages](engineering-playbook/release-engineering/git-commit-messages.md)
   * [Code reviews & Pull Requests](engineering-playbook/release-engineering/code-reviews-and-pull-requests.md)
   * [Trunk-based development](engineering-playbook/release-engineering/trunk-based-development.md)
-* [Vital reading material](engineering-playbook/vital-reading-material.md)
+* [Learning](engineering-playbook/learning/README.md)
+  * [Vital reading material](engineering-playbook/learning/vital-reading-material.md)
+  * [Subscriptions](engineering-playbook/learning/subscriptions.md)
 
 ## Hiring
 
