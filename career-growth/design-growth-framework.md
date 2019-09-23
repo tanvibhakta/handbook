@@ -1,5 +1,5 @@
 ---
-description: 'Our approach towards healthy, cross functional growth, at Obvious.'
+description: 'Our approach towards healthy, cross functional growth.'
 ---
 
 # Design Growth Framework
@@ -14,7 +14,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Here's what the skills and the corresponding milestones look like -
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Here's what the skills and the corresponding milestones look like:
 
 ### Creating
 
@@ -64,8 +64,6 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Executing
 
 {% tabs %}
@@ -113,8 +111,6 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | `5` | Leads the entire organization to buy into a bold, audacious vision, and implement it successfully. |
 {% endtab %}
 {% endtabs %}
-
-
 
 ### Supporting
 
@@ -164,13 +160,11 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Evaluation
 
-Each milestone is somewhat exponentially harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
+Each milestone is significantly harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
 
-| Milestone | Points          |
+| Milestone | Points                              |
 | :--- | :--- |
 | 1 | 1 |
 | 2 | 3 |
@@ -180,7 +174,7 @@ Each milestone is somewhat exponentially harder to cross than the previous one, 
 
 Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
 
-| **Points** | **Levels**   |
+| **Points** | **Level**                   |
 | :--- | :--- |
 | 7 | 1.1 |
 | 12 | 1.2 |
@@ -198,7 +192,7 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 | 116 | 5.2 |
 | 136 | 5.3 |
 
-At Obvious,  we do not have designations, so we think of these levels in terms of the following 5 bands - 
+At Obvious, we do not have designations, so we think of these levels in terms of the following 5 bands:
 
 | **Bands** | **Levels**                             |
 | :--- | :--- |
