@@ -86,6 +86,7 @@
 ## Career Growth
 
 * [Design Growth Framework](career-growth/design-growth-framework.md)
+* [Engineering Growth Framework](career-growth/engineering-growth-framework.md)
 
 ## Legal Templates
 
