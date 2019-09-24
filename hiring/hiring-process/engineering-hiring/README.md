@@ -26,7 +26,7 @@ Aha, finally some code! We're not fond of asking questions around algorithms or 
 If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one. Any alternate exercise that we could review in lieu of our take-home exercise must satisfy the following conditions for us to be able to review it:
 
 * It must be a publicly viewable repository on a service like GitHub, Bitbucket, or Gitlab.
-* It must be a complete android application, i.e, it must be an app that integrates UI, Disk persistence, and network interaction.
+* It must be a complete android application, i.e, it must be an app that integrates UI, disk persistence, and network interaction.
 
 #### For reviewers
 
