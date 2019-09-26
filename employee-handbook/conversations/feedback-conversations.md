@@ -22,7 +22,7 @@ Use the following four steps to ensure that feedback is both objective and const
 
 ## **Step 1: Ask & Listen**
 
-Before providing feedback, verify that your understanding of the situation is correct by asking a question or two about what they were trying to accomplish. This ensures that the feedback is offered in the right context and that the person on the receiving end does not feel misunderstood. To do this effectively, use the [Situation -&gt; Behaviour -&gt; Impact \(SBI\) model](https://docs.google.com/document/d/1tS700ENUZKF0tqeAAG4vK0TZM0TGTofaWpbFr5VdZR0/edit#bookmark=id.mxkd4d48hanj).
+Before providing feedback, verify that your understanding of the situation is correct by asking a question or two about what they were trying to accomplish. This ensures that the feedback is offered in the right context and that the person on the receiving end does not feel misunderstood. To do this effectively, use the Situation -&gt; Behaviour -&gt; Impact \(SBI\) model.
 
 Example: When we met with the client this morning and she asked how our team would decide how we find candidates for the user studies \(situation\), you told her that we will not discuss that today and that it was not relevant to the conversation \(behaviour\). She stopped participating and cut short our proposal meeting \(impact\). She wanted a better understanding of our process, and she felt that her questions were not considered important. I would love to hear your take on the situation.
 
