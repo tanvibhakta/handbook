@@ -1,5 +1,5 @@
 ---
-description: 'A role-agnostic job, for those who want to join our tribe.'
+description: 'A role-agnostic job, for designers who want to join our tribe.'
 ---
 
 # Designer/Design Leader
