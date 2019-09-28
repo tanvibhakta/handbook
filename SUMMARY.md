@@ -71,6 +71,10 @@
   * [Vital reading material](engineering-playbook/learning/vital-reading-material.md)
   * [Subscriptions](engineering-playbook/learning/subscriptions.md)
 
+## Jobs
+
+* [Designer/Design Leader](jobs/designer-design-leader.md)
+
 ## Hiring
 
 * [Our Hiring Philosophy](hiring/hiring-philosophy.md)
