@@ -1,5 +1,5 @@
 ---
-description: 'The anti-JD, for those who want to join our tribe of designers.'
+description: 'The anti-JD, for those who want to join our tribe.'
 ---
 
 # Designer/Design Leader
