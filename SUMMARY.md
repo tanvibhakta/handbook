@@ -73,7 +73,7 @@
 
 ## Jobs
 
-* [Designer/Design Leader](jobs/designer-design-leader.md)
+* [Designer/Design Leader](jobs/designer.md)
 
 ## Hiring
 
