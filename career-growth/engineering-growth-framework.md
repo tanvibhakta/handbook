@@ -34,7 +34,7 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | 5 | Is a thought leader in the field and sets the direction for design strategy as a function within the organization. |
 {% endtab %}
 
-{% tab title="Android & iOS" %}
+{% tab title="Mobile" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in design research and experience mapping.` |
@@ -45,7 +45,7 @@ The framework is divided into 3 parts - **Creating**, **Executing** and **Suppor
 | `5` | Is a thought leader in the field and sets the direction for design research as a function within the organization. |
 {% endtab %}
 
-{% tab title="Frontend Web" %}
+{% tab title="Web" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in product thinking and digital product design.` |
@@ -203,6 +203,6 @@ At Obvious, we do not have designations, so we think of these levels in terms of
 | Associate Engineer | 1.1 - 1.3 |
 | Engineer | 2.1 - 2.3 |
 | Senior Engineer | 3.1 - 3.3 |
-| Staff Engineer | 4.1 - 4.3 |
-| Principal Engineer | 5.1 - 5.3 |
+| Principal Engineer | 4.1 - 4.3 |
+| Engineering Leader | 5.1 - 5.3 |
 
