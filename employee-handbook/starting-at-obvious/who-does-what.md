@@ -53,5 +53,26 @@ Below you'll find a list of the major groups and teams within the company. They'
 
 We work with an outsourced CFO-as-a-service offered by [Entrust Family Office](https://www.entrustfamilyoffice.com/). They take care of our bookkeeping, ensure that we are compliant with all applicable laws and provide high-level financial guidance. If you have a question about finance, start by emailing Jaya, and she will direct it appropriately.
 
-### People Ops
+### Committees
+
+#### Food Committee
+
+1. Rakshak
+2. Prajakta
+
+#### Gardening Committee
+
+1. Chippy
+
+#### Zero-Waste Committee
+
+1. Sarun
+2. Prajakta
+3. Tanvi
+
+#### People Ops Committee
+
+1. Vikalp
+2. Sanchita
+3. Manivarma
 
