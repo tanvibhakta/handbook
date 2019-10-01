@@ -51,7 +51,7 @@ Below you'll find a list of the major groups and teams within the company. They'
 
 ### Finance
 
-* Entrust Family Office
+We work with an outsourced CFO-as-a-service offered by [Entrust Family Office](https://www.entrustfamilyoffice.com/). They take care of our bookkeeping, ensure that we are compliant with all applicable laws and provide high-level financial guidance. If you have a question about finance, start by emailing Jaya, and she will direct it appropriately.
 
 ### People Ops
 
