@@ -8,7 +8,7 @@ At Obvious, we are always looking to get in touch with interesting craftspeople 
 
 Obvious takes an active interest in the overall design and engineering community in India. We are not restricted with just immediate hiring needs. Our team members try to contribute to the ecosystem as much as possible by [speaking at events](https://obvious.in/talks-appearances/) all over the world, we [host mini-events](https://twitter.com/womendroid?lang=en) at office for promoting diversity in design and engineering community, we help new designers and engineers with career tips and portfolio reviews through our [OOOhours initiative](https://ooohours.com/), and we are always looking for more ways in which we can contribute to the long term health of the community. 
 
-As a result of this outward focus, throughout the last few years, we have made friends with a lot of talented and interesting people who are all upto something wonderful. For us, the whole community can be divided into 3 parts:
+As a result of this outward focus, throughout the last few years, we have made friends with a lot of talented and interesting people who are all up to something wonderful. For us, the whole community can be divided into 3 parts:
 
 * People who can work at Obvious in future
 * People who are working at Obvious
@@ -32,5 +32,5 @@ Openness and transparency helps in building a productive workplace. Humble peopl
 If this is aligned with your idea of an ideal workplace, please read on.
 {% endhint %}
 
-{% page-ref page="../employee-handbook/employment-policies/" %}
+{% page-ref page="../../employee-handbook/employment-policies/" %}
 

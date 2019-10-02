@@ -39,7 +39,6 @@
   * [Objectives and Key Results](employee-handbook/how-we-work/objective-and-key-results.md)
   * [Communication and Transparency](employee-handbook/how-we-work/communication-and-transparency.md)
   * [Security Practices](employee-handbook/how-we-work/security-practices.md)
-  * [Diversity and Hiring](employee-handbook/how-we-work/diversity-and-sourcing-candidates.md)
   * [Charitable Donations](employee-handbook/how-we-work/charitable-donations.md)
 * [Conversations](employee-handbook/conversations/README.md)
   * [One-on-One Conversations](employee-handbook/conversations/one-on-ones.md)
@@ -78,7 +77,8 @@
 
 ## Hiring
 
-* [Our Hiring Philosophy](hiring/hiring-philosophy.md)
+* [Our Hiring Philosophy](hiring/hiring-philosophy/README.md)
+  * [Diversity and Hiring](hiring/hiring-philosophy/diversity-and-sourcing-candidates.md)
 * [Our Hiring Process](hiring/hiring-process/README.md)
   * [Engineering Hiring](hiring/hiring-process/engineering-hiring/README.md)
     * [Evaluating a take-home exercise](hiring/hiring-process/engineering-hiring/scoring-a-take-home-exercise.md)
