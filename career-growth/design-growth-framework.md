@@ -6,7 +6,7 @@ description: 'Our approach towards healthy, cross functional growth.'
 
 ## Introduction
 
-We strongly believe that people produce their best work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it. 
+We strongly believe that people produce great work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it. 
 
 At Obvious, we look for multi-faceted, [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) individuals, who bring a lot to the table other than just their craft. To nurture and accelerate the growth of such people, over the years we've experimented with several different frameworks. We've finally resolved to the one that follows.
 
@@ -14,7 +14,21 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. Here's what the skills and the corresponding milestones look like:
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. 
+
+In general, you must have demonstrated a "Conscious, Comfortable, Continuous, Consistent Competency" defined as follows:
+
+* **Conscious:** having devoted intentional effort to this endeavour,
+* **Comfortable:** without being overly stretched,
+* **Continuous:** for a reasonable period of time,
+* **Consistent:** reliably and evenly,
+* **Competency:** meeting the criteria.
+
+{% hint style="info" %}
+As a natural consequence, you do not achieve a milestone _the first time_ you demonstrate relevant behaviours or tasks. If it is not clear that you're at a certain milestone, then you'll be placed at the previous milestone.
+{% endhint %}
+
+Here's what the skills and the corresponding milestones look like:
 
 ### Creating
 
