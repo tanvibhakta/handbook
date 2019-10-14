@@ -99,7 +99,7 @@ Here's what the skills and the corresponding milestones look like:
 {% tab title="Communication" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | _Promotes the flow of information and builds confidence through tight articulation, reasoning and feedback._ |
+|  | _Promotes the flow of information and builds confidence through tight articulation, reasoning, and feedback._ |
 | `1` | Communicates effectively with close stakeholders, and incorporates constructive feedback. |
 | `2` | Communicates effectively with the wider team, and actively solicits constructive feedback. |
 | `3` | Communicates effectively with the wider team, actively solicits constructive feedback, and facilitates communication for multiple stakeholders. |
@@ -112,10 +112,10 @@ Here's what the skills and the corresponding milestones look like:
 | :--- | :--- |
 |  | _Promotes high quality work standards and consistently raises the quality bar for self and others._ |
 | `1` | Consistently does good quality work and delivers outcomes without any gaps. |
-| `2` | Goes beyond just 'good quality' and meets the bar set by Obvious' highest quality of work. |
+| `2` | Goes beyond just "good quality" and meets the bar set by Obvious' highest quality of work. |
 | `3` | Goes beyond Obvious' highest quality of work and sets a new bar for quality within the organization. |
 | `4` | Improves the ability of individuals or teams to deliver great quality work. |
-| `5` | Enables and encourages the entire organization to make quality a central part of the design process. |
+| `5` | Enables and encourages the entire organization to make attention to detail and exceptional quality a central part of the engineering process. |
 {% endtab %}
 
 {% tab title="Audacity" %}
@@ -137,10 +137,10 @@ Here's what the skills and the corresponding milestones look like:
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | _Contributes to the well-being of team members by building a strong internal community that lives and breathes company values._ |
-| `1` | Brings a positive vibe to the floor, is approachable and helpful towards close collaborators. |
+| `1` | Brings a positive vibe to the floor, is approachable, and helpful towards close collaborators. |
 | `2` | Promotes a culture of lending support, proactively helps individuals experience a sense of belonging. |
-| `3` | Creates a supportive and engaging team environment, promotes inclusivity, empowers team members to vocalise and then act on their fears and aspirations. |
-| `4` | Exemplifies selflessness without compromising responsibilities, advocates for the needs of teams, proactively works to maintain calm in the organization. |
+| `3` | Creates a supportive and engaging team environment, promotes inclusivity, empowers team members to vocalise and act on their fears and aspirations. |
+| `4` | Exemplifies selflessness without compromising responsibilities, advocates for the needs of teams, and proactively works to maintain calm in the organization. |
 | `5` | Personifies company values, promotes positive culture by shaping strong people policies, inspires and protects the entire organization. |
 {% endtab %}
 
@@ -189,6 +189,10 @@ Each milestone is significantly harder to cross than the previous one, which is 
 | 3 | 6 |
 | 4 | 12 |
 | 5 | 20 |
+
+{% hint style="info" %}
+Some engineers may find that they exhibit some of the example behaviours at a later milestone without exhibiting all of the example behaviours at an earlier milestone. This is to be expected. At the earlier stages of an engineer’s career, they are limited to simple contributions. Engineers with more experience can typically contribute in higher leverage ways which supersede those simpler tasks, meaning they no longer do them. It is assumed they could do them, should they be required to.
+{% endhint %}
 
 Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
