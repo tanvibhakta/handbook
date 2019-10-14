@@ -129,7 +129,7 @@ Here's what the skills and the corresponding milestones look like:
 ### Supporting
 
 {% tabs %}
-{% tab title="Community & Wellbeing" %}
+{% tab title="Community & Well-Being" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Contributes to the well-being of team members by building a strong internal community that lives and breathes company values.` |
