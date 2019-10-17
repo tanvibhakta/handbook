@@ -4,10 +4,6 @@ description: 'Our approach towards healthy, cross functional growth.'
 
 # Engineering Growth Framework
 
-{% hint style="danger" %}
-This page is still a work in progress!
-{% endhint %}
-
 ## Introduction
 
 We strongly believe that people produce great work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it.
@@ -48,26 +44,15 @@ Here's what the skills and the corresponding milestones look like:
 | `5` | Is a thought leader in the field and sets the direction for foundational systems within the organization. |
 {% endtab %}
 
-{% tab title="Mobile" %}
+{% tab title="Platform" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
-|  | _Develops and demonstrates expertise in mobile engineering \(Android, iOS\)._ |
+|  | _Develops and demonstrates expertise in platform-specific engineering \(Android, iOS, web\)_ |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
 | `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
 | `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
 | `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable engineers to work more effectively and deliver higher value. |
-| `5` | Is a thought leader in the field and sets the direction for mobile engineering as a function within the organization. |
-{% endtab %}
-
-{% tab title="Web" %}
-| **Milestone** | **Responsibilities** |
-| :--- | :--- |
-|  | _Develops and demonstrates expertise in frontend web engineering systems._ |
-| `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
-| `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable engineers to work more effectively and deliver higher value. |
-| `5` | Is a thought leader in the field and sets the direction for web engineering as a function within the organization. |
+| `5` | Is a thought leader in the field and sets the direction for platform-specific engineering as a function within the organization. |
 {% endtab %}
 
 {% tab title="Release Engineering" %}
@@ -182,6 +167,12 @@ Here's what the skills and the corresponding milestones look like:
 
 Each milestone is significantly harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
 
+If someone is not meeting expectations for Milestone 1, then they are assumed to be at Milestone 0 with 0 points. One does not start at Milestone 1 in every track. 
+
+{% hint style="info" %}
+During evaluation, if it appears that an engineer is between milestones, then they reside at the lower milestone. One cannot be given points "halfway through" a milestone. 
+{% endhint %}
+
 | Milestone | Points             |
 | :---: | :--- |
 | 1 | 1 |
@@ -190,11 +181,9 @@ Each milestone is significantly harder to cross than the previous one, which is 
 | 4 | 12 |
 | 5 | 20 |
 
-{% hint style="info" %}
-Some engineers may find that they exhibit some of the example behaviours at a later milestone without exhibiting all of the example behaviours at an earlier milestone. This is to be expected. At the earlier stages of an engineer’s career, they are limited to simple contributions. Engineers with more experience can typically contribute in higher leverage ways which supersede those simpler tasks, meaning they no longer do them. It is assumed they could do them, should they be required to.
-{% endhint %}
+Some engineers may find that they exhibit some of the example behaviours at a later milestone without exhibiting all of the example behaviours at an earlier milestone. _This is to be expected!_ At the earlier stages of an engineer’s career, they are limited to simple contributions. Engineers with more experience can typically contribute in higher leverage ways which supersede those simpler tasks, meaning they no longer do them. It is assumed they could do them, _should_ they be required to.
 
-Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
+Through a 360 degree evaluation process, everyone at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
 | **Points** | **Level**       |
 | :---: | :--- |
