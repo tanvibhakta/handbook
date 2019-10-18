@@ -125,9 +125,9 @@ Here's what the skills and the corresponding milestones look like:
         frameworks, following current best practices.</td>
       <td style="text-align:left">
         <ul>
-          <li>Update the typography of the User Profile screen, using Figma reference</li>
-          <li>Add a new row to the Blood Pressure history screen by using the <code>lastUpdated</code> date
-            in the model</li>
+          <li>Updated the margins and typography of a screen using a design reference</li>
+          <li>Added a new row to a list item by using an unused field in the model</li>
+          <li>Created a custom button style using a design reference</li>
         </ul>
       </td>
     </tr>
@@ -136,14 +136,24 @@ Here's what the skills and the corresponding milestones look like:
       </td>
       <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
         frameworks and current best practices.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Prototyped a simple new feature quickly using throwaway code</li>
+          <li>Built a debit card input component</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>3</code>
       </td>
       <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
         frameworks and current best practices.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Researched and implemented offline fuzzy search using SQLite</li>
+          <li>Optimised the performance of an image loading framework in production</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>4</code>
@@ -151,14 +161,24 @@ Here's what the skills and the corresponding milestones look like:
       <td style="text-align:left">Pioneers best practices by consistently evolving Obvious&apos; frameworks
         that enable engineers to work more effectively and deliver higher value.</td>
       <td
-      style="text-align:left"></td>
+      style="text-align:left">
+        <ul>
+          <li>Refactored a production codebase and helped the team to adopt a new architecture</li>
+          <li>Designed framework for fetching and rendering stream items</li>
+        </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>5</code>
       </td>
       <td style="text-align:left">Is a thought leader in the field and sets the direction for platform-specific
-        engineering as a function within the organization.</td>
-      <td style="text-align:left"></td>
+        engineering within the organization.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Defined a migration plan from Java to Kotlin, and executed on it</li>
+          <li>Created an implementation of a RecyclerView before platform support existed</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
