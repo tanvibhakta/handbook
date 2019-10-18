@@ -58,7 +58,6 @@ Here's what the skills and the corresponding milestones look like:
         frameworks, following current best practices.</td>
       <td style="text-align:left">
         <ul>
-          <li>Understands the difference between HTTP request types</li>
           <li>Understands basic data structures like lists, graphs, trees, and queues</li>
           <li>Reads project documentation to setup and build code on a new machine</li>
         </ul>
@@ -69,7 +68,11 @@ Here's what the skills and the corresponding milestones look like:
       </td>
       <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
         frameworks and current best practices.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Understands the difference between types of HTTP requests</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>3</code>
@@ -98,25 +101,130 @@ Here's what the skills and the corresponding milestones look like:
 {% endtab %}
 
 {% tab title="Platform" %}
-| **Milestone** | **Responsibilities** | Examples |
-| :--- | :--- | :--- |
-|  | _Develops and demonstrates expertise in platform-specific engineering \(Android, iOS, web\)_ |  |
-| `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |  |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |  |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |  |
-| `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable engineers to work more effectively and deliver higher value. |  |
-| `5` | Is a thought leader in the field and sets the direction for platform-specific engineering as a function within the organization. |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Milestone</b>
+      </th>
+      <th style="text-align:left"><b>Responsibilities</b>
+      </th>
+      <th style="text-align:left">Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><em>Develops and demonstrates expertise in platform-specific engineering (Android, iOS, web)</em>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>1</code>
+      </td>
+      <td style="text-align:left">Through guidance from senior staff members, works effectively within Obvious&apos;
+        frameworks, following current best practices.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Update the typography of the User Profile screen, using Figma reference</li>
+          <li>Add a new row to the Blood Pressure history screen by using the <code>lastUpdated</code> date
+            in the model</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>2</code>
+      </td>
+      <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
+        frameworks and current best practices.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>3</code>
+      </td>
+      <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
+        frameworks and current best practices.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>4</code>
+      </td>
+      <td style="text-align:left">Pioneers best practices by consistently evolving Obvious&apos; frameworks
+        that enable engineers to work more effectively and deliver higher value.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>5</code>
+      </td>
+      <td style="text-align:left">Is a thought leader in the field and sets the direction for platform-specific
+        engineering as a function within the organization.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="Release Engineering" %}
-| **Milestone** | **Responsibilities** | Examples |
-| :--- | :--- | :--- |
-|  | _Develops and demonstrates expertise in the DevOps Ways \(version control, trunk based development, continuous integration/deployment, monitoring, agility mindset etc.\)_  |  |
-| `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |  |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |  |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |  |
-| `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable engineers to work more effectively and deliver higher value. |  |
-| `5` | Is a thought leader in the field and sets the direction for release engineering as a function within the organization. |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Milestone</b>
+      </th>
+      <th style="text-align:left"><b>Responsibilities</b>
+      </th>
+      <th style="text-align:left">Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><em>Develops and demonstrates expertise in the DevOps Ways (version control, trunk based development, continuous integration/deployment, monitoring, agility mindset etc.) </em>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>1</code>
+      </td>
+      <td style="text-align:left">Through guidance from senior staff members, works effectively within Obvious&apos;
+        frameworks, following current best practices.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Checks the diff, commits code, and raises a request for review -- by themselves</li>
+          <li>Goes through the list of new bugs to triage them appropriately</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>2</code>
+      </td>
+      <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
+        frameworks and current best practices.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>3</code>
+      </td>
+      <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
+        frameworks and current best practices.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>4</code>
+      </td>
+      <td style="text-align:left">Pioneers best practices by consistently evolving Obvious&apos; frameworks
+        that enable engineers to work more effectively and deliver higher value.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>5</code>
+      </td>
+      <td style="text-align:left">Is a thought leader in the field and sets the direction for release engineering
+        as a function within the organization.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 {% endtabs %}
 
