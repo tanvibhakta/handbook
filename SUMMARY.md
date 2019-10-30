@@ -80,12 +80,6 @@
 * [Our Hiring Process](hiring/hiring-process/README.md)
   * [Engineering Hiring](hiring/hiring-process/engineering-hiring/README.md)
     * [Evaluating a take-home exercise](hiring/hiring-process/engineering-hiring/scoring-a-take-home-exercise.md)
-* [Hiring Documents](hiring/hiring-documents/README.md)
-  * [Welcome to Obvious](hiring/hiring-documents/handbook-introduction.md)
-  * [Offer Letter - Simple English](hiring/hiring-documents/offer-letter-simple-english.md)
-  * [Consultancy Agreement](hiring/hiring-documents/consultancy-agreement.md)
-  * [Acknowledgement of Receipt of Employee Handbook](hiring/hiring-documents/acknowledgment-of-receipt.md)
-  * [Acknowledgement of Receipt of Changes to the Employee Handbook](hiring/hiring-documents/acknowledgement-of-receipt-of-changes.md)
 * [The Obvious Fellowship](hiring/fellowship.md)
 
 ## Career Growth
@@ -98,6 +92,11 @@
 * [Legal Templates](legal-templates/legal-templates/README.md)
   * [Mutual Non-Disclosure Agreement](legal-templates/legal-templates/mutual-non-disclosure-agreement.md)
   * [Master Services Agreement](legal-templates/legal-templates/master-services-agreement.md)
+  * [Consultancy Agreement](legal-templates/legal-templates/consultancy-agreement.md)
+  * [Offer Letter - Simple English](legal-templates/legal-templates/offer-letter-simple-english.md)
+  * [Acknowledgement of Receipt of Employee Handbook](legal-templates/legal-templates/acknowledgment-of-receipt.md)
+  * [Acknowledgement of Receipt of Changes to the Employee Handbook](legal-templates/legal-templates/acknowledgement-of-receipt-of-changes.md)
+* [Full and Final Settlement Letter](legal-templates/full-and-final-settlement-letter.md)
 
 ## Miscellaneous
 
