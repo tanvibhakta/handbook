@@ -16,6 +16,15 @@
   * [Prevention of Sexual Harassment Policy](employee-handbook/employment-policies/prevention-of-sexual-harassment.md)
   * [Fraternisation Policy](employee-handbook/employment-policies/fraternisation-policy.md)
   * [Drug and Alcohol Policy](employee-handbook/employment-policies/drug-and-alcohol-policy.md)
+* [Starting at Obvious](employee-handbook/starting-at-obvious/README.md)
+  * [Your First Day](employee-handbook/starting-at-obvious/your-first-day.md)
+  * [Timeline to Becoming a Permanent Employee](employee-handbook/starting-at-obvious/timeline-to-becoming-a-permanent-employee.md)
+  * [Getting Paid](employee-handbook/starting-at-obvious/getting-paid.md)
+  * [Dress Code](employee-handbook/starting-at-obvious/dress-code.md)
+  * [The Obvious HQ](employee-handbook/starting-at-obvious/the-obvious-hq.md)
+  * [Who Does What](employee-handbook/starting-at-obvious/who-does-what.md)
+  * [Useful Links](employee-handbook/starting-at-obvious/useful-links.md)
+  * [Finance and Expense Policy](employee-handbook/starting-at-obvious/finances.md)
 * [Benefits and Perks](employee-handbook/benefits-and-perks/README.md)
   * [Paid Time Off](employee-handbook/benefits-and-perks/paid-time-off.md)
   * [Obvious Holiday List \(2019\)](employee-handbook/benefits-and-perks/holiday-list.md)
@@ -25,14 +34,6 @@
   * [Speaking at Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Continuing Education](employee-handbook/benefits-and-perks/continuing-education.md)
   * [Referral Bonuses](employee-handbook/benefits-and-perks/referral-bonuses.md)
-* [Starting at Obvious](employee-handbook/starting-at-obvious/README.md)
-  * [Your First Day](employee-handbook/starting-at-obvious/your-first-day.md)
-  * [Timeline to Becoming a Permanent Employee](employee-handbook/starting-at-obvious/timeline-to-becoming-a-permanent-employee.md)
-  * [Getting Paid](employee-handbook/starting-at-obvious/getting-paid.md)
-  * [Dress Code](employee-handbook/starting-at-obvious/dress-code.md)
-  * [The Obvious HQ](employee-handbook/starting-at-obvious/the-obvious-hq.md)
-  * [Who Does What](employee-handbook/starting-at-obvious/who-does-what.md)
-  * [Useful Links](employee-handbook/starting-at-obvious/useful-links.md)
 * [How We Work](employee-handbook/how-we-work/README.md)
   * [Objectives and Key Results](employee-handbook/how-we-work/objective-and-key-results.md)
   * [Communication and Transparency](employee-handbook/how-we-work/communication-and-transparency.md)
@@ -43,16 +44,14 @@
   * [Career Conversations](employee-handbook/conversations/career-conversations.md)
   * [Team Conversations](employee-handbook/conversations/team-conversations.md)
   * [Feedback Conversations](employee-handbook/conversations/feedback-conversations.md)
-* [Legal and Admin](employee-handbook/legal-and-admin/README.md)
-  * [Finance and Expense Policy](employee-handbook/legal-and-admin/finances.md)
 
 ## Design Playbook
 
+* [Working with Our Design Team](design-playbook/starting-a-design-engagement.md)
 * [Our Design Practice](design-playbook/design/README.md)
   * [The Design Sprint](design-playbook/design/the-design-sprint.md)
   * [The Design Relay](design-playbook/design/relay.md)
   * [The Design Marathon](design-playbook/design/the-design-marathon.md)
-* [Working with Our Design Team](design-playbook/starting-a-design-engagement.md)
 
 ## Engineering Playbook
 
