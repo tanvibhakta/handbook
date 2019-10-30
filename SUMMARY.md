@@ -89,14 +89,15 @@
 
 ## Legal Templates
 
-* [Legal Templates](legal-templates/legal-templates/README.md)
+* [Client Contracts](legal-templates/legal-templates/README.md)
   * [Mutual Non-Disclosure Agreement](legal-templates/legal-templates/mutual-non-disclosure-agreement.md)
   * [Master Services Agreement](legal-templates/legal-templates/master-services-agreement.md)
-  * [Consultancy Agreement](legal-templates/legal-templates/consultancy-agreement.md)
-  * [Offer Letter - Simple English](legal-templates/legal-templates/offer-letter-simple-english.md)
-  * [Acknowledgement of Receipt of Employee Handbook](legal-templates/legal-templates/acknowledgment-of-receipt.md)
-  * [Acknowledgement of Receipt of Changes to the Employee Handbook](legal-templates/legal-templates/acknowledgement-of-receipt-of-changes.md)
-* [Full and Final Settlement Letter](legal-templates/full-and-final-settlement-letter.md)
+* [Employee Contracts](legal-templates/employee-contracts/README.md)
+  * [Offer Letter - Simple English](legal-templates/employee-contracts/offer-letter-simple-english.md)
+  * [Consultancy Agreement](legal-templates/employee-contracts/consultancy-agreement.md)
+  * [Full and Final Settlement Letter](legal-templates/employee-contracts/full-and-final-settlement-letter.md)
+  * [Acknowledgement of Receipt of Changes to the Employee Handbook](legal-templates/employee-contracts/acknowledgement-of-receipt-of-changes.md)
+  * [Acknowledgement of Receipt of Employee Handbook](legal-templates/employee-contracts/acknowledgment-of-receipt.md)
 
 ## Miscellaneous
 
