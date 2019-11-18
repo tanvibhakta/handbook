@@ -31,7 +31,7 @@ If you don't own an Android phone, we'll make sure that you have one that you ca
 
 ## Care & responsibility 
 
-While all our hardware is insured, we expect you to treat all of it with care. We have a [Device Test Lab](https://clearleft.com/testlab) planned, which uses older devices to ensure that all the websites and apps that we make work on a range of hardware and software. 
+While all our hardware is insured, we expect you to treat all of it with care. We have a [Device Test Lab](https://clearleft.com/testlab) planned, where we house older devices to ensure that all the websites and apps that we make work on a range of hardware and software. 
 
 We recommend a protective case. Costs for all repairs and damage that isn't covered by insurance \(if you drop your device, or lose it for instance\) can be high, and depending on the circumstances, have to be borne by you.
 
