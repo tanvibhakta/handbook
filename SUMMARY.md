@@ -33,6 +33,7 @@
   * [Emotional Wellbeing](employee-handbook/benefits-and-perks/emotional-wellbeing.md)
   * [Speaking at Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Continuing Education](employee-handbook/benefits-and-perks/continuing-education.md)
+  * [Devices for work](employee-handbook/benefits-and-perks/devices-for-work.md)
   * [Referral Bonuses](employee-handbook/benefits-and-perks/referral-bonuses.md)
 * [How We Work](employee-handbook/how-we-work/README.md)
   * [Objectives and Key Results](employee-handbook/how-we-work/objective-and-key-results.md)
