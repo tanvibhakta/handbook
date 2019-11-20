@@ -68,6 +68,8 @@
 * [Learning](engineering-playbook/learning/README.md)
   * [Vital reading material](engineering-playbook/learning/vital-reading-material.md)
   * [Subscriptions](engineering-playbook/learning/subscriptions.md)
+  * [Lessons](engineering-playbook/learning/lessons/README.md)
+    * [001 - Function Purity](engineering-playbook/learning/lessons/001-function-purity.md)
 
 ## Jobs
 
