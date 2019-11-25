@@ -70,6 +70,7 @@
   * [Subscriptions](engineering-playbook/learning/subscriptions.md)
   * [Lessons](engineering-playbook/learning/lessons/README.md)
     * [001 - Function Purity](engineering-playbook/learning/lessons/001-function-purity.md)
+    * [WIP - Shared Mutable State](engineering-playbook/learning/lessons/shared-mutable-state.md)
 
 ## Jobs
 
