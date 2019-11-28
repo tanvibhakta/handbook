@@ -6,7 +6,7 @@ description: 'Our approach towards healthy, cross functional growth.'
 
 ## Introduction
 
-We strongly believe that people produce great work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it. 
+We strongly believe that people produce great work when they are at their natural best. Forcefully reducing them to _experts vs generalists_, or _individual contributors vs managers_, hampers their growth instead of boosting it.
 
 At Obvious, we look for multi-faceted, [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) individuals, who bring a lot to the table other than just their craft. To nurture and accelerate the growth of such people, over the years we've experimented with several different frameworks. We've finally resolved to the one that follows.
 
@@ -14,7 +14,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. 
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone.
 
 In general, you must have demonstrated a "Conscious, Comfortable, Continuous, Consistent Competency" defined as follows:
 
@@ -178,7 +178,7 @@ Here's what the skills and the corresponding milestones look like:
 
 Each milestone is significantly harder to cross than the previous one, which is reflected in the number of points assigned to the milestones.
 
-| Milestone | Points                              |
+| Milestone | Points |
 | :--- | :--- |
 | 1 | 1 |
 | 2 | 3 |
@@ -186,9 +186,9 @@ Each milestone is significantly harder to cross than the previous one, which is 
 | 4 | 12 |
 | 5 | 20 |
 
-Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder. 
+Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
-| **Points** | **Level**                   |
+| **Points** | **Level** |
 | :--- | :--- |
 | 7 | 1.1 |
 | 12 | 1.2 |
@@ -208,13 +208,11 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 
 At Obvious, we do not have designations, so we think of these levels in terms of the following 5 bands:
 
-| **Bands** | **Levels**                             |
+| **Bands** | **Levels** |
 | :--- | :--- |
 | Associate Designer | 1.1 - 1.3 |
 | Designer | 2.1 - 2.3 |
 | Senior Designer | 3.1 - 3.3 |
 | Principal Designer | 4.1 - 4.3 |
 | Design Leader | 5.1 - 5.3 |
-
-
 

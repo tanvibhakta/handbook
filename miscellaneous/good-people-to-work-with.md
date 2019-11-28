@@ -33,6 +33,7 @@ To partly address that gap after having had the privilege of working with a few 
 
 * [Bowstring Studio](http://bowstringstudio.in/)
 * [thoughtbot](https://thoughtbot.com/)
+* [Surya Digital](https://www.surya-digital.com)
 
 ## Backend Development
 
