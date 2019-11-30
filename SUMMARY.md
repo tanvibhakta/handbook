@@ -57,6 +57,7 @@
 ## Engineering Playbook
 
 * [Our Engineering Philosophy](engineering-playbook/engineering.md)
+* [Vital reading material](engineering-playbook/vital-reading-material.md)
 * [Iteration Planning Meetings](engineering-playbook/iteration-planning-meetings.md)
 * [Daily Standup Meetings](engineering-playbook/daily-standup-meetings.md)
 * [System design & architecture](engineering-playbook/system-design-and-architecture/README.md)
@@ -66,11 +67,11 @@
   * [Code reviews & pull requests](engineering-playbook/release-engineering/code-reviews-and-pull-requests.md)
   * [Trunk-based development](engineering-playbook/release-engineering/trunk-based-development.md)
 * [Learning](engineering-playbook/learning/README.md)
-  * [Vital reading material](engineering-playbook/learning/vital-reading-material.md)
   * [Subscriptions](engineering-playbook/learning/subscriptions.md)
   * [Lessons](engineering-playbook/learning/lessons/README.md)
     * [001 - Function Purity](engineering-playbook/learning/lessons/001-function-purity.md)
     * [WIP - Shared Mutable State](engineering-playbook/learning/lessons/shared-mutable-state.md)
+* [Pivotal Tracker](engineering-playbook/pivotal-tracker.md)
 
 ## Jobs
 
