@@ -63,7 +63,7 @@
   * [Refactoring](engineering-playbook/system-design-and-architecture/refactoring.md)
 * [Release engineering](engineering-playbook/release-engineering/README.md)
   * [Git commit messages](engineering-playbook/release-engineering/git-commit-messages.md)
-  * [Code reviews & Pull Requests](engineering-playbook/release-engineering/code-reviews-and-pull-requests.md)
+  * [Code reviews & pull requests](engineering-playbook/release-engineering/code-reviews-and-pull-requests.md)
   * [Trunk-based development](engineering-playbook/release-engineering/trunk-based-development.md)
 * [Learning](engineering-playbook/learning/README.md)
   * [Vital reading material](engineering-playbook/learning/vital-reading-material.md)
