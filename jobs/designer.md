@@ -82,10 +82,9 @@ We are a fair and equitable workplace. Most organisations hire people based on t
 
 ## 🤷‍♀️ What Are You Waiting For?
 
-If you agree with a large portion of what we’ve said above, and would like to explore the idea of working with us, **apply using the link below**. We will reach out to you soon after.   
-Thank you for reading. 🙂
+If you agree with a large portion of what we’ve said above, and would like to explore the idea of working with us, **apply using the link below**. We will get in touch with you soon!
 
-### [WORK WITH US →](https://airtable.com/shr7LHQ3KJs57b6Nv)
+### [WORK WITH US →](https://jobs.obvious.in)
 
   
   
