@@ -1,20 +1,32 @@
-# Obvious Holiday List \(2019\)
+# List of Holidays
 
-|  | Holiday Name | Date |
-| :--- | :--- | :--- |
-| 1 | New Years Day | 01-Jan-2019 |
-| 2 | Republic Day | 26-Jan-2019 |
-| 3 | May Day | 01-May-2019 |
-| 4 | Independence Day | 15-Aug-2019 |
-| 5 | Gandhi Jayanti | 02-Oct-2019 |
-| 6 | Deepawali | 28-Oct-2019 |
-| 7 | Karnataka Rajyotsava | 01-Nov-2019 |
-| 8 | Winter Shutdown \(PTO\) | 24-Dec-2019 |
-| 9 | Christmas | 25-Dec-2019 |
-| 10 | Winter Shutdown \(PTO\) | 26-Dec-2019 |
-| 11 | Winter Shutdown \(PTO\) | 27-Dec-2019 |
-| 12 | Winter Shutdown \(PTO\) | 28-Dec-2019 |
-| 13 | Winter Shutdown \(PTO\) | 29-Dec-2019 |
-| 14 | Winter Shutdown \(PTO\) | 30-Dec-2019 |
-| 15 | Winter Shutdown \(PTO\) | 31-Dec-2019 |
+## FY 2020-2021
+
+We're offering **21 days** of vacation/sick leaves. 
+
+Apart from this, the office will be closed on the following state and national holidays:
+
+| Reason | Date |
+| :--- | :--- |
+| May Day | 1 May 2020 |
+| Eid-ul-Fitr | 25 May 2020 |
+| Independence Day | 15 August 2020 |
+| Ganesh Chaturthi | 22 August 2020 |
+| Gandhi Jayanti | 2 October 2020 |
+| Dasara | 25 October 2020 |
+| Karnataka Rajyotsava | 1 November 2020 |
+| Diwali | 15 November 2020 |
+| Christmas | 25 December 2020 |
+| New Year's Day | 1 January 2021 |
+| Pongal / Sankranthi | _TBD_ |
+| Republic Day | 26 January 2021 |
+| Ugadi | _TBD_ |
+
+## Special Occasions
+
+For special occasions \(think: your wedding, sibling's graduation, best friend's wedding\) your manager can grant you an extra 10 days of paid leave. This is considered on a case-by-case basis.
+
+## Very Sick Leave
+
+In case you're very sick because of a certain illness and need significant time to recover \(think: dengue, chickenpox\), the leaves you take will not be counted towards any quota. 
 

@@ -27,7 +27,7 @@
   * [Finance and Expense Policy](employee-handbook/starting-at-obvious/finances.md)
 * [Benefits and Perks](employee-handbook/benefits-and-perks/README.md)
   * [Paid Time Off](employee-handbook/benefits-and-perks/paid-time-off.md)
-  * [Obvious Holiday List \(2019\)](employee-handbook/benefits-and-perks/holiday-list.md)
+  * [List of Holidays](employee-handbook/benefits-and-perks/holiday-list.md)
   * [Parental Leave](employee-handbook/benefits-and-perks/parental-leave.md)
   * [Healthcare, Disability Insurance and other benefits.](employee-handbook/benefits-and-perks/health-insurance-and-other-benefits.md)
   * [Emotional Wellbeing](employee-handbook/benefits-and-perks/emotional-wellbeing.md)
