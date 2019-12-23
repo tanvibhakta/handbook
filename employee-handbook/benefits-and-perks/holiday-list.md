@@ -2,9 +2,9 @@
 
 ## FY 2020-2021
 
-We're offering **21 days** of vacation/sick leaves. 
+You can take up to **21 days** of paid leaves — think holidays, feeling under the weather, etc.
 
-Apart from this, the office will be closed on the following state and national holidays:
+Apart from this, we will be closed on the following state and national holidays:
 
 | Reason | Date |
 | :--- | :--- |
@@ -28,5 +28,5 @@ For special occasions \(think: your wedding, sibling's graduation, best friend's
 
 ## Very Sick Leave
 
-In case you're very sick because of a certain illness and need significant time to recover \(think: dengue, chickenpox\), the leaves you take will not be counted towards any quota. 
+In case you're very sick because of a certain illness and need significant time to recover \(think: dengue, chickenpox\), the leaves you take will not be counted towards any quota. Please talk to your manager so that we can help you in any way possible, and work can be managed accordingly. 
 
