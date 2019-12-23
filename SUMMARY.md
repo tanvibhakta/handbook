@@ -73,10 +73,6 @@
     * [WIP - Shared Mutable State](engineering-playbook/learning/lessons/shared-mutable-state.md)
 * [Pivotal Tracker](engineering-playbook/pivotal-tracker.md)
 
-## Jobs
-
-* [Designer/Design Leader](jobs/designer.md)
-
 ## Hiring
 
 * [Our Hiring Philosophy](hiring/hiring-philosophy/README.md)
