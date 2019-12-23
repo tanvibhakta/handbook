@@ -107,7 +107,7 @@
 ## Elsewhere
 
 * [Website](https://obvious.in/)
-* [Careers](https://angel.co/company/obvious_in)
+* [Careers](https://jobs.obvious.in/)
 * [Github](https://github.com/obvious/)
 * [Dribbble](https://dribbble.com/obvious_hq)
 
