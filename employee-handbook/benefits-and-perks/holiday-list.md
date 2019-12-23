@@ -2,7 +2,7 @@
 
 ## FY 2020-2021
 
-You can take up to **21 days** of paid leaves — think holidays, feeling under the weather, etc.
+You can take up to _**21 days**_ of paid leaves — think holidays, feeling under the weather, etc.
 
 Apart from this, we will be closed on the following state and national holidays:
 
@@ -24,7 +24,7 @@ Apart from this, we will be closed on the following state and national holidays:
 
 ## Special Occasions
 
-For special occasions \(think: your wedding, sibling's graduation, best friend's wedding\) your manager can grant you an extra 10 days of paid leave. This is considered on a case-by-case basis.
+For special occasions \(think: your wedding, sibling's graduation, best friend's wedding\) your manager can grant you an _**extra 10 days**_ of paid leave. This is considered on a case-by-case basis.
 
 ## Very Sick Leave
 
