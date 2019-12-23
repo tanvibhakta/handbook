@@ -12,7 +12,7 @@ We strongly believe that the strongest solutions \(_from technology and design p
 
 Building a great team starts with attracting great candidates, and there are three channels we can use to attract candidates: referrals, outbound recruiting, and inbound interest. We should keep all three channels open, but be thoughtful about the biases that result from each channel so that we can make them work for our team-building goals and values.
 
-Open positions are [posted on our website](https://jobs.obvious.in/).
+Open positions are posted at [jobs.obvious.in](https://jobs.obvious.in).
 
 ### Referrals
 
@@ -24,13 +24,13 @@ In order to get good referrals, everyone needs to know which positions are open,
 
 ### Outbound Recruiting
 
-For every position open at Obvious, there should be a single person who is in charge of the recruiting efforts for that position. While we are small, this will likely be Rahul, or the leads of the two teams, Technology and Design. This starts with writing the job description and publishing it on [our website](https://jobs.obvious.in/), but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
+For every position open at Obvious, there should be a single person who is in charge of the recruiting efforts for that position. While we are small, this will likely be Rahul, or the leads of the two teams, Technology and Design. This starts with writing the job description and publishing it on [jobs.obvious.in](https://jobs.obvious.in), but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
 
 It is critical that we find talent pools of diverse candidates to pull from, and that our outbound recruiting intentionally target underrepresented groups. If we are recruiting from universities, we need to be careful about which schools we draw from. If we are pulling people from other companies, it’s important that we are thoughtful about the location and industry biases of those companies.
 
 ### Inbound Applications
 
-All of our job openings and descriptions will be posted on [our website](https://jobs.obvious.in/), and will be copied on other sites where we can advertise positions. Careful thought should be given to where we post job openings, as traditional boards have homogeneous audiences. We will also have people reading about Obvious through our blog and social media, developers working with our tools and participating in our community, and a broad audience hearing about Obvious through news or using the product.
+All of our job openings and descriptions will be posted on [jobs.obvious.in](https://jobs.obvious.in), and will be copied on other sites where we can advertise positions. Careful thought should be given to where we post job openings, as traditional boards have homogeneous audiences. We will also have people reading about Obvious through our blog and social media, developers working with our tools and participating in our community, and a broad audience hearing about Obvious through news or using the product.
 
 Inbound applications give us the highest number of candidates that are outside of our personal networks, but also have the lowest initial filter because no one at Obvious is making any judgment about the candidate before they enter our pipeline. Because of the light filter, it can be tempting to dismiss these candidates, but an inbound application is a strong signal that the candidates believe in what we’re doing at Obvious. This means that a smaller percentage of candidates from a broader pool will progress through our interview funnel. Regardless, we still need to treat inbound applications with respect.
 
