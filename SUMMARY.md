@@ -22,6 +22,7 @@
   * [Getting Paid](employee-handbook/starting-at-obvious/getting-paid.md)
   * [Dress Code](employee-handbook/starting-at-obvious/dress-code.md)
   * [The Obvious HQ](employee-handbook/starting-at-obvious/the-obvious-hq.md)
+  * [Visiting Us](employee-handbook/starting-at-obvious/visiting-us.md)
   * [Who Does What](employee-handbook/starting-at-obvious/who-does-what.md)
   * [Useful Links](employee-handbook/starting-at-obvious/useful-links.md)
   * [Finance and Expense Policy](employee-handbook/starting-at-obvious/finances.md)

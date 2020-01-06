@@ -2,7 +2,12 @@
 
 ## Location & Directions
 
-We're located on the 2nd floor of [Raheja Paramount at Richmond Circle, Bangalore](https://www.google.com/maps/place/Obvious/@12.9653795,77.5955305,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1581be6ca40f:0x54ed4c2dbb69d178!8m2!3d12.9653743!4d77.5977192) You can reach us via the Richmond Circle bus stop, walk down from Brigade Road, or get off at the Cubbon Park Metro Station and cut through the calming roads of Cubbon Park to get to our office.
+[Obvious HQ](https://g.page/obvious-hq?share)  
+Level 2, K-Raheja Paramount,  
+138, Residency Road,  
+Bengaluru - 560025
+
+You can reach us via the Richmond Circle bus stop, walk down from Brigade Road, or get off at the Cubbon Park Metro Station and cut through the calming pathways of Cubbon Park to get to our office.
 
 **Parking**
 
@@ -26,10 +31,6 @@ If you’re the only person in the office, or if the area near the main door is 
 The office is officially open Monday to Friday. We encourage you to take weekends off from work. If you do use the office over the weekend, please note that you should be extra careful about keeping the premises secure and the space clean.
 
 Use the office as you please—just ensure that you follow the Entry and Exit protocol. Most people leave by 6pm, but should you need to pull an all-nighter, feel free.
-
-## Layout
-
-WIP
 
 ## Printer
 
