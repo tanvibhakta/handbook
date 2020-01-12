@@ -210,9 +210,9 @@ At Obvious, we do not have designations, so we think of these levels in terms of
 
 | **Bands** | **Levels** |
 | :--- | :--- |
-| Associate Designer | 1.1 - 1.3 |
-| Designer | 2.1 - 2.3 |
-| Senior Designer | 3.1 - 3.3 |
+| Designer | 1.1 - 1.3 |
+| Senior Designer | 2.1 - 2.3 |
+| Lead Designer | 3.1 - 3.3 |
 | Principal Designer | 4.1 - 4.3 |
 | Design Leader | 5.1 - 5.3 |
 
