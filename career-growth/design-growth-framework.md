@@ -179,21 +179,21 @@ Through a 360 degree evaluation process, every individual at Obvious is assessed
 
 | **Points** | **Level** |
 | :--- | :--- |
-| 7 | 1.1 |
-| 12 | 1.2 |
-| 17 | 1.3 |
-| 23 | 2.1 |
-| 29 | 2.2 |
-| 35 | 2.3 |
-| 42 | 3.1 |
-| 49 | 3.2 |
-| 56 | 3.3 |
-| 64 | 4.1 |
-| 74 | 4.2 |
-| 86 | 4.3 |
-| 100 | 5.1 |
-| 116 | 5.2 |
-| 136 | 5.3 |
+| 5 | 1.1 |
+| 10 | 1.2 |
+| 15 | 1.3 |
+| 21 | 2.1 |
+| 27 | 2.2 |
+| 33 | 2.3 |
+| 40 | 3.1 |
+| 47 | 3.2 |
+| 54 | 3.3 |
+| 62 | 4.1 |
+| 72 | 4.2 |
+| 84 | 4.3 |
+| 98 | 5.1 |
+| 114 | 5.2 |
+| 134 | 5.3 |
 
 At Obvious, we do not have designations, so we think of these levels in terms of the following 5 bands:
 
