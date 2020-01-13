@@ -103,18 +103,7 @@ Here's what the skills and the corresponding milestones look like:
 | `5` | Establishes effective communication practices and influences outcomes at the highest level. |
 {% endtab %}
 
-{% tab title="Craft" %}
-| **Milestone** | **Responsibilities** |
-| :--- | :--- |
-|  | `Promotes high quality work standards and consistently raises the quality bar for self and others.` |
-| `1` | Consistently does good quality work and delivers outcomes without any gaps. |
-| `2` | Goes beyond just 'good quality' and meets the bar set by Obvious' highest quality of work. |
-| `3` | Goes beyond Obvious' highest quality of work and sets a new bar for quality within the organization. |
-| `4` | Improves the ability of individuals or teams to deliver great quality work. |
-| `5` | Enables and encourages the entire organization to make quality a central part of the design process. |
-{% endtab %}
-
-{% tab title="Audacity" %}
+{% tab title="Bias for Action" %}
 | **Milestone** | **Responsibilities** |
 | :--- | :--- |
 |  | `Takes calculated risks and pushes self as well as others to dream big and attempt bold ideas.` |
