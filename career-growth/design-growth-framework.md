@@ -38,8 +38,8 @@ Here's what the skills and the corresponding milestones look like:
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in design and product strategy.` |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
+| `2` | Shapes significant parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
+| `3` | Shapes complete project, through project-wide employment of Obvious' frameworks and current best practices. |
 | `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
 | `5` | Is a thought leader in the field and sets the direction for design strategy as a function within the organization. |
 {% endtab %}
@@ -49,8 +49,8 @@ Here's what the skills and the corresponding milestones look like:
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in design research and experience mapping.` |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
+| `2` | Shapes significant parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
+| `3` | Shapes complete project, through project-wide employment of Obvious' frameworks and current best practices. |
 | `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
 | `5` | Is a thought leader in the field and sets the direction for design research as a function within the organization. |
 {% endtab %}
@@ -60,8 +60,8 @@ Here's what the skills and the corresponding milestones look like:
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in product thinking and digital product design.` |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
+| `2` | Shapes significant parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
+| `3` | Shapes complete project, through project-wide employment of Obvious' frameworks and current best practices. |
 | `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
 | `5` | Is a thought leader in the field and sets the direction for product design as a function within the organization. |
 {% endtab %}
@@ -71,8 +71,8 @@ Here's what the skills and the corresponding milestones look like:
 | :--- | :--- |
 |  | `Develops and demonstrates expertise in aesthetics, visual design and branding.` |
 | `1` | Through guidance from senior staff members, works effectively within Obvious' frameworks, following current best practices. |
-| `2` | Shapes minor parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
-| `3` | Shapes major parts of a project, through project-wide employment of Obvious' frameworks and current best practices. |
+| `2` | Shapes significant parts of a project independently, through mastery of Obvious' frameworks and current best practices. |
+| `3` | Shapes complete project, through project-wide employment of Obvious' frameworks and current best practices. |
 | `4` | Pioneers best practices by consistently evolving Obvious' frameworks that enable designers to work more effectively and deliver higher value. |
 | `5` | Is a thought leader in the field and sets the direction for visual and brand design as a function within the organization. |
 {% endtab %}
