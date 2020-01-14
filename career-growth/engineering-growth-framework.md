@@ -66,8 +66,8 @@ Here's what the skills and the corresponding milestones look like:
     <tr>
       <td style="text-align:left"><code>2</code>
       </td>
-      <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
-        frameworks and current best practices.</td>
+      <td style="text-align:left">Shapes significant parts of a project independently, through mastery of
+        Obvious&apos; frameworks and current best practices.</td>
       <td style="text-align:left">
         <ul>
           <li>Understands the difference between types of HTTP requests</li>
@@ -77,7 +77,7 @@ Here's what the skills and the corresponding milestones look like:
     <tr>
       <td style="text-align:left"><code>3</code>
       </td>
-      <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
+      <td style="text-align:left">Shapes complete projects, through project-wide employment of Obvious&apos;
         frameworks and current best practices.</td>
       <td style="text-align:left"></td>
     </tr>
@@ -134,8 +134,8 @@ Here's what the skills and the corresponding milestones look like:
     <tr>
       <td style="text-align:left"><code>2</code>
       </td>
-      <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
-        frameworks and current best practices.</td>
+      <td style="text-align:left">Shapes significant parts of a project, through project-wide employment
+        of Obvious&apos; frameworks and current best practices.</td>
       <td style="text-align:left">
         <ul>
           <li>Prototyped a simple new feature quickly using throwaway code</li>
@@ -146,7 +146,7 @@ Here's what the skills and the corresponding milestones look like:
     <tr>
       <td style="text-align:left"><code>3</code>
       </td>
-      <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
+      <td style="text-align:left">Shapes complete projects, through project-wide employment of Obvious&apos;
         frameworks and current best practices.</td>
       <td style="text-align:left">
         <ul>
@@ -217,14 +217,14 @@ Here's what the skills and the corresponding milestones look like:
     <tr>
       <td style="text-align:left"><code>2</code>
       </td>
-      <td style="text-align:left">Shapes minor parts of a project independently, through mastery of Obvious&apos;
-        frameworks and current best practices.</td>
+      <td style="text-align:left">Shapes significant parts of a project, through project-wide employment
+        of Obvious&apos; frameworks and current best practices.</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><code>3</code>
       </td>
-      <td style="text-align:left">Shapes major parts of a project, through project-wide employment of Obvious&apos;
+      <td style="text-align:left">Shapes complete projects, through project-wide employment of Obvious&apos;
         frameworks and current best practices.</td>
       <td style="text-align:left"></td>
     </tr>
