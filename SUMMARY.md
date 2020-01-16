@@ -87,6 +87,12 @@
 
 * [Design Growth Framework](career-growth/design-growth-framework.md)
 * [Engineering Growth Framework](career-growth/engineering-growth-framework.md)
+* [Assessment Cycles](career-growth/assessment-cycles.md)
+* [Underperformance](career-growth/underperformance/README.md)
+  * [Coaching](career-growth/underperformance/coaching.md)
+  * [Performance Improvement Plan \(PIP\)](career-growth/underperformance/performance-improvement-plan-pip/README.md)
+    * [Sample PIP Letter](career-growth/underperformance/performance-improvement-plan-pip/sample-pip-letter.md)
+  * [Letting Someone Go](career-growth/underperformance/letting-someone-go.md)
 
 ## Legal Templates
 
