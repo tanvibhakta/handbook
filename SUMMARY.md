@@ -41,6 +41,7 @@
   * [Communication and Transparency](employee-handbook/how-we-work/communication-and-transparency.md)
   * [Security Practices](employee-handbook/how-we-work/security-practices.md)
   * [Charitable Donations](employee-handbook/how-we-work/charitable-donations.md)
+  * [SMART Goals](employee-handbook/how-we-work/smart-goals.md)
 * [Conversations](employee-handbook/conversations/README.md)
   * [One-on-One Conversations](employee-handbook/conversations/one-on-ones.md)
   * [Career Conversations](employee-handbook/conversations/career-conversations.md)
