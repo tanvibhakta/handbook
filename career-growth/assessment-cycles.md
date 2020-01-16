@@ -17,7 +17,9 @@ We run formal assessments \(using our growth frameworks as a basis\) twice a yea
 
 ### Level Changes
 
-Level changes have several implications: both in terms of expectations, responsibilities and renumeration. Moving up, down or staying at the same level are all possibile outcomes of the assessment process, and all are equally normal and expected. However, while staying at the same level or moving up come with increased responsibilities and expectations, moving down a level has financial implications as well.
+Level changes have several implications: both in terms of expectations, responsibilities and renumeration. Moving up, down or staying at the same level are all possibile outcomes of the assessment process, and all are equally normal and expected. However, while staying at the same level or moving up come with increased responsibilities and expectations, moving down a level is usually a consequence of Underperformance, which is [documented in detail here](underperformance/), along with steps to remedy it.
 
-To ensure that someone who is moving down a level has a chance to change that situation, there are four possible options.
+{% page-ref page="underperformance/" %}
+
+
 
