@@ -13,19 +13,19 @@ Evalutions are done in a comprehensive and transparent manner, facilitated by th
 
 ## Guidelines for feedback
 
-{% hint style="info" %}
-Please make a copy of this template to write the feedback: [https://docs.google.com/spreadsheets/d/1LauPbT-gP\_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LauPbT-gP_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing)
+{% hint style="success" %}
+Please **make a copy** of this template to write the feedback, and share it with your manager once you're done: [https://docs.google.com/spreadsheets/d/1LauPbT-gP\_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LauPbT-gP_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing)
 {% endhint %}
 
 * Specific examples everywhere are important! Use the [situation-behaviour-impact framework](../employee-handbook/conversations/feedback-conversations.md#situation-behaviour-impact-model) to make your case. 
-* Feedback provided in an evaluation **cannot** come as a surprise to the person. Such a comment will be disregarded. 
-  * All comments \(positive and negative\) should be a summary of the feedback provided through the course of work. 
 * To ensure that someone _definitely_ lies on a specific milestone,[ remember the 5Cs](design-growth-framework.md#the-framework)! 
+* In case you don't have sufficient information about a facet, please talk the person and your manager. A year is a long period of time, and it is good to get clarification in case you think you're forgetting something. 
+* Feedback provided in an evaluation **cannot** come as a surprise to the person. Such a data point will be disregarded. All comments -- positive and negative -- should be a summary of the feedback provided through the course of day to day work. 
 
 ### Examples of feedback
 
-{% hint style="info" %}
-Please refer to the template for the level of detail that is expected in your feedback: [https://docs.google.com/spreadsheets/d/1LauPbT-gP\_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LauPbT-gP_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing) 
+{% hint style="warning" %}
+Please refer [to the template](https://docs.google.com/spreadsheets/d/1LauPbT-gP_XxfQifYsuGrXA2kIeX4AjnnWZKhufd3Yw/edit?usp=sharing) for the level of detail that is expected in your feedback.
 {% endhint %}
 
 * “I've not only watched a promising product take shape under your guidance, but I've also learned a lot about the design process through this journey. I'm a huge fan of how you run the design sprints, and how you're able to harness the ideas of multiple people in the service of a common goal. I also have marvelled at your ability to translate a seemingly subjective, non-linear activity \(the design process\)  to a series of repeatable processes.”
