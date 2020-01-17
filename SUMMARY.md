@@ -89,6 +89,7 @@
 
 * [Design Growth Framework](career-growth/design-growth-framework.md)
 * [Engineering Growth Framework](career-growth/engineering-growth-framework.md)
+* [Evaluations Guide](career-growth/evaluations-guide.md)
 * [Assessment Cycles](career-growth/assessment-cycles.md)
 * [Underperformance](career-growth/underperformance/README.md)
   * [Coaching](career-growth/underperformance/coaching.md)
