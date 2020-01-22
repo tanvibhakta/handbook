@@ -94,7 +94,8 @@
 * [Underperformance](career-growth/underperformance/README.md)
   * [Coaching](career-growth/underperformance/coaching.md)
   * [Performance Improvement Plan \(PIP\)](career-growth/underperformance/performance-improvement-plan-pip/README.md)
-    * [Sample PIP Letter](career-growth/underperformance/performance-improvement-plan-pip/sample-pip-letter.md)
+    * [Sample PIP Letter](career-growth/underperformance/performance-improvement-plan-pip/sample-pip-letter/README.md)
+      * [Re-entry into the workstream](career-growth/underperformance/performance-improvement-plan-pip/sample-pip-letter/re-entry-into-the-workstream.md)
   * [Letting Someone Go](career-growth/underperformance/letting-someone-go.md)
 
 ## Legal Templates

@@ -2,10 +2,10 @@
 
 Our interview process is a little different from what you might expect. For instance, we do not test for the following skills:
 
-- Data Structures and Algorithms
-- Whiteboard puzzle/problem solving
+* Data Structures and Algorithms
+* Whiteboard puzzle/problem solving
 
-The detailed explanation on why we do not test for these skills can be found [HERE](why-we-do-not-have-problem-solving-rounds.md). The summary of that page is that we fundamentally believe in testing only for skills that we expect will be needed for (most of) the kind of work that we do here.
+The detailed explanation on why we do not test for these skills can be found [HERE](why-we-do-not-have-problem-solving-rounds.md). The summary of that page is that we fundamentally believe in testing only for skills that we expect will be needed for \(most of\) the kind of work that we do here.
 
 Your interview experience with us will generally look like this:
 
@@ -18,7 +18,7 @@ As a team, we're quite an opinionated one! It helps us to listen to everyone -- 
 3. What are some of your favourite technical essays, books, or videos? What do you like about them?
 4. Why do you want to be at Obvious? 
 
-We're not judging your English skills here. Instead, we're looking for clarity of thought and explanation. There are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion. 
+We're not judging your English skills here. Instead, we're looking for clarity of thought and explanation. There are no right or wrong answers to these questions. All of us have very different thoughts on them, shaped by our experiences, and we hope your answers will make for a riveting discussion.
 
 {% hint style="info" %}
 _We'll get back to you in 2-3 days, with further instructions._
@@ -42,15 +42,15 @@ _We'll get back to you in 4-5 days, with further instructions._
 
 ## 3. Obvious Day
 
-This is the last step in our process, congratulations! You will be spending a day at our office, meeting our team, seeing how we work, and writing some code. You'll eat lunch with the team, and if we can convince you, go out for some tea and snacks in the evening. 
+This is the last step in our process, congratulations! You will be spending a day at our office, meeting our team, seeing how we work, and writing some code. You'll eat lunch with the team, and if we can convince you, go out for some tea and snacks in the evening.
 
 ### Technical interview: 1 hour
 
-You talk to one or two engineers from our team about your technical journey. Expect the questions to be practical, platform specific, and related to the kind of work you've done. We might end up discussing your answers to the Opinion Questions, and talking about the choices you've made in the Homework Exercise. 
+You talk to one or two engineers from our team about your technical journey. Expect the questions to be practical, platform specific, and related to the kind of work you've done. We might end up discussing your answers to the Opinion Questions, and talking about the choices you've made in the Homework Exercise.
 
 ### Pairing exercise: 2 hours
 
-You pair with an engineer on the Homework Exercise code you wrote. This might involve refactoring or adding some features. To make you comfortable, we will do this on your computer, or give you time to setup one of our computers to fit your usage. 
+You pair with an engineer on the Homework Exercise code you wrote. This might involve refactoring or adding some features. To make you comfortable, we will do this on your computer, or give you time to setup one of our computers to fit your usage.
 
 ### Mentor a Junior Developer: 1 hour
 
@@ -62,7 +62,7 @@ _We'll get back to you in 2-3 days, with further instructions._
 
 ## 4. In-person Conversation
 
-We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious. 
+We invite you to our office for an hour-long friendly conversation with our engineering lead to understand your journey so far, what you're looking for in the future, and any questions you might have about Obvious.
 
 You should go through [our Playbook](https://playbook.obvious.in/) beforehand -- it answers many frequently asked questions. We also welcome your feedback about the entire process -- bouquets and brickbats welcome.
 
