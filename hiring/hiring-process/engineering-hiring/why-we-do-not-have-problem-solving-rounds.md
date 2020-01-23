@@ -17,3 +17,15 @@ However, for building applications, the skills that would be required are typica
 
 Of course, sufficiently complex products might eventually require a certain knowledge of data structures and algorithms in order to achieve certain goals. We expect cases like these to be the exception rather than the norm, and believe that engineers would be able to "know what they do not know" and research sufficiently to gain the necessary skills.
 
+Therefore, as part of the hiring process at Obvious, we will **NEVER** quiz you on:
+
+* Data structures and algorithms
+* Trivia and puzzles
+* Whiteboarding
+
+and we will focus on evaluating things like:
+
+* The depth and breadth of your knowledge about your platform of choice.
+* Your drive for learning and honing your programming skills.
+* Thinking of the entire product as a whole, and the context your code runs in when it goes out into the world.
+
