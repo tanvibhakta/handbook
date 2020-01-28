@@ -1,4 +1,4 @@
-# An Introduction to our Playbook
+# Welcome to our Playbook
 
 At Obvious, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries \(both software and consulting\). It takes active effort to find the hidden biases in our companies and remove them.
 
