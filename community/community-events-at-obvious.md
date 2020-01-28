@@ -1,4 +1,4 @@
-# Community events at Obvious
+# Community and Obvious
 
 ## **The why, what and how of community events at Obvious.**
 

@@ -87,7 +87,7 @@
 
 ## Community
 
-* [Community events at Obvious](community/community-events-at-obvious.md)
+* [Community and Obvious](community/community-events-at-obvious.md)
 * [Hosting your first event](community/hosting-your-first-event/README.md)
   * [Inviting Speakers \(Template\)](community/hosting-your-first-event/inviting-speakers-template.md)
   * [Event Retro \(Sample\)](community/hosting-your-first-event/event-retro-sample.md)
