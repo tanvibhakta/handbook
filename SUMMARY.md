@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Our Playbook](README.md)
+* [An Introduction to our Playbook](README.md)
 
 ## Employee Handbook
 
