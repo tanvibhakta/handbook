@@ -14,9 +14,9 @@ There are several different types of events you can organise and each is ideal f
 
 #### **Things to Remember**
 
-1. All Events at Obvious are not for profit: All events at Obvious are not for financial profits. Most of the events will remain free of cost. We may occasionally have a small fee to cover speaker fees, or to cover the costs of materials/logistics of an event.
-2. Safe Spaces \(pull out content from code of conduct\)
-3. Diverse Speakers and Audiences
+1. **All Events at Obvious are not for profit:** All events at Obvious are not for financial profits. Most of the events will remain free of cost. We may occasionally have a small fee to cover speaker fees, or to cover the costs of materials/logistics of an event.
+2. **Safe Spaces:** We do not tolerate harassment of community members in any form. For more information on our policies of safe spaces, you can look read through our code of conduct that will be enforced throughout the event
+3. **Diverse Speakers and Audiences:** We want to encourage participation from a variety of diverse backgrounds. We want to hear different voices and different perspectives on the same concepts. 
 
 ### Step 2: Sweat the details
 
