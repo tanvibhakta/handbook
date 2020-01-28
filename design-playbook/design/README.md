@@ -1,2 +1,0 @@
-# Our Design Practice
-

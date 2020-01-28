@@ -48,14 +48,6 @@
   * [Team Conversations](employee-handbook/conversations/team-conversations.md)
   * [Feedback Conversations](employee-handbook/conversations/feedback-conversations.md)
 
-## Design Playbook
-
-* [Working with Our Design Team](design-playbook/starting-a-design-engagement.md)
-* [Our Design Practice](design-playbook/design/README.md)
-  * [The Design Sprint](design-playbook/design/the-design-sprint.md)
-  * [The Design Relay](design-playbook/design/relay.md)
-  * [The Design Marathon](design-playbook/design/the-design-marathon.md)
-
 ## Engineering Playbook
 
 * [Our Engineering Philosophy](engineering-playbook/engineering.md)
