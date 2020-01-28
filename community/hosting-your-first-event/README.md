@@ -15,10 +15,10 @@ There are several different types of events you can organise and each is ideal f
 #### **Things to Remember**
 
 1. **All Events at Obvious are not for profit:** All events at Obvious are not for financial profits. Most of the events will remain free of cost. We may occasionally have a small fee to cover speaker fees, or to cover the costs of materials/logistics of an event.
-2. **Safe Spaces:** We do not tolerate harassment of community members in any form. For more information on our policies of safe spaces, you can look read through our code of conduct that will be enforced throughout the event
+2. **Safe Spaces:** We do not tolerate harassment of community members in any form. For more information on our policies of safe spaces, you can look read through our [code of conduct](https://playbook.obvious.in/employee-handbook/employment-policies/code-of-conduct) that will be enforced throughout the event.
 3. **Diverse Speakers and Audiences:** We want to encourage participation from a variety of diverse backgrounds. We want to hear different voices and different perspectives on the same concepts. 
 
-### Step 2: Sweat the details
+### Step 2: Sweat the small stuff!
 
 Name the event, select a date, timing and target audience. Also identify two points of contact for the attendees apart from yourself. 
 
@@ -50,7 +50,7 @@ If applicable, be explicit about children being allowed at the venue.
 
 This includes a calendar invite for all Obvious employees. Make the RSVP mandatory for invites to Obvious employees.
 
-Maintaining a repository of all attendees. We will keep a record of everyone who comes to the office for the event so that we can add them to our mailing list and also avoid gate crashers. This can go onto Mailchimp or some similar service. We should ensure that people opt-in, and we don’t mandate that they have to share their contact information.
+Maintaining a repository of all attendees. We will keep a record of everyone who comes to the office for the event so that we can add them to our mailing list -- though do ensure that people opt-in, and we don’t mandate that they have to share their contact information.
 
 Keep in mind that:
 
@@ -70,7 +70,7 @@ The event link will be shared on
 
 ### Step 5: Logistics
 
-Luckily, the admin team at Obvious is excellent and we already have the basic requirements set-up. This includes stationary - which is always in stock at the stationary desk and a projector that has been set up with a screen in the cafeteria.
+Luckily, the admin team at Obvious is excellent and we already have the basic requirements set-up. This includes stationery - which is always in stock at the stationery desk and a projector that has been set up with a screen in the cafeteria.
 
 The only thing you’ll really have to plan is food. We have two standard caterers. 
 
@@ -81,14 +81,14 @@ You can contact Cookifi at +91 82493 92586, for large events that need a variety
 1. Confirm all speakers/organizers one day before the event & also keep a back-up plan.
 2. If they have presentations, make sure you have them tested on your laptop at least a day in advance. 
 3. Set up the space with the help of Obvious employees and staff.
-4. We have name tag stickers that you can use if you would like to. You can find them at the stationary desk. 
-5. Set up a medium to collect feedback from attendees. 
+4. We have name tag stickers that you can use if you would like to. You can find them at the stationery desk. 
+5. Set up a way to collect feedback from attendees. 
 
 ### Step 7: On the day of the event
 
-Be present at the venue on the day of the event. Be half an hour before it begins to make sure that everything is in place and to greet early guests.
+Be present at the venue on the day of the event, ideally 45 minutes to an hour before it begins, to make sure that everything is in place and to greet early guests.
 
-Use your laptop to collect emails and mark out registration.
+Use your laptop to collect emails and mark off registration.
 
 ### Step 8: Post Event
 
