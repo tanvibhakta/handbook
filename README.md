@@ -6,7 +6,7 @@ One of our core values is to be "**public by default**": this repository therefo
 
 | Table of Contents |
 | :--- |
-| [Employee Handbook](./) |
+| [Employee Handbook](employee-handbook/introduction/) |
 | [Design Playbook](https://design.obvious.in/) |
 | [Engineering Playbook](https://engineering.obvious.in/) |
 | [Hiring Playbook](https://hiring.obvious.in/) |
