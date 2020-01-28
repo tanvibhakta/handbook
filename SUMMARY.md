@@ -85,6 +85,13 @@
     * [Why we do not have data structures and problem solving rounds](hiring/hiring-process/engineering-hiring/why-we-do-not-have-problem-solving-rounds.md)
 * [The Obvious Fellowship](hiring/fellowship.md)
 
+## Community
+
+* [Community events at Obvious](community/community-events-at-obvious.md)
+* [Hosting your first event](community/hosting-your-first-event/README.md)
+  * [Inviting Speakers \(Template\)](community/hosting-your-first-event/inviting-speakers-template.md)
+  * [Event Retro \(Sample\)](community/hosting-your-first-event/event-retro-sample.md)
+
 ## Career Growth
 
 * [Design Growth Framework](career-growth/design-growth-framework.md)
