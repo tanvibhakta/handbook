@@ -92,11 +92,11 @@ description: Creating a Safe Environment for Performance Reviews
       <td style="text-align:left">If they say yes, them naming someone they feel is &#x201C;in their corner&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Do NOT: Make jokes about &#x201C;Tomorrow, we&#x2019;ll see what happens&#x201D;</td>
-      <td
-      style="text-align:left">It might be a joke for you and a kernel of doubt in their head is all
+      <td style="text-align:left"><b>Do NOT:</b> Make jokes about &#x201C;Tomorrow, we&#x2019;ll see what
+        happens&#x201D;</td>
+      <td style="text-align:left">It might be a joke for you and a kernel of doubt in their head is all
         you need to set off future fires</td>
-        <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>### Starting the conversation:   
