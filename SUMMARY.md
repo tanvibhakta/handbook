@@ -64,6 +64,7 @@
 * [Engineering Growth Framework](career-growth/engineering-growth-framework.md)
 * [Evaluations Guide](career-growth/evaluations-guide.md)
 * [Assessment Cycles](career-growth/assessment-cycles.md)
+* [Evaluation Conversation Guide](career-growth/evaluation-conversation-guide.md)
 * [Underperformance](career-growth/underperformance/README.md)
   * [Coaching](career-growth/underperformance/coaching.md)
   * [Performance Improvement Plan \(PIP\)](career-growth/underperformance/performance-improvement-plan-pip/README.md)
