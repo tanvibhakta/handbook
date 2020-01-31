@@ -88,6 +88,7 @@
 
 * [Good People to Work With](miscellaneous/good-people-to-work-with.md)
 * [The Obvious Library](miscellaneous/the-obvious-library.md)
+* [Brand Guidelines](miscellaneous/brand-guidelines.md)
 
 ## Elsewhere
 
