@@ -53,6 +53,7 @@
 * [Our Hiring Philosophy](hiring/hiring-philosophy/README.md)
   * [Diversity and Hiring](hiring/hiring-philosophy/diversity-and-sourcing-candidates.md)
 * [Our Hiring Process](hiring/hiring-process/README.md)
+  * [Design Hiring](hiring/hiring-process/design-hiring.md)
   * [Engineering Hiring](hiring/hiring-process/engineering-hiring/README.md)
     * [Evaluating a take-home exercise](hiring/hiring-process/engineering-hiring/scoring-a-take-home-exercise.md)
     * [Why we do not have data structures and problem solving rounds](hiring/hiring-process/engineering-hiring/why-we-do-not-have-problem-solving-rounds.md)
