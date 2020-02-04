@@ -14,7 +14,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone.
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 3-4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone.
 
 In general, you must have demonstrated a "Conscious, Comfortable, Continuous, Consistent Competency" defined as follows:
 
@@ -175,7 +175,7 @@ Each milestone is significantly harder to cross than the previous one, which is 
 | 4 | 12 |
 | 5 | 20 |
 
-Through a 360 degree evaluation process, every individual at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
+Through a 360 degree evaluation process, every individual at Obvious is assessed across the 11 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
 | **Points** | **Level** |
 | :--- | :--- |

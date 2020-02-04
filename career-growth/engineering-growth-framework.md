@@ -14,7 +14,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. 
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 3-4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone. 
 
 In general, you must have demonstrated a "Conscious, Comfortable, Continuous, Consistent Competency" defined as follows:
 
@@ -364,7 +364,7 @@ During evaluation, if it appears that an engineer is between milestones, then th
 
 Some engineers may find that they exhibit some of the example behaviours at a later milestone without exhibiting all of the example behaviours at an earlier milestone. _This is to be expected!_ At the earlier stages of an engineer’s career, they are limited to simple contributions. Engineers with more experience can typically contribute in higher leverage ways which supersede those simpler tasks, meaning they no longer do them. It is assumed they could do them, _should_ they be required to.
 
-Through a 360 degree evaluation process, everyone at Obvious is assessed across the 12 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
+Through a 360 degree evaluation process, everyone at Obvious is assessed across the 11 different skills and assigned points in each skill based on the milestone they've crossed. The cumulative sum of these points forms a score, which corresponds to a level in our career ladder.
 
 | **Points** | **Level**       |
 | :---: | :--- |
