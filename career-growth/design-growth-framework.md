@@ -14,7 +14,7 @@ This framework is inspired by the fantastic [work done by the folks at Medium](h
 
 ## The Framework
 
-The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 3-4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone.
+The framework is divided into 3 parts - **Creating**, **Executing** and **Supporting**, each of which has 4 different skills. Each skill is further divided into 5 different milestones. As you go deeper, or take on more responsibilities, you cross a milestone.
 
 In general, you must have demonstrated a "Conscious, Comfortable, Continuous, Consistent Competency" defined as follows:
 
