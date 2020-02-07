@@ -1,3 +1,9 @@
+---
+description: >-
+  We value hiring people whose personal values align with our company values,
+  while also adding something unique to our teams. Here is how we do it.
+---
+
 # Design Hiring
 
 ## Step 1 -  Answer the "Opinion Questions"
