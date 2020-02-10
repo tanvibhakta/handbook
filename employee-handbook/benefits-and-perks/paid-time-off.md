@@ -6,16 +6,10 @@ A great example of taking time off is an Obvious-er taking a day to do some spri
 
 ## Types of Time Off
 
-1. Casual and Sick Leave: **15 days**
-2. [Mandatory State/National Holidays](holiday-list.md)
-3. [Winter Break](holiday-list.md)
-4. Menstrual Leave
-5. [Parental Leave](parental-leave.md)
-6. Bereavement Leave
-
-### Winter Break
-
-Obvious takes a Winter Break each year. For 2019, the Winter Break is December 24 – December 31. These deductions are automatic—you don’t need to submit any requests for time away.
+1. [Paid Leaves](holiday-list.md)
+2. [Parental Leave](parental-leave.md)
+3. Menstrual Leave
+4. Bereavement Leave
 
 ### Menstrual Leave
 
@@ -23,7 +17,7 @@ Obvious offers paid menstrual leave for anyone who needs it, no questions asked.
 
 ### Bereavement Leave
 
-Any employee who wishes to take time off due to the death of an immediate family member should do so. Paid bereavement leave will be granted up to 15 consecutive days for the death of a family member including the following: spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
+Any employee who wishes to take time off due to the death of an immediate family member should do so. Paid bereavement leave will be granted up to 15 consecutive days for the death of a loved one/family member including the following: spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, or sibling.
 
 ## Communicating Your Time Off
 

@@ -66,7 +66,7 @@ Bring up things that are in the back of your mind. Maybe you do not know exactly
 
 Hopefully, you already provide your manager with immediate, personal one-on-one feedback regularly, whether after a meeting, privately, or through written communication. However, sometimes you might need more time. Use these meetings to give advice on how your manager can impact you directly. Also, use this time to follow up on previous advice you gave your manager to let them know how it is going.
 
-We recommend using the [Situation → Behaviour → Impact \(SBI\)](one-on-ones.md#situation-greater-than-behaviour-greater-than-impact-model) model. Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
+We recommend using the Situation → Behaviour → Impact \(SBI\) model. Tell your manager what impact, both positive and negative, their behaviour had on you in the context of a particular situation.
 
 #### What can the manager do more of?
 

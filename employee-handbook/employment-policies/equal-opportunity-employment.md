@@ -23,5 +23,5 @@ When necessary, the company will reasonably accommodate employees and applicants
 
 #### See Also:
 
-{% page-ref page="../how-we-work/diversity-and-sourcing-candidates.md" %}
+{% page-ref page="../../hiring/hiring-philosophy/diversity-and-sourcing-candidates.md" %}
 
